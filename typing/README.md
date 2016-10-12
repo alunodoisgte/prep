@@ -1,7 +1,7 @@
 # [⏪ Attain 24 Words Per Minute Typing](/README.md)
 
-**Typing is the most important skill of a programmer.** (The next
-most important is reading.) Unless you have a physical disability
+**Reading is the most important skill of a programmer.** (The next
+most important is typing.) Unless you have a physical disability
 you must type at least 24 words per minute before moving to
 *Fundamentals*. There are many places online to practice, which you
 can Google, but the test must be on

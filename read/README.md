@@ -4,9 +4,11 @@
 
 ![](/assets/reading.gif)
 
-Congratulations you are reading this! The most important programming
-skill is actually reading. Get as much practice as you can and make
-sure to give your eyes a rest often by looking at something far away.
+Congratulations you are reading this! *The most important programming
+skill is actually reading.* ([Typing](/typing/README.md) is the
+second most important.) Get as much practice as you can and make
+sure to give your eyes a rest often by looking at something far
+away.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
