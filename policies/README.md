@@ -31,7 +31,7 @@ facility will result in immediate dismissal and possible prosecution.
 ## Violation of Privacy, Information Theft
 
 Accessing or attempting to access any information from any other
-student or staff member without their consent including code, art,
+student or staff member—that they have not already released to open source or public domain—without their consent including code, art,
 passwords, or other personal information will result in immediate
 dismissal from the school and a strong possibility of prosecution.
 
@@ -40,8 +40,15 @@ dismissal from the school and a strong possibility of prosecution.
 > of SkilStak™ and prosecuted. That would be a horrible start to your
 > career. Also be careful not to even put any such code on GitHub
 > or any system for which SkilStak™ pays hosting fees because this
-> not only jeapordizes your career, it brings legal scrutiny on the school
+> not only jeopardizes your career, it brings legal scrutiny on the school
 > and everyone who works and attends.
+
+Also, be aware that anything you put into GitHub is considered open
+and most assume they can use it without problem. If you do *not*
+want your GitHub repo source code used by another make sure to
+create a license saying so in that repo. Most here are fine, however,
+because all our course work is now private in GitHub Classroom
+workbook repos.
 
 ## No Refunds
 
