@@ -4,7 +4,7 @@ Learning how to communicate while you are here is very important
 to avoid misunderstanding, so let's go over the methods of communication
 we use.
  
-## Learn to Communicate for Yourself
+## [⏫ Learn to Communicate for Yourself](#)
 
 As soon as possible we want you to learn to communicate for yourself.
 Without communication skills none of the other programming and tech
@@ -18,7 +18,7 @@ telling your boss you were sick or otherwise could not come in to
 work. We expect the same of our *Pros*. Best to get into the habit
 as early as possible.
 
-## Urgent, Immediate: Use the Phone of Text
+## [⏫ Urgent, Immediate: Use the Phone of Text](#)
 
 Your location has a phone number that will always allow you or your
 parents to immediately and directly communicate with the that
@@ -28,12 +28,12 @@ do our best to answer every text of phone message immediately. Take a
 moment to write down your locations phone number if you don't already
 have it:
 
-## Announcements and Info: Use Site and Slack #news
+## [⏫ Announcements and Info: Use Site and Slack #news](#)
 
 If you want to see if we are open over a particular holiday you might
 just check your locations web site. Look for the yearly calendar.
 
-## Help and Ideas: Slack
+## [⏫ Help and Ideas: Slack](#)
 
 If you have a question about a level in CodeCombat or any course
 material Slack is the place to be. Dozens of other students are there
@@ -51,7 +51,7 @@ Our Slack room for every location is invite-only so you will have to
 have your instructor, assistant, or location manager send you an
 invite.
 
-## Enrollment and Makeups: Use Email
+## [⏫ Enrollment and Makeups: Use Email](#)
 
 Email will always be the primary method of registration for any
 SkilStak location and is processed by the location manager combined
@@ -59,7 +59,7 @@ with PayPal invoicing. You, as a student, might not care about that,
 but your parents will. Having an email history has proven the most
 personable and least error prone approach.
 
-## Consultation: Email and Drop In
+## [⏫ Consultation: Email and Drop In](#)
 
 Sometimes speaking in person is the right thing to do. When that is
 the case please send an email setting up a time and the location
@@ -67,7 +67,7 @@ manager will be happy to meet with you as soon as can be scheduled.
 Usually this will not be during the break between classes due to the
 amount of activity requiring the manager's attention during that time.
 
-## General News and Information
+## [⏫ General News and Information](#)
 
 You will get a newsletter through the mailing list once a month
 containing general news and information about changes to schedules,

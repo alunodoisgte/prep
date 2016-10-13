@@ -31,27 +31,27 @@ programming online. Let's create an account, or two.
 > offerings out there.
 
 
-## Select “Play Now”
+## [⏫ Select “Play Now”](#)
 
 ![](/assets/coco1.png)
 
-## Select “Sign Up”
+## [⏫ Select “Sign Up”](#)
 
 ![](/assets/coco2.png)
 
-## “Sign up as an individual”
+## [⏫ “Sign up as an individual”](#)
 
 ![](/assets/coco3.png)
 
-## Decide Birthday to Use
+## [⏫ Decide Birthday to Use](#)
 
 ![](/assets/coco4.png)
 
-## Do NOT Connect with Facebook or Google!
+## [⏫ Do NOT Connect with Facebook or Google!](#)
 
 ![](/assets/coco5.png)
 
-## Create Two Accounts
+## [⏫ Create Two Accounts](#)
 
 When you [picked your primary technology path](#-pick-a-path), you also
 picked the main language you will learn in CodeCombat, Python or
@@ -65,7 +65,7 @@ from easily switching between the different languages.
 
 ![](/assets/coco6.png)
 
-## Repeat
+## [⏫ Repeat](#)
 
 Now that you have completed the steps to signup for one account,
 say `+py`, do them again for an account for the other language, say
@@ -73,11 +73,11 @@ say `+py`, do them again for an account for the other language, say
 you work on both if you have extra time or want to work on more at
 home.
 
-## “Start Playing”
+## [⏫ “Start Playing”](#)
 
 ![](/assets/coco7.png)
 
-## Start the Dungeon
+## [⏫ Start the Dungeon](#)
 
 ![](/assets/coco8.png)
 ![](/assets/coco9.png)

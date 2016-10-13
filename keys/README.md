@@ -7,7 +7,7 @@ understand what is being setup so you can come back to it
 later—especially if you would ever like to become a teacher assistant,
 instructor, or productive professional developer.
 
-## Secret Decoder Rings
+## [⏫ Secret Decoder Rings](#)
 
 GitHub keys are sort of like a master magic message decoder ring and
 a bunch of rings you could give others to communicate with you
@@ -21,7 +21,7 @@ you and send you secret messages. No one could read each others’
 messages. Communication is just between you and each individual club
 member.
 
-## Secure Shell Keys
+## [⏫ Secure Shell Keys](#)
 
 GitHub uses Secure Shell primarily for keys. There is a ***private***
 key and a ***public*** key. You can give the public key to whomever
@@ -37,7 +37,7 @@ entire time at SkilStak™ it is worth understanding what is happening
 so you can refer to it later when trying to do it for your own
 machines, work computers, or other schools.
 
-## Create a Key Pair with `ssh-keygen`
+## [⏫ Create a Key Pair with `ssh-keygen`](#)
 
 Enter the `ssh-keygen` command to create a key pair. Just accept
 all the defaults by typing enter. (Later you can add a passphrase
@@ -47,7 +47,7 @@ directory.
 
 ![](/assets/ssh-keygen.gif)
 
-## Copy Your Public Key
+## [⏫ Copy Your Public Key](#)
 
 You can list your keys with `ls .ssh`. Notice one is `id_rsa.pub`.
 That is the public one. We need to copy the content of that key into
@@ -58,14 +58,14 @@ selected text or using `⌘-c` keyboard shortcut.
 
 ![](/assets/copy-pubkey.gif)
 
-## Paste Public Key into GitHub Settings
+## [⏫ Paste Public Key into GitHub Settings](#)
 
 Now we have to give GitHub our public key by adding it to the SSH
 section of our *Settings*.
 
 ![](/assets/keys-in-github.gif)
 
-## Test
+## [⏫ Test](#)
 
 To test attempt to connect to github.com using ssh with `ssh
 git@github.com`. You will get a polite denial letting your know there
@@ -74,7 +74,7 @@ and such.
 
 ![](/assets/ghping.gif)
 
-## Clone a Repo
+## [⏫ Clone a Repo](#)
 
 The process of getting a copy of a repo is called *cloning* in `git`
 and GitHub. The URL is rather long, but thankfully GitHub makes it
@@ -86,7 +86,7 @@ redundant).
 
 ![](/assets/git-clone.gif)
 
-## Update Push Default
+## [⏫ Update Push Default](#)
 
 After you have made your changes inside the repo and are ready to save
 them for the day you run `save`. However, the first time you do this
@@ -95,7 +95,7 @@ paste the simple like as the default.
 
 ![](/assets/pushdefault.gif)
 
-## Update Profile Configuration
+## [⏫ Update Profile Configuration](#)
 
 Now when you save you will be reminded to set the `user.name` and
 `user.email` settings. These are used to give you that coveted green

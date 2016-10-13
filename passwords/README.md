@@ -11,14 +11,14 @@ If you regularly forget your password in Fundamentals you really
 need to return to Prep until have managed to work out a way not to
 forget.
 
-## Strategies
+## [⏫ Strategies](#)
 
 Beyond memorizing passwords or even having them all be the same, which
 rarely works for a long time, consider creating a notebook or piece of
 paper that you bring with you to class, or take a picture of it with
 your phone. Don't forget a backup.
 
-## Google Password Recovery
+## [⏫ Google Password Recovery](#)
 
 **The most important password of all is your Google/Gmail password.**
 All other passwords can be recovered by opening  up your email and

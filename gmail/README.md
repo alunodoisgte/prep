@@ -12,7 +12,7 @@ gmail account. Later, if you really want, you can forward your Gmail
 to your other account (but we strongly recommend picking
 a Gmail address to use for the rest of your technology life).
 
-## 13 and Up
+## [⏫ 13 and Up](#)
 
 ***If you are under 13 you are not legally allowed to have a Gmail
 account.*** Your parents *are* allowed to have an account, however.
@@ -24,7 +24,7 @@ let you use it.
 
 ![](/assets/gmail-age.png)
 
-## Your Most Important Password
+## [⏫ Your Most Important Password](#)
 
 Gmail is the most important account and password information that you
 remember. This is because you can forget the passwords and login
@@ -37,7 +37,7 @@ recovery option, preferrably a phone number.***
 
 ![](/assets/gmail-recovery.png)
 
-## Multiple Gmail Accounts
+## [⏫ Multiple Gmail Accounts](#)
 
 One of the main reasons Gmail makes the most sense is its support of
 *multiple gmail account names*.

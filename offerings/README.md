@@ -18,7 +18,7 @@ Each has a general focus and different prices depending on the
 location. (While we try to maintain our prices nationally we recognize
 there are different costs of living depending on the location.)
 
-## Level 1: Preparation
+## [⏫ Level 1: Preparation](#)
 
 *[Play][]*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 
@@ -29,7 +29,7 @@ to anything they can be taken more than once, but are billed at the
 *Preparation* tier. *Prep* and *Play* can also be taken more than once
 but *Prep* is generally only needed for one semester (or less).
 
-## Level 2: Proficiency
+## [⏫ Level 2: Proficiency](#)
 
 Proficiency means being able to show that you are able to do
 something, that you are competent, that you know the Fundamentals
@@ -81,7 +81,7 @@ you are practicing and see if you can do more. It really is just
 as simple as that. If you want to get good, you have to practice.
 The sooner you learn that hard lesson the better.
 
-### Certified Mastery
+### [⏫ Certified Mastery](#)
 
 You don’t leave the *Proficiency* level until you [certify][]
 that you have gained proficiency in either *[Python][]* or
@@ -91,7 +91,7 @@ think about it, the more you will realize any organization that is
 setup to advance students based on age and grade on a certain time
 table is, well, flawed. Everyone is different.
 
-## Level 3: Project
+## [⏫ Level 3: Project](#)
 
 This level is for **exploration and specialization**.  Montessori
 has championed the idea that projects foster independence,
@@ -113,7 +113,7 @@ for more than one time during the week and usually there is one day
 during the week with two *Projects* slots back to back creating a
 3-hour block for those that want to sign up for both.
 
-### Main Focus Categories
+### [⏫ Main Focus Categories](#)
 
 Currently there are five categories, each with a
 [certification](http://certify.skilstak.io) prerequisite. Read more
@@ -144,7 +144,7 @@ in a *Projects* class for convenience. Sometimes one *Projects*
 time will be dedicated to just one category and appear with that
 category name on the schedule.
 
-### Custom Projects
+### [⏫ Custom Projects](#)
 
 In addition to the *main focus categories* we encouraged students
 to come up with their own, (with the help of their mentor/instructor).
@@ -171,7 +171,7 @@ really solidify your mastery of programming and your specialization.
 Eventually you might want to pitch one or more of your current or
 future projects for the *Professional Incubator Program*.
 
-## Level 4: Professionals
+## [⏫ Level 4: Professionals](#)
 
 Currently there is only one course at this level: [*Professional Incubator
 Program*][Pro]. 

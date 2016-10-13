@@ -6,7 +6,7 @@ since other stuff builds on top of it. You can always change the
 path later or do both paths, but for now pick either ***Web*** or
 ***Python***. 
 
-## Python
+## [⏫ Python](#)
 
 The *Python* path leads to [*Engineering*][eng], [*Linux*][linux],
 [*Programming Languages*][lang], and [*Data Science*][data] focus
@@ -30,7 +30,7 @@ of other applications like Photoshop, Blender and others.
 The *Python* path takes less time because it is only one language,
 not three.
 
-## Web
+## [⏫ Web](#)
 
 The *Web* path leads to [*Game*][game], [*Apps*][apps], [*Programming
 Languages*][lang], and [*Database*][data] focus categories in the

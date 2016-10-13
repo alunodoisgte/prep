@@ -12,7 +12,7 @@ the computer in a way that can be repeated.
 
 [code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
-## Coding or Programming?
+## [⏫ Coding or Programming?](#)
 
 To be purely pedantic, *coding* is **not** *programming*, but
 *programming* ***is*** *coding*. HTML, for example, is Hyper-Text
@@ -24,7 +24,7 @@ probably not programming. We prefer the term coding because a lot
 of coding is creating the framework and content for how stuff should
 appear—especially web development.
 
-## Programming is Not Computer Science
+## [⏫ Programming is Not Computer Science](#)
 
 These terms get mixed up all the time. Most recently I heard about
 a high school club changing its name from the “Coding Club” to

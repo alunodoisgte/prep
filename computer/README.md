@@ -45,7 +45,7 @@ machine, another operating system. Doing this is extremely complicated
 for the average person to do. Keep in mind that using a virtual
 machine takes up more RAM and CPU than a normal application.
 
-## Developers Overwhelmingly Prefer Mac and Linux
+## [⏫ Developers Overwhelmingly Prefer Mac and Linux](#)
 
 Facts:
 
@@ -87,7 +87,7 @@ Even if you want or need Windows for software and games you can still
 get a Mac and Bootcamp it into Windows. The same is *not* true for
 a Windows machine.
 
-## So what do you have against Microsoft?
+## [⏫ So what do you have against Microsoft?](#)
 
 Microsoft dominates 3D at the moment but is a far inferior server
 operating system down to the very core mostly because it was not

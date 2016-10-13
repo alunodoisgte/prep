@@ -9,7 +9,7 @@ can Google, but the test must be on
 workbook including improvements as you make them, (which can actually
 be tracked through GitHub).
 
-## Do I have to do home-row typing?
+## [⏫ Do I have to do home-row typing?](#)
 
 You really should. While I have know typists to get into the 60 wpm
 range with just hunting and pecking, those who type in the 90 and

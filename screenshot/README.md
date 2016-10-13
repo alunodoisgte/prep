@@ -5,22 +5,22 @@ when designing a new app or program or writing up documentation.
 The best explanation of screen shots is at
 [take-a-screenshot.org](http://www.take-a-screenshot.org).
 
-## Mac
+## [⏫ Mac](#)
 
 ![](/assets/screenshot-mac.png)
 
 On Mac you can also use the [Skitch App](https://evernote.com/skitch/)
 to add arrows and annotations to your screenshots.
 
-## Linux
+## [⏫ Linux](#)
 
 ![](/assets/screenshot-linux.png)
 
-## Windows
+## [⏫ Windows](#)
 
 ![](/assets/screenshot-win.png)
 
-## Animated GIFs
+## [⏫ Animated GIFs](#)
 
 On Mac you can use the [GIPHY Capture
 App](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12).

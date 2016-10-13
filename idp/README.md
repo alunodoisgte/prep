@@ -12,7 +12,7 @@ focused. More importantly, if you do *not* have a plan you are at
 risk of just letting your life and career *happen* to you instead
 of taking charge of it.
 
-## A Conversation
+## [⏫ A Conversation](#)
 
 During class you will be going over these questions and reviewing them
 personally to yourself. Then your instructor and TA will talk to you
@@ -29,7 +29,7 @@ consider what you first reaction is, often it is the best:
 As you think about these things capture them by writing them down in
 your GitHub Classroom work repo.
 
-## Goals
+## [⏫ Goals](#)
 
 > You can’t get anywhere unless you know where you want to go.
 
@@ -42,7 +42,7 @@ some things to help you set good ones:
 * Is it relevant?
 * Is it timed?
 
-## Long Term Vision
+## [⏫ Long Term Vision](#)
 
 Don’t worry if you don’t know what you want to do or be later, but
 start to think about what you enjoy doing every day. What are you good
@@ -59,7 +59,7 @@ and moments in time when you changed your mind about something:
 
 **What do you want to do with your life?**
 
-## Come Back Often
+## [⏫ Come Back Often](#)
 
 You will be referring to this IDP a lot over your time here at
 SkilStak™. Make adjustments as you explore and discover new directions

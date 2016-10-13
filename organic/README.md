@@ -15,7 +15,7 @@ and changing.  We own it. We'll forget a lot along the way and there
 is always more to learn, always a better way to be discovered. There
 is no “I'm finished”, only “I’m finished for today”.
 
-## Learning is Messy
+## [⏫ Learning is Messy](#)
 
 Learning this way is messy. We start out in Prep with some organized
 approaches to get started, but the deeper learning comes as you let go

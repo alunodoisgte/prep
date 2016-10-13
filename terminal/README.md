@@ -6,19 +6,19 @@ in the fastest way possible using Spotlight, which is like Google for
 your Mac to find stuff. Get used to using it. It is much faster than
 navigating through folders in the file system.
 
-## `⌘ + Space` for Spotlight
+## [⏫ `⌘ + Space` for Spotlight](#)
 
 ![](/assets/login-mac1.gif)
 
-## Secure Shell Login to `skilstak.sh`
+## [⏫ Secure Shell Login to `skilstak.sh`](#)
 
 ![](/assets/login-mac.gif)
 
-## `⌘ + +/-` to Increase/Decrease Font Size
+## [⏫ `⌘ + +/-` to Increase/Decrease Font Size](#)
 
 ![](/assets/terminal-font-size.gif)
 
-## `⌘ + crtl + f` to Full Screen
+## [⏫ `⌘ + crtl + f` to Full Screen](#)
 
 ![](/assets/terminal-full-screen.gif)
 

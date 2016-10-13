@@ -8,14 +8,14 @@ is to ensure everyone learns the power of the command line as
 professional do. At this point you should already known how to connect
 with the [Terminal](/terminal/README.md) or [CodeAnywhere](/codeanywhere/README.md).
 
-## Login
+## [⏫ Login](#)
 
 After you login you will see the *message of the day*, which includes
 a reminder that you can type `h` to get the help from anywhere.
 
 ![](/assets/motd-h.png)
 
-## Help
+## [⏫ Help](#)
 
 Nope, it is not `help`, (which is used for something else by the
 system), it’s `h`.
@@ -25,7 +25,7 @@ system), it’s `h`.
 By the way, this is a little thing we added that is not normally there
 for SkilStak™ students.
 
-## List Files and Directories
+## [⏫ List Files and Directories](#)
 
 You probably know what a file is. A ***directory*** is another name
 for a folder and usually has a folder icon, but no icons on the
@@ -34,7 +34,7 @@ different colors. We will get to that in a minute.
 
 ![](/assets/ls.gif)
 
-## Long Listing
+## [⏫ Long Listing](#)
 
 If you add a `-l`, so `ls -l` (there’s a space there) it will show you
 the same thing, but in a longer listing. From this long listing you
@@ -44,14 +44,14 @@ files is a program that can be run and the other a plain text file.
 
 ![](/assets/ls-l.gif)
 
-## Long Listing of a Single File
+## [⏫ Long Listing of a Single File](#)
 
 You can isolate the `ls` command to just show one or more things. This
 time we just want to look at the `hello` program.
 
 ![](/assets/ls-l-hello.gif)
 
-## Long Listing of Everything
+## [⏫ Long Listing of Everything](#)
 
 Unix and Linux have a nice way of hiding stuff. This makes it less
 cluttered. Sometimes, however, you want to look at it all. That’s what
@@ -59,7 +59,7 @@ the `-a` is for, so `ls -la`.
 
 ![](/assets/ls-la.gif)
 
-## Clearing the Screen
+## [⏫ Clearing the Screen](#)
 
 At this point you screen is probably getting pretty cluttered up. The
 `clear` command does just that so you can start fresh. Don’t worry,
@@ -67,7 +67,7 @@ everything is still there.
 
 ![](/assets/clear.gif)
 
-## You are Here
+## [⏫ You are Here](#)
 
 The `pwd` command is for when you are wondering where you are. It
 stands for “print working directory” but just know that it shows you
@@ -75,7 +75,7 @@ the ***full path*** to where you are in the file system.
 
 ![](/assets/pwd.gif)
 
-## Make a Directory
+## [⏫ Make a Directory](#)
 
 Let’s make a directory to put our stuff in. In fact, let’s make the
 special `repos` directory that we all use at SkilStak™ to store our
@@ -86,21 +86,21 @@ GitHub repos.
 Notice as soon as we make it we change directories into it. The
 command is `cd repos` to do that.
 
-## Change Up One Directory
+## [⏫ Change Up One Directory](#)
 
 To change to the directory one level above where we are, sometimes
 called the *parent directory* use the special `..` directory:
 
 ![](/assets/cd-dotdot.gif)
 
-## Change to the Home Directory
+## [⏫ Change to the Home Directory](#)
 
 If you use `cd` without anything else it assumes you want to go back
 to start, to your home directory.
 
 ![](/assets/cd.gif)
 
-## Using Tab Completion
+## [⏫ Using Tab Completion](#)
 
 If you have played Minecraft at all they you have been well trained in
 tab completion. It is when you type tab to get the computer to help
@@ -116,7 +116,7 @@ you want.
 Understanding tab completion is the difference between a good command
 line magician and a freaking 25th level wizard. Get used to using it.
 
-## Change to User’s Home Directory
+## [⏫ Change to User’s Home Directory](#)
 
 If you have permission and want to use a shortcut to go to another
 user’s home directory put the user name after the tilde with no space.
@@ -126,7 +126,7 @@ user’s home directory put the user name after the tilde with no space.
 Notice we have set it up so you can’t peek at your neighbors by
 default.
 
-## Creating, Setting Permissions, and Editing a Script
+## [⏫ Creating, Setting Permissions, and Editing a Script](#)
 
 There is a lot in this step but we put it all together because you are
 going to be doing it a lot. 
@@ -147,25 +147,25 @@ After we close the file we can now simply run it. We get into more
 about what is in the file, including the shebang line, in the
 [Fundamentals in Python](http://pyfun.skilstak.io) course.
 
-## Renaming
+## [⏫ Renaming](#)
 
 For no particular reason let’s rename the file.
 
 ![](/assets/mv-hello-hi.gif)
 
-## Copying
+## [⏫ Copying](#)
 
 How about a copy?
 
 ![](/assets/cp-hi-nyan.gif)
 
-## Removing File
+## [⏫ Removing File](#)
 
 Now we can remove our `hi`.
 
 ![](/assets/rm-hi.gif)
 
-## Removing Directory 
+## [⏫ Removing Directory ](#)
 
 Now we can create a directory to put it in, only to delete it.
 
@@ -177,7 +177,7 @@ completely destroy the `dir`. If you mistakenly write the wrong `dir`
 or dots or worse you will irrecoverably destroy it. There is no
 undo! This is why they call it a command line.***
 
-## Editing Existing File
+## [⏫ Editing Existing File](#)
 
 Just point `vi` at the file. 
 
@@ -192,14 +192,14 @@ decades. **No other editor can make that claim, period.**
 
 ![](/assets/vim-essentials.png)
 
-## Save to GitHub
+## [⏫ Save to GitHub](#)
 
 This is all you need to `save` your work for now. This is actually
 several `git` commands combined to make it easier to start out.
 
 ![](/assets/save.gif)
 
-## Stop the Fish
+## [⏫ Stop the Fish](#)
 
 And before we go. Type `ctrl-c` to stop pretty much *anything*
 running on the command line, (although `vi` must be exited properly).
@@ -207,7 +207,7 @@ Start the fishes with `fish` and stop them with `ctrl-c`.
 
 ![](/assets/fish-ctrl-c.gif)
 
-## Just a Start
+## [⏫ Just a Start](#)
 
 This is just the tip of the iceberg. Learning command line will help
 you dominate technology and harness its power for you to make amazing

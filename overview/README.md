@@ -1,6 +1,6 @@
 # [⏪ Overview](/README.md)
 
-## Why Code?
+## [⏫ Why Code?](#)
 
 > Concepts: Code.org, Why Code?, Hour of Code, Coding
 
@@ -20,7 +20,7 @@ you should learn it.
 
 [![why-code](/assets/why-code.png)](https://youtu.be/dU1xS07N-FA)
 
-## What is Prep? 
+## [⏫ What is Prep? ](#)
 
 > Concepts: Class Format, Semester, Weekly Schedule
 
@@ -41,7 +41,7 @@ or [Fundamentals in Web](http://webfun.skilstak.io) then on to
 [Pro](http://pro.skilstak.io). Read more in *[Understanding Core
 Offerings](http://offerings.skilstak.io)*.
 
-## CodeCombat
+## [⏫ CodeCombat](#)
 
 > Concepts: CodeCombat.com, Computational Thinking, Real Programming,
 > Ignorance in Educational Institutions
@@ -81,7 +81,7 @@ of every class is dedicated to helping you through CodeCombat.
 
 [real]: http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education
 
-## Prep Skills 
+## [⏫ Prep Skills ](#)
 
 > Concepts: Prep Skills, Mastery, Advancement
 
@@ -100,7 +100,7 @@ and you can prove you are ready.
 
 [Read more about *Prep Skills*](/skills/README.md)
 
-## Prep Projects
+## [⏫ Prep Projects](#)
 
 > Concepts: Prep Projects, Project Based Learning
 
@@ -115,7 +115,7 @@ computers speak.
 
 [Read more about *Prep Projects*](/pproj/README.md)
 
-## Digital Recess
+## [⏫ Digital Recess](#)
 
 > Concepts: Digital Recess, Netiquette, Social Skills, Minecraft,
 > Agar.io, Class Progress Review

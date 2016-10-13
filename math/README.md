@@ -7,7 +7,7 @@ organizing solutions to problems. Finding the best and easiest way to
 take the steps to do something. These are skills that math, science,
 and engineering address.
 
-## You Can’t Program Without Math
+## [⏫ You Can’t Program Without Math](#)
 
 So, what does this mean for you? It means you have to understand basic
 Algebra math before taking Fundamentals. It does not matter how old
@@ -29,7 +29,7 @@ you play with in CodeCombat or Battleship.
 
 This kind of math is essential to even the most basic programming.
 
-## How To Learn
+## [⏫ How To Learn](#)
 
 There are a number of resources available online. Each appeals to
 people differently depending on their age. Ask your instructor to
