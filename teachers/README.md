@@ -26,18 +26,18 @@ OER movement continues and classrooms become more digital.
 7. [**Next**](#-next)
 8. [**Copyright**](#-copyright)
 
-## [⏫ Prerequisites](#table-of-contents)
+## [⏫ Prerequisites](#)
 
 * Be able to read
 * Be able to use a keyboard and mouse
 * Keyboard about 10 wpm
 
-## [⏫ Age](#table-of-contents)
+## [⏫ Age](#)
 
 The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
 
-## [⏫ Time](#table-of-contents)
+## [⏫ Time](#)
 
 The amount of time required to pass off the prep skills depends on
 the student’s work outside of class and age. Some students finish
@@ -48,14 +48,14 @@ remaining in Prep for the rest of the semester doing other activities
 (under Extra) but can move into Fundamentals immediately when they
 are ready if they wish.
 
-## [⏫ Rubrics](#table-of-contents)
+## [⏫ Rubrics](#)
 
 This course contains no rubrics since these differ greatly.
 SkilStak™ we prefer to simply check for completion and supplement. The
 workbook contains several review questions that students should answer
 as they `x` off their skills.
 
-## [⏫ Resources](#table-of-contents)
+## [⏫ Resources](#)
 
 Students need access to a **Bash command-line** on a computer that has
 had **`python3`** installed. Usually this will be through an **`ssh`**
@@ -65,7 +65,7 @@ individual Raspberry Pi computers, personal Linux laptops, virtual
 machines, or a remote virtual host such as [Digital
 Ocean](http://digitalocean.com).
 
-## [⏫ Other](#table-of-contents)
+## [⏫ Other](#)
 
 Prep is an adjustment period. Students become acclimated to the
 school, surroundings, students and instructors. Be very aware of this
@@ -81,13 +81,13 @@ make every classroom feel like a miniature Google-meets-MIT
 environment full of visual appeal and cool gadgets they can eventually
 make as they continue their learning.
 
-## [⏫ Next](#table-of-contents)
+## [⏫ Next](#)
 
 After completing this course students are ready to begin either
 SkilStak™ [Fundamentals in Python](http://pyfun.skilstak.io) or
 [Fundamentals in Web](http://webfun.skilstak.io)
 
-## [⏫ Copyright](#table-of-contents)
+## [⏫ Copyright](#)
 
 ![oer](/assets/oer.png)
 

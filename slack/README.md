@@ -30,7 +30,7 @@ reason we require learning it.
 6. [**Join the Prep Channel**](#-join-the-prep-channel)
 7. [**Accept the Prep Work Repo Invite**](#-accept-the-prep-work-repo-invite)
 
-## [⏫ Get an Invite](#table-of-contents)
+## [⏫ Get an Invite](#)
 
 Because we use a private repo (for obvious reasons) you'll need an
 invite from your instructor, teacher assistant, or location manager.
@@ -38,32 +38,32 @@ Here's what it looks like in your in box:
 
 ![](/assets/slack1.png)
 
-## [⏫ Join Your Team](#table-of-contents)
+## [⏫ Join Your Team](#)
 
 ![](/assets/slack2.png)
 ![](/assets/slack3.png)
 
-## [⏫ Set Your Password](#table-of-contents)
+## [⏫ Set Your Password](#)
 
 ![](/assets/slack4.png)
 
-## [⏫ Skip the Tutorial](#table-of-contents)
+## [⏫ Skip the Tutorial](#)
 
 If you like you can skip the tutorial for now.
 
 ![](/assets/slack5.png)
 
-## [⏫ Show All Channels](#table-of-contents)
+## [⏫ Show All Channels](#)
 
 ![](/assets/slack6.png)
 ![](/assets/slack7.png)
 
-## [⏫ Join the Prep Channel](#table-of-contents)
+## [⏫ Join the Prep Channel](#)
 
 ![](/assets/slack8.png)
 ![](/assets/slack9.png)
 
-## [⏫ Accept the Prep Work Repo Invite](#table-of-contents)
+## [⏫ Accept the Prep Work Repo Invite](#)
 
 Create your own workbook repo by clicking on the pinned invite in your
 slack chat room.
