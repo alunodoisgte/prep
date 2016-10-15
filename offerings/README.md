@@ -29,7 +29,7 @@ Click on the diagram to download a printable PDF.
 ## [⏫ Level 1: Preparation](#)
 
 > Concepts: Play, Prep, Yoga, NewMedia, Code.org, 
-> CodeCombat.com, Digital Recess, Gentle Introduction, Minecraft
+> CodeCombat.com, Digital Recess, Gentle Introduction
 
 *Play*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 

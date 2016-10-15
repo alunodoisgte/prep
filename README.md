@@ -57,7 +57,7 @@ please be patient and thorough.
 7. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Course Map Diagram**](offerings/README.md#user-content--course-map-diagram)
   2. [**Level 1: Preparation**](offerings/README.md#user-content--level-1-preparation)
-      <br>💡 Play ◦ Prep ◦ Yoga ◦ NewMedia ◦ Code.org ◦ CodeCombat.com ◦ Digital Recess ◦ Gentle Introduction ◦ Minecraft
+      <br>💡 Play ◦ Prep ◦ Yoga ◦ NewMedia ◦ Code.org ◦ CodeCombat.com ◦ Digital Recess ◦ Gentle Introduction
   3. [**Level 2: Proficiency**](offerings/README.md#user-content--level-2-proficiency)
       <br>💡 Fundamentals ◦ Certification ◦ Repetition ◦ Mastery ◦ Technology Path ◦ Python ◦ Web ◦ Digital Recess
   4. [**Level 3: Projects**](offerings/README.md#user-content--level-3-projects)
