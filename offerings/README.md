@@ -17,7 +17,7 @@ directional pillar? At the entrance?
  1. [**Fundamentals**](#user-content--fundamentals)
  2. [**Certified Mastery**](#user-content--certified-mastery)
 4. [**Level 3: Projects**](#user-content--level-3-projects)
- 1. [**FFocus Categories**](#user-content--ffocus-categories)
+ 1. [**Focus Categories**](#user-content--focus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
 5. [**Level 4: Professionals**](#user-content--level-4-professionals)
 
@@ -196,7 +196,7 @@ for more than one time during the week and usually there is one day
 during the week with two *Projects* slots back to back creating a
 3-hour block for those that want to sign up for both.
 
-### [⏫ FFocus Categories](#)
+### [⏫ Focus Categories](#)
 
 Currently there are five categories, each with a
 [certification](http://certify.skilstak.io) prerequisite. Read more
