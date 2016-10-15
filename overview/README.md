@@ -81,7 +81,7 @@ of every class is dedicated to helping you through CodeCombat.
 
 [real]: http://blog.codecombat.com/3-reasons-why-computational-literacy-is-ruining-coding-education
 
-## [⏫ Prep Skills ](#)
+## [⏫ Prep Skills](#)
 
 > Concepts: Prep Skills, Mastery, Advancement
 

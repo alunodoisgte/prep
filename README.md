@@ -29,7 +29,7 @@ please be patient and thorough.
       <br>💡 Class Format ◦ Semester ◦ Weekly Schedule
   3. [**CodeCombat**](overview/README.md#user-content--codecombat)
       <br>💡 CodeCombat.com ◦ Computational Thinking ◦ Real Programming ◦ Ignorance in Educational Institutions
-  4. [**Prep Skills **](overview/README.md#user-content--prep-skills)
+  4. [**Prep Skills**](overview/README.md#user-content--prep-skills)
       <br>💡 Prep Skills ◦ Mastery ◦ Advancement
   5. [**Prep Projects**](overview/README.md#user-content--prep-projects)
       <br>💡 Prep Projects ◦ Project Based Learning
