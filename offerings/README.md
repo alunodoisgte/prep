@@ -19,7 +19,9 @@ directional pillar? At the entrance?
 
 ## [⏫ Course Map Diagram](#)
 
-![](/assets/core-offerings.png)
+[![](/assets/core-offerings.png)](/assets/core-offerings.pdf)
+
+Click on the diagram to download a printable PDF.
 
 ## [⏫ Level 1: Preparation](#)
 
