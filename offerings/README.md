@@ -20,7 +20,9 @@ there are different costs of living depending on the location.)
 
 ## [⏫ Level 1: Preparation](#)
 
-*[Play][]*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
+> Concepts: Code and Play, Play, Yoga, NewMedia
+
+*Play*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 
 maintain your programming and other technical skills as you
 build them. Before you ask, yes Yoga and YouTube are technical
@@ -28,6 +30,25 @@ skills. While *Yoga* and *NewMedia* are listed without connection
 to anything they can be taken more than once, but are billed at the
 *Preparation* tier. *Prep* and *Play* can also be taken more than once
 but *Prep* is generally only needed for one semester (or less).
+
+### Code and Play™
+
+> Concepts: Code.org, Digital Recess, Camp
+
+This offering is the least intimidating and the most affordable.
+Designed particularly for younger students who have only been
+familiar with a keyboard for a short time, students spent half the
+time coding on [Code.org](http://code.org) and
+[CodeCombat.com](http://codecombat.com). The second half of each
+class is entirely dedicated to mini-projects and [*Digital
+Recess*](http://recess.skilstak.io).
+
+*Play* is held during the same time as *Prep* with the hope
+being students will see what the *Prep* students are doing and
+want to join in naturally helping them **progress from internal
+motivation** in a non-threatening way. This also makes it 
+convenient for families with young children of different ages 
+that both want to attend at the same time.
 
 ## [⏫ Level 2: Proficiency](#)
 
