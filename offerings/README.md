@@ -15,7 +15,7 @@ directional pillar? At the entrance?
  4. [**New Media**](#user-content--new-media)
 3. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
  1. [**Certified Mastery**](#user-content--certified-mastery)
-4. [**Level 3: Project**](#user-content--level-3-project)
+4. [**Level 3: Projects**](#user-content--level-3-projects)
  1. [**Main Focus Categories**](#user-content--main-focus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
 5. [**Level 4: Professionals**](#user-content--level-4-professionals)
@@ -156,21 +156,22 @@ think about it, the more you will realize any organization that is
 setup to advance students based on age and grade on a certain time
 table is, well, flawed. Everyone is different.
 
-## [⏫ Level 3: Project](#)
+## [⏫ Level 3: Projects](#)
 
 This level is for **exploration and specialization**.  Montessori
 has championed the idea that projects foster independence,
 accountability, internal drive, and ownership of one’s own learning.
 In that sense we agree a lot with the approach.
 
-We have prepared learning modules (projects) for different *main
-focus categories* and are constantly adding more. We also encourage
-you to explore things by creating your own learning projects with
+We have prepared several project textbook/workbook combinations for
+the different *main focus categories* and cataloged them for browsing
+and searching are constantly adding more. We also encourage you to
+explore things by creating and cataloging your own projects with
 the help of your mentor/instructor. Each project will have its own
 GitHub Classroom repo to archive and refer back to as well as a
 listing in your [SkilStak IDP](http://idp.skilstak.io).
 
-Project level courses can be taken repeatedly. Usually you will see
+The *Projects* course can be taken repeatedly. Usually you will see
 *Projects* on the weekly schedule when signing up. Sometimes you
 will see one of the *main focus categories* instead (*Engineering*,
 *Linux*, *Languages*, *Data*, *Apps*, *Game*). Students may register
