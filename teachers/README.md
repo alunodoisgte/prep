@@ -53,7 +53,7 @@ are ready if they wish.
 This course contains no rubrics since these differ greatly.
 At SkilStak™ we prefer to simply check for completion and supplement. The
 workbook contains several review questions that students should answer
-as they `x` off their skills.
+as they read and discuss the material.
 
 ## [⏫ Resources](#)
 
