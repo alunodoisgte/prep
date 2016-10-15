@@ -68,7 +68,7 @@ Ocean](http://digitalocean.com).
 ## [⏫ Other](#)
 
 Prep is an adjustment period. Students become acclimated to the
-school, surroundings, students and instructors. Be very aware of this
+school, surroundings, students, and instructors. Be very aware of this
 adjustment and take care to ensure the first impression is a good one
 and not frustration. There is a real danger of scaring students away
 from programming if they are pushed too hard or not allowed a fair
