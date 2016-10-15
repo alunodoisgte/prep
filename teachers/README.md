@@ -51,7 +51,7 @@ are ready if they wish.
 ## [⏫ Rubrics](#)
 
 This course contains no rubrics since these differ greatly.
-SkilStak™ we prefer to simply check for completion and supplement. The
+At SkilStak™ we prefer to simply check for completion and supplement. The
 workbook contains several review questions that students should answer
 as they `x` off their skills.
 
