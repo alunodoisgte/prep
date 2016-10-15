@@ -25,7 +25,7 @@ please be patient and thorough.
 1. [**Overview** (`overview`)](overview/README.md)
   1. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
-  2. [**What is Prep? **](overview/README.md#user-content--what-is-prep)
+  2. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
       <br>💡 Class Format ◦ Semester ◦ Weekly Schedule
   3. [**CodeCombat**](overview/README.md#user-content--codecombat)
       <br>💡 CodeCombat.com ◦ Computational Thinking ◦ Real Programming ◦ Ignorance in Educational Institutions

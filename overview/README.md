@@ -20,7 +20,7 @@ you should learn it.
 
 [![why-code](/assets/why-code.png)](https://youtu.be/dU1xS07N-FA)
 
-## [⏫ What is Prep? ](#)
+## [⏫ What is Prep?](#)
 
 > Concepts: Class Format, Semester, Weekly Schedule
 
