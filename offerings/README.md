@@ -17,7 +17,7 @@ directional pillar? At the entrance?
  1. [**Fundamentals**](#user-content--fundamentals)
  2. [**Certified Mastery**](#user-content--certified-mastery)
 4. [**Level 3: Projects**](#user-content--level-3-projects)
- 1. [**Main Focus Categories**](#user-content--main-focus-categories)
+ 1. [**FFocus Categories**](#user-content--ffocus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
 5. [**Level 4: Professionals**](#user-content--level-4-professionals)
 
@@ -169,7 +169,7 @@ table is, well, flawed. Everyone is different.
 ## [⏫ Level 3: Projects](#)
 
 > Concepts: Exploration, Specialization, Montessori-ish, Textbooks,
-> Workbooks, Main Focus Categories, Logging, Reporting, IDP,
+> Workbooks, Focus Categories, Logging, Reporting, IDP,
 > Data, Apps, Game, Languages, Linux, Engineering, Custom Projects
 
 This level is for **exploration and specialization**.  Montessori
@@ -178,7 +178,7 @@ accountability, internal drive, and ownership of one’s own learning.
 In that sense we agree a lot with the approach.
 
 We have prepared several project textbook/workbook combinations for
-the different *main focus categories* and cataloged them for browsing
+the different *focus categories* and cataloged them for browsing
 and searching are constantly adding more. We also encourage you to
 explore things by creating and cataloging your own projects with
 the help of your mentor/instructor. Each project will have its own
@@ -190,13 +190,13 @@ do in their GitHub workbooks.
 
 The *Projects* course can be taken repeatedly. Usually you will see
 *Projects* on the weekly schedule when signing up. Sometimes you
-will see one of the *main focus categories* instead (*Engineering*,
+will see one of the *focus categories* instead (*Engineering*,
 *Linux*, *Languages*, *Data*, *Apps*, *Game*). Students may register
 for more than one time during the week and usually there is one day
 during the week with two *Projects* slots back to back creating a
 3-hour block for those that want to sign up for both.
 
-### [⏫ Main Focus Categories](#)
+### [⏫ FFocus Categories](#)
 
 Currently there are five categories, each with a
 [certification](http://certify.skilstak.io) prerequisite. Read more
@@ -221,7 +221,7 @@ details about each by following the links:
 [Data]: http://data.skilstak.io
 [certify]: http://certify.skilstak.io
 
-Please don't confuse *main focus categories* with a course although
+Please don't confuse *focus categories* with a course although
 often students with a common focus category will be grouped together
 in a *Projects* class for convenience. Sometimes one *Projects*
 time will be dedicated to just one category and appear with that
@@ -229,7 +229,7 @@ category name on the schedule.
 
 ### [⏫ Custom Projects](#)
 
-In addition to the *main focus categories* we encouraged students
+In addition to the *focus categories* we encouraged students
 to come up with their own, (with the help of their mentor/instructor).
 For example:
 
