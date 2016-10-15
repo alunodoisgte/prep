@@ -107,6 +107,13 @@ mastery. The two *Fundamentals* courses at this level are designed
 to help you get proficient in coding, either in *[Python][]* or
 *[Web][]* depending on which *[technology path][]* you've chosen.
 
+### Fundamentals
+
+There are two courses at the *Proficiency* level:
+
+1. [Fundamentals in Python](http://pyfun.skiltak.io)
+2. [Fundamentals in Web](http://webfun.skilstak.io)
+
 This level is where things start getting more serious, but fun. Each
 90 minute course is divided into three parts:
 
