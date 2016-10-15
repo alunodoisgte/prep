@@ -98,6 +98,9 @@ Read more in the *[NewMedia textbook][NewMedia]*
 
 ## [⏫ Level 2: Proficiency](#)
 
+> Concepts: Fundamentals, Certification, Repetition,
+> Mastery, Technology Path, Python, Web, Digital Recess
+
 Proficiency means being able to show that you are able to do
 something, that you are competent, that you know the Fundamentals
 well. The greater your level of proficiency the closer you get to
@@ -158,6 +161,10 @@ table is, well, flawed. Everyone is different.
 
 ## [⏫ Level 3: Projects](#)
 
+> Concepts: Exploration, Specialization, Montessori-ish, Textbooks,
+> Workbooks, Main Focus Categories, Logging, Reporting, IDP,
+> Data, Apps, Game, Languages, Linux, Engineering, Custom Projects
+
 This level is for **exploration and specialization**.  Montessori
 has championed the idea that projects foster independence,
 accountability, internal drive, and ownership of one’s own learning.
@@ -170,6 +177,9 @@ explore things by creating and cataloging your own projects with
 the help of your mentor/instructor. Each project will have its own
 GitHub Classroom repo to archive and refer back to as well as a
 listing in your [SkilStak IDP](http://idp.skilstak.io).
+
+Students in *Projects* are required to log and report all the work they
+do in their GitHub workbooks.
 
 The *Projects* course can be taken repeatedly. Usually you will see
 *Projects* on the weekly schedule when signing up. Sometimes you
@@ -238,6 +248,10 @@ Eventually you might want to pitch one or more of your current or
 future projects for the *Professional Incubator Program*.
 
 ## [⏫ Level 4: Professionals](#)
+
+> Concepts: Incubator, Industry Professionals, Tech Forums, 
+> Tech Conferences, Giving Back, Community Involvement,
+> Resumes, Recruiting, Unlimited Attendance, Financial Backing
 
 Currently there is only one course at this level: [*Professional Incubator
 Program*][Pro]. 

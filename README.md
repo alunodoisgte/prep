@@ -59,8 +59,11 @@ please be patient and thorough.
   2. [**Level 1: Preparation**](offerings/README.md#user-content--level-1-preparation)
       <br>💡 Code and Play ◦ Play ◦ Yoga ◦ NewMedia ◦ Code.org ◦ Digital Recess ◦ Camp
   3. [**Level 2: Proficiency**](offerings/README.md#user-content--level-2-proficiency)
+      <br>💡 Fundamentals ◦ Certification ◦ Repetition ◦ Mastery ◦ Technology Path ◦ Python ◦ Web ◦ Digital Recess
   4. [**Level 3: Projects**](offerings/README.md#user-content--level-3-projects)
+      <br>💡 Exploration ◦ Specialization ◦ Montessori-ish ◦ Textbooks ◦ Workbooks ◦ Main Focus Categories ◦ Logging ◦ Reporting ◦ IDP ◦ Data ◦ Apps ◦ Game ◦ Languages ◦ Linux ◦ Engineering ◦ Custom Projects
   5. [**Level 4: Professionals**](offerings/README.md#user-content--level-4-professionals)
+      <br>💡 Incubator ◦ Industry Professionals ◦ Tech Forums ◦ Tech Conferences ◦ Giving Back ◦ Community Involvement ◦ Resumes ◦ Recruiting ◦ Unlimited Attendance ◦ Financial Backing
 8. [**Pick a Path** (`path`)](path/README.md)
   1. [**Python**](path/README.md#user-content--python)
   2. [**Web**](path/README.md#user-content--web)
