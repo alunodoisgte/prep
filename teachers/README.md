@@ -17,14 +17,14 @@ OER movement continues and classrooms become more digital.
 
 ## Table of Contents
 
-1. [**Prerequisites**](#-prerequisites)
-2. [**Age**](#-age)
-3. [**Time**](#-time)
-4. [**Rubrics**](#-rubrics)
-5. [**Resources**](#-resources)
-6. [**Other**](#-other)
-7. [**Next**](#-next)
-8. [**Copyright**](#-copyright)
+1. [**Prerequisites**](#user-content--prerequisites)
+2. [**Age**](#user-content--age)
+3. [**Time**](#user-content--time)
+4. [**Rubrics**](#user-content--rubrics)
+5. [**Resources**](#user-content--resources)
+6. [**Other**](#user-content--other)
+7. [**Next**](#user-content--next)
+8. [**Copyright**](#user-content--copyright)
 
 ## [⏫ Prerequisites](#)
 

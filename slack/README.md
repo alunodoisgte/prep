@@ -22,13 +22,13 @@ reason we require learning it.
 
 ## Table of Contents
 
-1. [**Get an Invite**](#-get-an-invite)
-2. [**Join Your Team**](#-join-your-team)
-3. [**Set Your Password**](#-set-your-password)
-4. [**Skip the Tutorial**](#-skip-the-tutorial)
-5. [**Show All Channels**](#-show-all-channels)
-6. [**Join the Prep Channel**](#-join-the-prep-channel)
-7. [**Accept the Prep Work Repo Invite**](#-accept-the-prep-work-repo-invite)
+1. [**Get an Invite**](#user-content--get-an-invite)
+2. [**Join Your Team**](#user-content--join-your-team)
+3. [**Set Your Password**](#user-content--set-your-password)
+4. [**Skip the Tutorial**](#user-content--skip-the-tutorial)
+5. [**Show All Channels**](#user-content--show-all-channels)
+6. [**Join the Prep Channel**](#user-content--join-the-prep-channel)
+7. [**Accept the Prep Work Repo Invite**](#user-content--accept-the-prep-work-repo-invite)
 
 ## [⏫ Get an Invite](#)
 
