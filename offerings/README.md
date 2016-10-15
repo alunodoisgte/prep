@@ -28,7 +28,8 @@ Click on the diagram to download a printable PDF.
 
 ## [⏫ Level 1: Preparation](#)
 
-> Concepts: Code and Play, Play, Yoga, NewMedia
+> Concepts: Play, Prep, Yoga, NewMedia, Code.org, 
+> CodeCombat.com, Digital Recess, Gentle Introduction, Minecraft
 
 *Play*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 
@@ -36,8 +37,6 @@ maintain your programming and other technical skills as you
 build them. 
 
 ### [⏫ Code and Play™](#)
-
-> Concepts: Code.org, Digital Recess, Camp
 
 This offering is the least intimidating and the most affordable.
 Designed particularly for younger students who have only been
