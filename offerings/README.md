@@ -5,18 +5,21 @@ pillar.  You know those “you are here” things with a star helping
 you see where you fit into it all. So where is your star on our
 directional pillar? At the entrance?
 
-![](/assets/core-offerings.png)
-
 ## Table of Contents
 
-1. [**Level 1: Preparation**](#user-content--level-1-preparation)
+1. [**Course Map Diagram**](#user-content--course-map-diagram)
+2. [**Level 1: Preparation**](#user-content--level-1-preparation)
  1. [**Code and Play™**](#user-content--code-and-play)
-2. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
+3. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
  1. [**Certified Mastery**](#user-content--certified-mastery)
-3. [**Level 3: Project**](#user-content--level-3-project)
+4. [**Level 3: Project**](#user-content--level-3-project)
  1. [**Main Focus Categories**](#user-content--main-focus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
-4. [**Level 4: Professionals**](#user-content--level-4-professionals)
+5. [**Level 4: Professionals**](#user-content--level-4-professionals)
+
+## [⏫ Course Map Diagram](#)
+
+![](/assets/core-offerings.png)
 
 ## [⏫ Level 1: Preparation](#)
 
