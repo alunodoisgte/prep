@@ -14,7 +14,8 @@ directional pillar? At the entrance?
  3. [**Yoga**](#user-content--yoga)
  4. [**New Media**](#user-content--new-media)
 3. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
- 1. [**Certified Mastery**](#user-content--certified-mastery)
+ 1. [**Fundamentals**](#user-content--fundamentals)
+ 2. [**Certified Mastery**](#user-content--certified-mastery)
 4. [**Level 3: Projects**](#user-content--level-3-projects)
  1. [**Main Focus Categories**](#user-content--main-focus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
@@ -107,7 +108,7 @@ mastery. The two *Fundamentals* courses at this level are designed
 to help you get proficient in coding, either in *[Python][]* or
 *[Web][]* depending on which *[technology path][]* you've chosen.
 
-### Fundamentals
+### [⏫ Fundamentals](#)
 
 There are two courses at the *Proficiency* level:
 
