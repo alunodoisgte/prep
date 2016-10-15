@@ -93,7 +93,7 @@ SkilStak™ [Fundamentals in Python](http://pyfun.skilstak.io) or
 
 This course is copyright [SkilStak™, Inc.][skilstak] and released
 under the Creative Commons Attribution-ShareAlike 4.0 International
-License. You [should have received a copy of the license](LICENSE.md)
+License. You [should have received a copy of the license](/LICENSE.md)
 with this work. If not, see
 [http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
 
