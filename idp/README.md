@@ -12,6 +12,13 @@ focused. More importantly, if you do *not* have a plan you are at
 risk of just letting your life and career *happen* to you instead
 of taking charge of it.
 
+## Table of Contents
+
+1. [**A Conversation**](#user-content--a-conversation)
+2. [**Goals**](#user-content--goals)
+3. [**Long Term Vision**](#user-content--long-term-vision)
+4. [**Come Back Often**](#user-content--come-back-often)
+
 ## [⏫ A Conversation](#)
 
 During class you will be going over these questions and reviewing them
