@@ -20,6 +20,11 @@ directional pillar? At the entrance?
  1. [**Focus Categories**](#user-content--focus-categories)
  2. [**Custom Projects**](#user-content--custom-projects)
 5. [**Level 4: Professionals**](#user-content--level-4-professionals)
+ 1. [**Incubator**](#user-content--incubator)
+ 2. [**Invite Only**](#user-content--invite-only)
+ 3. [**Projects SkilStak™ Most Wants to See Built**](#user-content--projects-skilstak-most-wants-to-see-built)
+ 4. [**Higher Expectations**](#user-content--higher-expectations)
+ 5. [**Unlimited Access**](#user-content--unlimited-access)
 
 ## [⏫ Course Map Diagram](#)
 
@@ -261,7 +266,7 @@ future projects for the *Professional Incubator Program*.
 > Resumes, Recruiting, Unlimited Attendance, Financial Backing,
 > Freelance Support, Client Work, Agile Management
 
-### Incubator
+### [⏫ Incubator](#)
 
 The [*Professional Incubator Program*][Pro] is for invite-only
 students who have moved well beyond mastering programming and
@@ -272,14 +277,14 @@ stuff mostly for your own learning and curiosity, in *Pro* you work
 on **stuff that benefits others**, a client, a community, an
 organization. You are contributing, perhaps for free, perhaps not.
 
-### Invite Only
+### [⏫ Invite Only](#)
 
 <b>You must be invited into *Professional.*</b> To get an invite prepare
 a proposal and submit it to your location manager. Your location
 manager will review it with staff and decide to accept or not. If not
 accepted there is always *Projects*.
 
-### Projects SkilStak™ Most Wants to See Built
+### [⏫ Projects SkilStak™ Most Wants to See Built](#)
 
 The main criteria for giving you an invite will be **how much your
 manager personally wants to see your project completed** based on
@@ -296,13 +301,13 @@ creating a programming Summer camp curriculum, performing a security
 analysis of an organization, writing a Slackbot to assist students,
 and re-imaging laptops with Linux to use with afterschool programs.
 
-### Higher Expectations
+### [⏫ Higher Expectations](#)
 
 It is important to understand that [expectations are different and
 higher][expectations] for those at the *Professional* tier, and
 that there are fewer spots available.
 
-### Unlimited Access
+### [⏫ Unlimited Access](#)
 
 Pro carries the largest perk privilege of any offering: a free pass to
 SkilStak anytime we are open and there is a seat. Not only do you come
