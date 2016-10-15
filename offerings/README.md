@@ -7,16 +7,16 @@ directional pillar? At the entrance?
 
 ![](/assets/core-offerings.png)
 
-Our offerings are divided into four levels or tiers:
+## Table of Contents
 
-1. Preparation
-2. Proficiency
-3. Project
-4. Professional
-
-Each has a general focus and different prices depending on the
-location. (While we try to maintain our prices nationally we recognize
-there are different costs of living depending on the location.)
+1. [**Level 1: Preparation**](#user-content--level-1-preparation)
+ 1. [**Code and Play™**](#user-content--code-and-play)
+2. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
+ 1. [**Certified Mastery**](#user-content--certified-mastery)
+3. [**Level 3: Project**](#user-content--level-3-project)
+ 1. [**Main Focus Categories**](#user-content--main-focus-categories)
+ 2. [**Custom Projects**](#user-content--custom-projects)
+4. [**Level 4: Professionals**](#user-content--level-4-professionals)
 
 ## [⏫ Level 1: Preparation](#)
 
