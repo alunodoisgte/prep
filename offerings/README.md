@@ -31,7 +31,7 @@ to anything they can be taken more than once, but are billed at the
 *Preparation* tier. *Prep* and *Play* can also be taken more than once
 but *Prep* is generally only needed for one semester (or less).
 
-### Code and Play™
+### [⏫ Code and Play™](#)
 
 > Concepts: Code.org, Digital Recess, Camp
 

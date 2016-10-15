@@ -56,6 +56,7 @@ please be patient and thorough.
   7. [**Accept the Prep Work Repo Invite**](slack/README.md#user-content--accept-the-prep-work-repo-invite)
 7. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Level 1: Preparation**](offerings/README.md#user-content--level-1-preparation)
+      <br>💡 Code and Play ◦ Play ◦ Yoga ◦ NewMedia ◦ Code.org ◦ Digital Recess ◦ Camp
   2. [**Level 2: Proficiency**](offerings/README.md#user-content--level-2-proficiency)
   3. [**Level 3: Project**](offerings/README.md#user-content--level-3-project)
   4. [**Level 4: Professionals**](offerings/README.md#user-content--level-4-professionals)
