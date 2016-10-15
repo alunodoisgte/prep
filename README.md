@@ -63,7 +63,7 @@ please be patient and thorough.
   4. [**Level 3: Projects**](offerings/README.md#user-content--level-3-projects)
       <br>💡 Exploration ◦ Specialization ◦ Montessori-ish ◦ Textbooks ◦ Workbooks ◦ Main Focus Categories ◦ Logging ◦ Reporting ◦ IDP ◦ Data ◦ Apps ◦ Game ◦ Languages ◦ Linux ◦ Engineering ◦ Custom Projects
   5. [**Level 4: Professionals**](offerings/README.md#user-content--level-4-professionals)
-      <br>💡 Incubator ◦ Industry Professionals ◦ Tech Forums ◦ Tech Conferences ◦ Giving Back ◦ Community Involvement ◦ Resumes ◦ Recruiting ◦ Unlimited Attendance ◦ Financial Backing
+      <br>💡 Incubator ◦ Industry Professionals ◦ Tech Forums ◦ Tech Conferences ◦ Giving Back ◦ Community Involvement ◦ Resumes ◦ Recruiting ◦ Unlimited Attendance ◦ Financial Backing ◦ Freelance Support ◦ Client Work ◦ Agile Management
 8. [**Pick a Path** (`path`)](path/README.md)
   1. [**Python**](path/README.md#user-content--python)
   2. [**Web**](path/README.md#user-content--web)

@@ -251,7 +251,8 @@ future projects for the *Professional Incubator Program*.
 
 > Concepts: Incubator, Industry Professionals, Tech Forums, 
 > Tech Conferences, Giving Back, Community Involvement,
-> Resumes, Recruiting, Unlimited Attendance, Financial Backing
+> Resumes, Recruiting, Unlimited Attendance, Financial Backing,
+> Freelance Support, Client Work, Agile Management
 
 Currently there is only one course at this level: [*Professional Incubator
 Program*][Pro]. 
