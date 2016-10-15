@@ -21,7 +21,7 @@ directional pillar? At the entrance?
 
 Click on the diagram to download a printable PDF.
 
-[![](/assets/core-offerings.png)](/assets/core-offerings.pdf)
+[![](/assets/core-offerings.png)](https://github.com/skilstak/prep/raw/gh-pages/assets/core-offerings.pdf)
 
 ## [⏫ Level 1: Preparation](#)
 
