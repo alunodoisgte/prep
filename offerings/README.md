@@ -44,11 +44,10 @@ This level is where things start getting more serious, but fun. Each
 1. 15 minutes: Homework Review and Help (CodeCombat, etc.)
 2. 20 minutes: Instruction from Lesson
 3. 40 minutes: Class Work
-4. 15 minutes: [Digital Recess][] / [Fundamentals Projects][]
+4. 15 minutes: [Digital Recess][] / Fundamentals Projects
 
-[Fundamentals Projects]: /sections/funproj.md
-[Digital Recess]: https://github.com/skilstak/prep/blob/gh-pages/overview/README.md#digital-recess
-[technology path]: #-pick-technology-path
+[Digital Recess]: https://github.com/skilstak/prep/blob/gh-pages/overview/README.md#user-content--digital-recess 
+[technology path]: https://github.com/skilstak/prep/blob/gh-pages/path/README.md 
 [Play]: http://play.skilstak.io
 
 Students are generally expected to work outside of class primarily on
@@ -62,8 +61,8 @@ after questions and answers, you break to work on the lesson for
 yourself in your subgroup with your TA.
 
 The last part of class is the same *Digital Recess* as Prep,
-but less. You are also encouraged to do one of the [Fundamentals
-Projects][] instead.
+but less. You are also encouraged to do one of the *Fundamentals
+Projects* instead.
 
 > Повторение – мать учения<br>
 > Repetition is the mother of learning
