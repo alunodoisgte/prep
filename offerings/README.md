@@ -10,6 +10,9 @@ directional pillar? At the entrance?
 1. [**Course Map Diagram**](#user-content--course-map-diagram)
 2. [**Level 1: Preparation**](#user-content--level-1-preparation)
  1. [**Code and Play™**](#user-content--code-and-play)
+ 2. [**Code and Prep™**](#user-content--code-and-prep)
+ 3. [**Yoga**](#user-content--yoga)
+ 4. [**New Media**](#user-content--new-media)
 3. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
  1. [**Certified Mastery**](#user-content--certified-mastery)
 4. [**Level 3: Project**](#user-content--level-3-project)
@@ -30,11 +33,7 @@ Click on the diagram to download a printable PDF.
 *Play*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
 the *Preparation* level. Stuff here is designed to prepare and 
 maintain your programming and other technical skills as you
-build them. Before you ask, yes Yoga and YouTube are technical
-skills. While *Yoga* and *NewMedia* are listed without connection
-to anything they can be taken more than once, but are billed at the
-*Preparation* tier. *Prep* and *Play* can also be taken more than once
-but *Prep* is generally only needed for one semester (or less).
+build them. 
 
 ### [⏫ Code and Play™](#)
 
@@ -48,12 +47,54 @@ time coding on [Code.org](http://code.org) and
 class is entirely dedicated to mini-projects and [*Digital
 Recess*](http://recess.skilstak.io).
 
+
 *Play* is held during the same time as *Prep* with the hope
 being students will see what the *Prep* students are doing and
 want to join in naturally helping them **progress from internal
 motivation** in a non-threatening way. This also makes it 
 convenient for families with young children of different ages 
 that both want to attend at the same time.
+
+### [⏫ Code and Prep™](#)
+
+> 💬 This offerings page is itself a part of the 
+> *[Prep Textbook](/README.md)*
+
+This is the first course everyone takes. Anyone can enter *Prep* at
+any time and the cost is prorated for the remaining classes in the
+semester.
+
+Students stay in *Prep* as long as then need and want. When they
+have completed the *Prep Skills* they can immediately move to
+*Fundamentals*.
+
+> 💬 Unlike other schools we never make any student wait for any
+> reason other than being prepared to move on. We also never move
+> anyone on before they are ready even if it means repeating
+> a course several times. Mastery is key.
+
+### [⏫ Yoga](#)
+
+This course can be taken at any time and has no prerequisites.
+The cost is significantly subsidized making it only available
+to current students enrolled in other courses. Often this will
+be the most affordable Yoga offering in the region and we
+wish to maintain a healthy relationship with other dedicated
+Yoga studios in the area, even though we generally rent or
+partner with them to provide our own Yoga course.
+
+Before you ask, yes Yoga is a technical skill, which is discussed
+more in the [SkilStak™ Yoga textbook][Yoga].
+
+### [⏫ New Media](#)
+
+This course can be taken at any time and has no prerequisites.
+
+The name represents all the new media used by technologist to maintain
+their personal learning networks and connect with others. It includes
+self publishing on YouTube and blogs and social media. 
+
+Read more in the *[NewMedia textbook][NewMedia]*
 
 ## [⏫ Level 2: Proficiency](#)
 
@@ -72,9 +113,8 @@ This level is where things start getting more serious, but fun. Each
 3. 40 minutes: Class Work
 4. 15 minutes: [Digital Recess][] / Fundamentals Projects
 
-[Digital Recess]: https://github.com/skilstak/prep/blob/gh-pages/overview/README.md#user-content--digital-recess 
-[technology path]: https://github.com/skilstak/prep/blob/gh-pages/path/README.md 
-[Play]: http://play.skilstak.io
+[Digital Recess]: http://recess.skilstak.io
+[technology path]: http://path.skilstak.io
 
 Students are generally expected to work outside of class primarily on
 their CodeCombat levels. The first part of class is to help you get
@@ -86,7 +126,7 @@ The next part is to present the lesson material for the day. Then,
 after questions and answers, you break to work on the lesson for
 yourself in your subgroup with your TA.
 
-The last part of class is the same *Digital Recess* as Prep,
+The last part of class is the same *[Digital Recess][]* as Prep,
 but less. You are also encouraged to do one of the *Fundamentals
 Projects* instead.
 
