@@ -261,21 +261,25 @@ future projects for the *Professional Incubator Program*.
 > Resumes, Recruiting, Unlimited Attendance, Financial Backing,
 > Freelance Support, Client Work, Agile Management
 
-Currently there is only one course at this level: [*Professional Incubator
-Program*][Pro]. 
+### Incubator
 
-The *Professional* level is for students who have mastered programming
-and demonstrated it well during *Projects* classes and now need to
-launch into higher education, entrepreneurship, or working for an
-organization. In *Projects* you built and explored stuff mostly for
-your own learning and curiosity, in *Pro* you work on **stuff that
-benefits others**, a client, a community, an organization. You are
-contributing, perhaps for free, perhaps not.
+The [*Professional Incubator Program*][Pro] is for invite-only
+students who have moved well beyond mastering programming and
+demonstrated it well during *Projects* classes. These students are
+preparing to launch into higher education, entrepreneurship, or
+working for an organization. In *Projects* you built and explored
+stuff mostly for your own learning and curiosity, in *Pro* you work
+on **stuff that benefits others**, a client, a community, an
+organization. You are contributing, perhaps for free, perhaps not.
+
+### Invite Only
 
 <b>You must be invited into *Professional.*</b> To get an invite prepare
 a proposal and submit it to your location manager. Your location
 manager will review it with staff and decide to accept or not. If not
 accepted there is always *Projects*.
+
+### Projects SkilStak™ Most Wants to See Built
 
 The main criteria for giving you an invite will be **how much your
 manager personally wants to see your project completed** based on
@@ -292,9 +296,13 @@ creating a programming Summer camp curriculum, performing a security
 analysis of an organization, writing a Slackbot to assist students,
 and re-imaging laptops with Linux to use with afterschool programs.
 
+### Higher Expectations
+
 It is important to understand that [expectations are different and
 higher][expectations] for those at the *Professional* tier, and
 that there are fewer spots available.
+
+### Unlimited Access
 
 Pro carries the largest perk privilege of any offering: a free pass to
 SkilStak anytime we are open and there is a seat. Not only do you come
