@@ -155,7 +155,7 @@ email.
 
 Parents and student are responsible to ensure they understand
 and use the [communications methods described
-separately](communications.md).
+separately](/communications.md).
 
 ## [⏫ Staff Rebates](#)
 
