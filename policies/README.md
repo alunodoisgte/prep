@@ -115,7 +115,7 @@ course.
 
 **All makeups require 48 hour advanced notice by email to [your
 location's email
-address](/communications.md#enrollment-and-makeups-use-email) to
+address](/communications/README.md#enrollment-and-makeups-use-email) to
 attend** in order to arrange for the proper number of teacher
 assistants and such. **Makeups are never as good as classes because
 multiple courses are represented in the lab.** When in doubt call
@@ -155,7 +155,7 @@ email.
 
 Parents and student are responsible to ensure they understand
 and use the [communications methods described
-separately](/communications.md).
+separately](/communications/README.md).
 
 ## [⏫ Staff Rebates](#)
 
