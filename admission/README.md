@@ -70,7 +70,12 @@ follows:
 5. Send the completed test as an email response back
 
 This all happens during the 15 minutes that the student is on site
-at SkilStak™. 
+at SkilStak™. The location manager, who is essentially the principal
+of the school, will personally review the exam and make the
+decision that same day before you leave. He or she can then discuss
+the options including referring a personal tutor from among senior
+student teachers and teacher assistants if the exam reveals the
+candidate is not yet ready for admission.
 
 > ⛔ Parents will not be allowed to help with any part of the
 > exam including logging the potential student into Gmail. Parents
