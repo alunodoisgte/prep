@@ -52,13 +52,8 @@ time coding on [Code.org](http://code.org) and
 class is entirely dedicated to mini-projects and [*Digital
 Recess*](http://recess.skilstak.io).
 
-
-*Play* is held during the same time as *Prep* with the hope
-being students will see what the *Prep* students are doing and
-want to join in naturally helping them **progress from internal
-motivation** in a non-threatening way. This also makes it 
-convenient for families with young children of different ages 
-that both want to attend at the same time.
+> ⛔ The primary challenge for this group is learning to remember an
+> email address and password (provided to them by their parents).
 
 ### [⏫ Code and Prep™](#)
 
