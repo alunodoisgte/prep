@@ -55,6 +55,16 @@ Recess*](http://recess.skilstak.io).
 > ⛔ The primary challenge for this group is learning to remember an
 > email address and password (provided to them by their parents).
 
+Depending on the location *Play* is offered either as a weekly course
+offering (like *Prep*) or as a periodic camp. Frequently *Play* is
+offered as a 4-day, 3-hours-a-day, Summer camp where students can
+enjoy the company of lots of other campers with similar interests.
+
+> 🍎 Teachers considering *Play* should ensure there is adequate room
+> in the weekly schedule remaining after having scheduled *Prep*,
+> *Fundamentals*, *Projects*, and *Pro*. *Play* is always secondary to
+> these main core offerings.
+
 ### [⏫ Code and Prep™](#)
 
 > 💬 This offerings page is itself a part of the 
