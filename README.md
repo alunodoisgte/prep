@@ -190,7 +190,7 @@ please be patient and thorough.
   15. [**Renaming**](bash/README.md#user-content--renaming)
   16. [**Copying**](bash/README.md#user-content--copying)
   17. [**Removing File**](bash/README.md#user-content--removing-file)
-  18. [**Removing Directory **](bash/README.md#user-content--removing-directory)
+  18. [**Removing Directory**](bash/README.md#user-content--removing-directory)
   19. [**Editing Existing File**](bash/README.md#user-content--editing-existing-file)
   20. [**Save to GitHub**](bash/README.md#user-content--save-to-github)
   21. [**Stop the Fish**](bash/README.md#user-content--stop-the-fish)

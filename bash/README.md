@@ -165,7 +165,7 @@ Now we can remove our `hi`.
 
 ![](/assets/rm-hi.gif)
 
-## [⏫ Removing Directory ](#)
+## [⏫ Removing Directory](#)
 
 Now we can create a directory to put it in, only to delete it.
 
