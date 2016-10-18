@@ -41,7 +41,7 @@ basic assessment test—before admitting *any* student.
 
 1. Willing and able to read
 2. Willing and able to type 10 wpm (24 for Fundamentals)
-3. Willing and able to remember passwords
+3. Willing and able to remember passwords and use email effectively
 4. Willing to do work in class and not distract others
 5. Not monopolize the attention of the instructor or TA
 6. Can do basic addition, subtraction, division, multiplication,
