@@ -1,7 +1,7 @@
 # [⏪ Admission](/README.md)
 
 We welcome everyone to SkilStak™ from all backgrounds and abilities.
-In fact often those that think coding might not be for them end up
+In fact, often those that think coding might not be for them end up
 the best coders of all. 
 
 However, in order to ensure the best experience for everyone we
