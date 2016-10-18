@@ -46,7 +46,7 @@ build them.
 
 This offering is the least intimidating and the most affordable.
 Designed particularly for younger students who have only been
-familiar with a keyboard for a short time, students spent half the
+familiar with a keyboard for a short time, students spend half the
 time coding on [Code.org](http://code.org) and
 [CodeCombat.com](http://codecombat.com). The second half of each
 class is entirely dedicated to mini-projects and [*Digital
