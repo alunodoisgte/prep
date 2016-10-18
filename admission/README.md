@@ -124,7 +124,8 @@ eight to eighteen *anyone* of *any* age can seek admission.
 ## [⏫ No Admission or Registration Fee](#)
 
 Unlike other programs there is no fee for the initial audit and any
-enrollment or registration, only the cost of the course.
+enrollment or registration, only the cost of the course, any late
+fees, and any subsequent admission exam attempts.
 
 > ⛔ However, there *is* a $50 fee for ***late*** registration every
 > semester. This is waved for first-time students entering at
