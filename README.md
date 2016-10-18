@@ -1,8 +1,8 @@
 # [📖 Preparing for Fundamentals][work]
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
->  💬 [This *text*book goes with a *work*book][work]. Students
->  their personal, private workbook after asking their instructor
+>  💬 [This *text*book goes with a *work*book][work]. Students get
+>  their personal, private workbook by asking their instructor
 >  for an invite or clicking on one in their course chat room.
 >  We invite teachers and parents to read 
 >  🍎[*Welcome Teachers!*](/teachers/README.md)
