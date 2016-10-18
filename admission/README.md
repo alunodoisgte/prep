@@ -52,6 +52,9 @@ basic assessment test—before admitting *any* student.
 
 ## [⏫ Basic Admission Test](#)
 
+> Concepts: 15 Minute Admission Test, Gmail, Passwords,
+> Reading Comprehension, Basic Math, Free Audit
+
 When considering SkilStak™ part of the process is for the potential
 student to attend *Prep* and possibly also *Fundamentals* for free
 to audit it. During a portion of the class time the potential student
@@ -123,6 +126,8 @@ eight to eighteen *anyone* of *any* age can seek admission.
 
 ## [⏫ No Admission or Registration Fee](#)
 
+> Concept: Fees, Registration Costs, Late Registration
+
 Unlike other programs there is no fee for the initial audit and any
 enrollment or registration, only the cost of the course, any late
 fees, and any subsequent admission exam attempts.
@@ -132,6 +137,8 @@ fees, and any subsequent admission exam attempts.
 > any time during the semester.
 
 ## [⏫ Register Anytime](#)
+
+> Concept: First Time Registration, All Start in Prep
 
 New students can register and enroll anytime during the year or
 semester. *Everyone* starts in *Prep* and the cost is prorated over
