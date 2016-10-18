@@ -25,6 +25,8 @@ please be patient and thorough.
 1. [**Admission** (`admission`)](admission/README.md)
   1. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
   2. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
+  3. [**No Admission or Registration Fee**](admission/README.md#user-content--no-admission-or-registration-fee)
+  4. [**Register Anytime**](admission/README.md#user-content--register-anytime)
 2. [**Overview** (`overview`)](overview/README.md)
   1. [**Am I Ready for Prep?**](overview/README.md#user-content--am-i-ready-for-prep)
       <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills

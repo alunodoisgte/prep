@@ -64,10 +64,36 @@ The first audit and admission exam is free. However, candidates can
 take the exam as many times as they like for a $50 fee for each
 attempt.
 
+### [⏫ Tutoring](#)
+
+Many of our amazing teacher assistants or senior student teachers
+are available for private tutoring at the home or site of the
+student. For those who are not able to pass the admissions exam
+this option can be considered by parents and students until they
+can pass.
+
 ## [⏫ No Age Limit](#)
 
 While our custom course material is designed for those generally from
 eight to eighteen *anyone* of *any* age can seek admission.
+
+## [⏫ No Admission or Registration Fee](#)
+
+Unlike other programs there is no fee for the initial audit and any
+enrollment or registration, only the cost of the course.
+
+> ⛔ However, there *is* a $50 fee for ***late*** registration every
+> semester. This is waved for first-time students entering at
+> any time during the semester.
+
+## [⏫ Register Anytime](#)
+
+New students can register and enroll anytime during the year or
+semester. *Everyone* starts in *Prep* and the cost is prorated over
+the remaining class dates in the semester. However, motivated
+students can complete the requirements and verify their *Prep*
+skills allowing them to move to *Fundamentals* any time during the
+semester—particularly if in the first half of the semester.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
