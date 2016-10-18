@@ -47,7 +47,7 @@ independent. It’s the nice thing to do.
 
 Even if you think it will be funny *do not do it.* All too often code is lost, and computers or students are damaged.
 
-## [⏫ Don’t: Change *Anything* on a Computer ](#)
+## [⏫ Don’t: Change *Anything* on a Computer](#)
 
 This includes background, passwords, login shells and more. If you
 are working on a project to work on computers for SkilStak™ you

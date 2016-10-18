@@ -125,7 +125,7 @@ please be patient and thorough.
   5. [**Do: Be Respectful**](pledge/README.md#user-content--do-be-respectful)
   6. [**Do: Take Responsibility**](pledge/README.md#user-content--do-take-responsibility)
   7. [**Don’t: Touch Another’s Computer**](pledge/README.md#user-content--dont-touch-anothers-computer)
-  8. [**Don’t: Change *Anything* on a Computer **](pledge/README.md#user-content--dont-change-anything-on-a-computer)
+  8. [**Don’t: Change *Anything* on a Computer**](pledge/README.md#user-content--dont-change-anything-on-a-computer)
   9. [**Don’t: Steal Information**](pledge/README.md#user-content--dont-steal-information)
   10. [**Don’t: Touch Other People**](pledge/README.md#user-content--dont-touch-other-people)
   11. [**Don’t: Bully**](pledge/README.md#user-content--dont-bully)
