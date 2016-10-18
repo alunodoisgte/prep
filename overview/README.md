@@ -1,53 +1,5 @@
 # [⏪ Overview](/README.md)
 
-## [⏫ Am I Ready for Prep?](#)
-
-> Concepts: Minimum Requirements, Maturity, Level of Understanding,
-> Motor Skills
-
-One of the first questions everyone asks—particularly from those
-who have less technical background—is can they do it; can they code;
-are they ready for Prep?
-
-The answer is **it depends.** Mostly it depends on the level of
-interest and motivation in the student, how willing they are to
-work hard and stick with it. It has almost nothing to do
-with how smart a person is. 
-
-There are, however, some minimum requirements. If these requirements
-are not met, or for some reason a student fails to meet them later,
-then it is in everyone’s best interest to have that student stop
-attending SkilStak™ altogether. This is why we do an initial
-evaluation—including a basic assessment test—before admitting *any*
-student.
-
-### [⏫ Primary Requirements for Enrollment](#)
-
-1. Be willing and able to read
-2. Be willing and able to type 10 wpm (24 for Fundamentals)
-3. Be willing and able to remember their passwords
-4. Be willing to do their work in class and not distract others
-5. Does not monopolize the attention of the instructor or TA
-6. Can do basic addition, subtraction, division, multiplication,
-   fractions, and decimals
-
-> ⛔ SkilStak™ is not a daycare. We have students as young as seven
-> attend and learn productively, but if *any* student stops meeting
-> these requirements—and shows it three times—he or she will
-> be asked to simply not return until they are ready. 
-> It is critical that these basic requirements be assessed
-> before enrollment.
-
-Keep in mind that this is in the best interest of the student as well
-as all of the other students. Students who do not meet these
-requirements frequently pull down the other students in the class.
-
-### [⏫ Hire a Teacher Assistant](#)
-
-To help those who do not meet these requirements parents may opt to
-hire one of our teacher assistants to tutor and prepare their
-student at their home (not at SkilStak™).
-
 ## [⏫ Why Code?](#)
 
 > Concepts: Code.org, Why Code?, Hour of Code, Coding

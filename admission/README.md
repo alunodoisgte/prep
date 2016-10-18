@@ -14,6 +14,42 @@ that don’t:
 2. Able to use the basic tools we use
 3. Willing and able to contribute to the learning of others
 
+## [⏫ Am I Ready?](#)
+
+> Concepts: Minimum Requirements, Maturity, Level of Understanding,
+> Motor Skills
+
+One of the first questions everyone asks—particularly from those
+who have less technical background—is can they do it; can they code;
+are they ready for SkilStak™?
+
+The answer is **it depends.** Mostly it depends on the level of
+interest and motivation in the student, how willing they are to
+work hard and stick with it. **It has almost nothing to do
+with how smart a person is.** 
+
+> 💬 “Grit trumps talent,” as one [Wall Street Journal][] notes.
+[Wall Street Journal]: http://www.wsj.com/articles/SB10001424052702304213904579095303368899132
+
+There are, however, some minimum requirements. If these requirements
+are not met, or for some reason a student fails to meet them later,
+then it is in everyone’s best interest to have that student stop
+attending. This is why we do an initial evaluation—including a
+basic assessment test—before admitting *any* student.
+
+### [⏫ Primary Requirements for Enrollment](#)
+
+1. Willing and able to read
+2. Willing and able to type 10 wpm (24 for Fundamentals)
+3. Willing and able to remember passwords
+4. Willing to do work in class and not distract others
+5. Not monopolize the attention of the instructor or TA
+6. Can do basic addition, subtraction, division, multiplication,
+   fractions, and decimals
+
+> ⛔ We have students as young as seven attending and learning
+> productively but **SkilStak™ is not a daycare.** 
+
 ## [⏫ Basic Admission Test](#)
 
 When considering SkilStak™ part of the process is for the potential

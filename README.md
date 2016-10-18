@@ -23,24 +23,24 @@ please be patient and thorough.
 ## Table of Contents
 
 1. [**Admission** (`admission`)](admission/README.md)
-  1. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
-  2. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
-  3. [**No Admission or Registration Fee**](admission/README.md#user-content--no-admission-or-registration-fee)
-  4. [**Register Anytime**](admission/README.md#user-content--register-anytime)
-2. [**Overview** (`overview`)](overview/README.md)
-  1. [**Am I Ready for Prep?**](overview/README.md#user-content--am-i-ready-for-prep)
+  1. [**Am I Ready?**](admission/README.md#user-content--am-i-ready)
       <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
-  2. [**Why Code?**](overview/README.md#user-content--why-code)
+  2. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
+  3. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
+  4. [**No Admission or Registration Fee**](admission/README.md#user-content--no-admission-or-registration-fee)
+  5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
+2. [**Overview** (`overview`)](overview/README.md)
+  1. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
-  3. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
+  2. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
       <br>💡 Class Format ◦ Semester ◦ Weekly Schedule
-  4. [**CodeCombat**](overview/README.md#user-content--codecombat)
+  3. [**CodeCombat**](overview/README.md#user-content--codecombat)
       <br>💡 CodeCombat.com ◦ Computational Thinking ◦ Real Programming ◦ Ignorance in Educational Institutions
-  5. [**Prep Skills**](overview/README.md#user-content--prep-skills)
+  4. [**Prep Skills**](overview/README.md#user-content--prep-skills)
       <br>💡 Prep Skills ◦ Mastery ◦ Advancement
-  6. [**Prep Projects**](overview/README.md#user-content--prep-projects)
+  5. [**Prep Projects**](overview/README.md#user-content--prep-projects)
       <br>💡 Prep Projects ◦ Project Based Learning
-  7. [**Digital Recess**](overview/README.md#user-content--digital-recess)
+  6. [**Digital Recess**](overview/README.md#user-content--digital-recess)
       <br>💡 Digital Recess ◦ Netiquette ◦ Social Skills ◦ Minecraft ◦ Agar.io ◦ Class Progress Review
 3. [**Be Willing and Able to Read, A Lot** (`read`)](read/README.md)
 4. [**Use Chrome Incognito** (`chrome`)](chrome/README.md)
