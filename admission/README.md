@@ -138,7 +138,7 @@ fees, and any subsequent admission exam attempts.
 
 ## [⏫ Register Anytime](#)
 
-> Concept: First Time Registration, All Start in Prep
+> Concepts: First Time Registration, All Start in Prep
 
 New students can register and enroll anytime during the year or
 semester. *Everyone* starts in *Prep* and the cost is prorated over

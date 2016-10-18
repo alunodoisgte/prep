@@ -30,6 +30,7 @@ please be patient and thorough.
   3. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
   4. [**No Admission or Registration Fee**](admission/README.md#user-content--no-admission-or-registration-fee)
   5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
+      <br>💡 First Time Registration ◦ All Start in Prep
 2. [**Overview** (`overview`)](overview/README.md)
   1. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
