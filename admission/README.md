@@ -62,12 +62,12 @@ While the exact content of every exam will differ slightly for every
 student the format and general areas will be the same. They are as
 follows:
 
-* Login to Gmail
-* Send email to your SkilStak™ location’s email address asking for
-  the test
-* Receive the response email containing the test questions
-* Complete the answers to the test questions in the email
-* Send the completed test as an email response back
+1. Login to Gmail
+2. Send email to your SkilStak™ location’s email address asking for
+   the test
+3. Receive the response email containing the test questions
+4. Complete the answers to the test questions in the email
+5. Send the completed test as an email response back
 
 This all happens during the 15 minutes that the student is on site
 at SkilStak™. 
