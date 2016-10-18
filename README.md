@@ -23,17 +23,19 @@ please be patient and thorough.
 ## Table of Contents
 
 1. [**Overview** (`overview`)](overview/README.md)
-  1. [**Why Code?**](overview/README.md#user-content--why-code)
+  1. [**Am I Ready for Prep?**](overview/README.md#user-content--am-i-ready-for-prep)
+      <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
+  2. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
-  2. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
+  3. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
       <br>💡 Class Format ◦ Semester ◦ Weekly Schedule
-  3. [**CodeCombat**](overview/README.md#user-content--codecombat)
+  4. [**CodeCombat**](overview/README.md#user-content--codecombat)
       <br>💡 CodeCombat.com ◦ Computational Thinking ◦ Real Programming ◦ Ignorance in Educational Institutions
-  4. [**Prep Skills**](overview/README.md#user-content--prep-skills)
+  5. [**Prep Skills**](overview/README.md#user-content--prep-skills)
       <br>💡 Prep Skills ◦ Mastery ◦ Advancement
-  5. [**Prep Projects**](overview/README.md#user-content--prep-projects)
+  6. [**Prep Projects**](overview/README.md#user-content--prep-projects)
       <br>💡 Prep Projects ◦ Project Based Learning
-  6. [**Digital Recess**](overview/README.md#user-content--digital-recess)
+  7. [**Digital Recess**](overview/README.md#user-content--digital-recess)
       <br>💡 Digital Recess ◦ Netiquette ◦ Social Skills ◦ Minecraft ◦ Agar.io ◦ Class Progress Review
 2. [**Be Willing and Able to Read, A Lot** (`read`)](read/README.md)
 3. [**Use Chrome Incognito** (`chrome`)](chrome/README.md)
