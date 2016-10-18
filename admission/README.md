@@ -73,7 +73,10 @@ This all happens during the 15 minutes that the student is on site
 at SkilStak™. 
 
 > ⛔ Parents will not be allowed to help with any part of the
-exam including logging the potential student into Gmail.
+> exam including logging the potential student into Gmail. Parents
+> must remain in another room or off site during the exam. ***All
+> preparations for the exam must be completed before arriving
+> at SkilStak™***
 
 ### [⏫ Reading Comprehension](#)
 
