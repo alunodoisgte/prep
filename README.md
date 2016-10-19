@@ -159,7 +159,7 @@ please be patient and thorough.
   2. [**Programming is Not Computer Science**](what/README.md#user-content--programming-is-not-computer-science)
 28. [**Organic Learning** (`organic`)](organic/README.md)
   1. [**Learning is Messy**](organic/README.md#user-content--learning-is-messy)
-29. [**Mastery Based Learning** (`mastery`)](mastery/README.md)
+29. [**Learning to Mastery** (`mastery`)](mastery/README.md)
   1. [**You Do Not Progress Until You Know It**](mastery/README.md#user-content--you-do-not-progress-until-you-know-it)
   2. [**Speed**](mastery/README.md#user-content--speed)
 30. [**Choosing a Computer** (`computer`)](computer/README.md)

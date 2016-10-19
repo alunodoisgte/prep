@@ -1,4 +1,4 @@
-# [⏪ Mastery Based Learning](/README.md)
+# [⏪ Learning to Mastery](/README.md)
 
 There is only one way to learn, learn until you master the concept or
 technique. Everything else is inferior and will bite you in the rear
