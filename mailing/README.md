@@ -1,8 +1,14 @@
 # [⏪ Join Mailing List](/README.md)
 
-You should have signed up for the mailing list at the bottom of your
-location’s web page. Make sure you and your emergency contact are on
+You should sign up for the mailing list in your location section of
+the web page. Make sure you and your emergency contact are on
 it.
+
+![](/assets/join-mailing.gif)
+
+> 💬 Keep in mind it will not show you anything after you enter your
+> email but you will get an email in your email inbox asking for
+> confirmation.
 
 The mailing list is one of the main ways to
 [communicate](/communications) with you are your parents about
