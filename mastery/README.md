@@ -21,12 +21,13 @@ continue to work on it—even repeat it—until you have mastered it.
 
 ## [⏫ Speed](#)
 
-One of the signs that you really have mastered something is that you
-can do it quickly. These days, with hackathons being used even inside
-large companies to find the best programmers, knowing how to code
-*quickly* while maintaining *quality* is a big deal. This is why when
-you do your exercises you are asked to enter your *Best Time* rather
-than just checking it off.
+One of the signs that you really have mastered something is that
+you can do it quickly. Another is that you can teach it to someone
+else. These days, with hackathons being used even inside large
+companies to find the best programmers, knowing how to code *quickly*
+while maintaining *quality* is a big deal. This is why when you do
+your exercises you are asked to enter your *Best Time* rather than
+just checking it off.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
