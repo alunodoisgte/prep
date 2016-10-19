@@ -1,451 +1,30 @@
 {
-  "title": "\ud83d\udcd6 Preparing for Fundamentals",
-  "order": [
-    "admission",
-    "overview",
-    "read",
-    "chrome",
-    "mailing",
-    "gmail",
-    "slack",
-    "offerings",
-    "path",
-    "codecombat",
-    "passwords",
-    "websites",
-    "policies",
-    "communications",
-    "pledge",
-    "typing",
-    "toggle",
-    "closewin",
-    "closeapp",
-    "screenshot",
-    "markdown",
-    "edit",
-    "issues",
-    "labels",
-    "upload",
-    "jit",
-    "what",
-    "organic",
-    "computer",
-    "terminal",
-    "codeanywhere",
-    "bash",
-    "math",
-    "forest",
-    "keys",
-    "idp",
-    "verify",
-    "pproj",
-    "teachers"
-  ],
   "summary": "",
   "parts": {
-    "computer": {
-      "title": "Choosing a Computer",
+    "passwords": {
       "parts": [
         {
-          "title": "Developers Overwhelmingly Prefer Mac and Linux",
+          "title": "Strategies",
           "concepts": [],
-          "short": "developers-overwhelmingly-prefer-mac-and-linux"
+          "short": "strategies"
         },
         {
-          "title": "So what do you have against Microsoft?",
+          "title": "Google Password Recovery",
           "concepts": [],
-          "short": "so-what-do-you-have-against-microsoft"
+          "short": "google-password-recovery"
         }
-      ]
-    },
-    "typing": {
-      "title": "Attain 24 Words Per Minute Typing",
-      "parts": [
-        {
-          "title": "Do I have to do home-row typing?",
-          "concepts": [],
-          "short": "do-i-have-to-do-home-row-typing"
-        }
-      ]
-    },
-    "path": {
-      "title": "Pick a Path",
-      "parts": [
-        {
-          "title": "Python",
-          "concepts": [],
-          "short": "python"
-        },
-        {
-          "title": "Web",
-          "concepts": [],
-          "short": "web"
-        }
-      ]
-    },
-    "pproj": {
-      "title": "Prep Projects",
-      "parts": []
-    },
-    "gmail": {
-      "title": "Create Google Gmail Account",
-      "parts": [
-        {
-          "title": "13 and Up",
-          "concepts": [],
-          "short": "13-and-up"
-        },
-        {
-          "title": "Your Most Important Password",
-          "concepts": [],
-          "short": "your-most-important-password"
-        },
-        {
-          "title": "Multiple Gmail Accounts",
-          "concepts": [],
-          "short": "multiple-gmail-accounts"
-        }
-      ]
-    },
-    "markdown": {
-      "title": "Complete the Markdown Tutorial",
-      "parts": []
+      ],
+      "title": "Remember Passwords!"
     },
     "chrome": {
-      "title": "Use Chrome Incognito",
-      "parts": []
-    },
-    "communications": {
-      "title": "Understand Communications",
-      "parts": [
-        {
-          "title": "Learn to Communicate for Yourself",
-          "concepts": [],
-          "short": "learn-to-communicate-for-yourself"
-        },
-        {
-          "title": "Urgent, Immediate: Use the Phone of Text",
-          "concepts": [],
-          "short": "urgent-immediate-use-the-phone-of-text"
-        },
-        {
-          "title": "Announcements and Info: Use Site and Slack #news",
-          "concepts": [],
-          "short": "announcements-and-info-use-site-and-slack-news"
-        },
-        {
-          "title": "Help and Ideas: Slack",
-          "concepts": [],
-          "short": "help-and-ideas-slack"
-        },
-        {
-          "title": "Enrollment and Makeups: Use Email",
-          "concepts": [],
-          "short": "enrollment-and-makeups-use-email"
-        },
-        {
-          "title": "Consultation: Email and Drop In",
-          "concepts": [],
-          "short": "consultation-email-and-drop-in"
-        },
-        {
-          "title": "General News and Information",
-          "concepts": [],
-          "short": "general-news-and-information"
-        }
-      ]
-    },
-    "jit": {
-      "title": "Learn to Learn, Just in Time",
-      "parts": []
+      "parts": [],
+      "title": "Use Chrome Incognito"
     },
     "toggle": {
-      "title": "Toggle Applications with One Hand",
-      "parts": []
-    },
-    "closewin": {
-      "title": "Close a Window",
-      "parts": []
-    },
-    "idp": {
-      "title": "Create Your Individual Development Plan (IDP)",
-      "parts": [
-        {
-          "title": "A Conversation",
-          "concepts": [],
-          "short": "a-conversation"
-        },
-        {
-          "title": "Goals",
-          "concepts": [],
-          "short": "goals"
-        },
-        {
-          "title": "Long Term Vision",
-          "concepts": [],
-          "short": "long-term-vision"
-        },
-        {
-          "title": "Come Back Often",
-          "concepts": [],
-          "short": "come-back-often"
-        }
-      ]
-    },
-    "upload": {
-      "title": "Dragging a File Into a GitHub Repo",
-      "parts": [
-        {
-          "title": "File Name Caution",
-          "concepts": [],
-          "short": "file-name-caution"
-        }
-      ]
-    },
-    "offerings": {
-      "title": "Understand Core Offerings",
-      "parts": [
-        {
-          "title": "Course Map Diagram",
-          "concepts": [],
-          "short": "course-map-diagram"
-        },
-        {
-          "title": "Level 1: Preparation",
-          "concepts": [
-            "Play",
-            "Prep",
-            "Yoga",
-            "NewMedia",
-            "Code.org",
-            "CodeCombat.com",
-            "Digital Recess",
-            "Gentle Introduction"
-          ],
-          "short": "level-1-preparation"
-        },
-        {
-          "title": "Level 2: Proficiency",
-          "concepts": [
-            "Fundamentals",
-            "Certification",
-            "Repetition",
-            "Mastery",
-            "Technology Path",
-            "Python",
-            "Web",
-            "Digital Recess"
-          ],
-          "short": "level-2-proficiency"
-        },
-        {
-          "title": "Level 3: Projects",
-          "concepts": [
-            "Exploration",
-            "Specialization",
-            "Montessori-ish",
-            "Textbooks",
-            "Workbooks",
-            "Focus Categories",
-            "Logging",
-            "Reporting",
-            "IDP",
-            "Data",
-            "Apps",
-            "Game",
-            "Languages",
-            "Linux",
-            "Engineering",
-            "Custom Projects"
-          ],
-          "short": "level-3-projects"
-        },
-        {
-          "title": "Level 4: Professionals",
-          "concepts": [
-            "Incubator",
-            "Industry Professionals",
-            "Tech Forums",
-            "Tech Conferences",
-            "Giving Back",
-            "Community Involvement",
-            "Resumes",
-            "Recruiting",
-            "Unlimited Attendance",
-            "Financial Backing",
-            "Freelance Support",
-            "Client Work",
-            "Agile Management"
-          ],
-          "short": "level-4-professionals"
-        }
-      ]
-    },
-    "forest": {
-      "title": "Attain the Forest in CodeCombat.com",
-      "parts": []
-    },
-    "slack": {
-      "title": "Join the Slack Chat Room",
-      "parts": [
-        {
-          "title": "Get an Invite",
-          "concepts": [],
-          "short": "get-an-invite"
-        },
-        {
-          "title": "Join Your Team",
-          "concepts": [],
-          "short": "join-your-team"
-        },
-        {
-          "title": "Set Your Password",
-          "concepts": [],
-          "short": "set-your-password"
-        },
-        {
-          "title": "Skip the Tutorial",
-          "concepts": [],
-          "short": "skip-the-tutorial"
-        },
-        {
-          "title": "Show All Channels",
-          "concepts": [],
-          "short": "show-all-channels"
-        },
-        {
-          "title": "Join the Prep Channel",
-          "concepts": [],
-          "short": "join-the-prep-channel"
-        },
-        {
-          "title": "Accept the Prep Work Repo Invite",
-          "concepts": [],
-          "short": "accept-the-prep-work-repo-invite"
-        }
-      ]
-    },
-    "flappy": {
-      "title": "SkilStak Flappy",
-      "parts": [
-        {
-          "title": "Image Asset Dimensions",
-          "concepts": [],
-          "short": "image-asset-dimensions"
-        },
-        {
-          "title": "Sound Assets",
-          "concepts": [],
-          "short": "sound-assets"
-        },
-        {
-          "title": "Hacking the Script",
-          "concepts": [],
-          "short": "hacking-the-script"
-        }
-      ]
-    },
-    "verify": {
-      "title": "Get Verified",
-      "parts": []
-    },
-    "organic": {
-      "title": "Organic Learning",
-      "parts": [
-        {
-          "title": "Learning is Messy",
-          "concepts": [],
-          "short": "learning-is-messy"
-        }
-      ]
-    },
-    "policies": {
-      "title": "Agree to Policies",
-      "parts": [
-        {
-          "title": "Payment",
-          "concepts": [],
-          "short": "payment"
-        },
-        {
-          "title": "Strikes",
-          "concepts": [],
-          "short": "strikes"
-        },
-        {
-          "title": "Destruction of Property",
-          "concepts": [],
-          "short": "destruction-of-property"
-        },
-        {
-          "title": "Violation of Privacy, Information Theft",
-          "concepts": [],
-          "short": "violation-of-privacy-information-theft"
-        },
-        {
-          "title": "No Refunds",
-          "concepts": [],
-          "short": "no-refunds"
-        },
-        {
-          "title": "Referral Bonus",
-          "concepts": [],
-          "short": "referral-bonus"
-        },
-        {
-          "title": "First Paid, First Registered",
-          "concepts": [],
-          "short": "first-paid-first-registered"
-        },
-        {
-          "title": "Changing Classes",
-          "concepts": [],
-          "short": "changing-classes"
-        },
-        {
-          "title": "Four Students Minimum Required to Hold Course",
-          "concepts": [],
-          "short": "four-students-minimum-required-to-hold-course"
-        },
-        {
-          "title": "Learning to Code Demands Regular Attendance",
-          "concepts": [],
-          "short": "learning-to-code-demands-regular-attendance"
-        },
-        {
-          "title": "Makeups",
-          "concepts": [],
-          "short": "makeups"
-        },
-        {
-          "title": "Loss of Eligibility",
-          "concepts": [],
-          "short": "loss-of-eligibility"
-        },
-        {
-          "title": "Parent Visits",
-          "concepts": [],
-          "short": "parent-visits"
-        },
-        {
-          "title": "Understand Communications",
-          "concepts": [],
-          "short": "understand-communications"
-        },
-        {
-          "title": "Staff Rebates",
-          "concepts": [],
-          "short": "staff-rebates"
-        },
-        {
-          "title": "PayPal",
-          "concepts": [],
-          "short": "paypal"
-        }
-      ]
+      "parts": [],
+      "title": "Toggle Applications with One Hand"
     },
     "codecombat": {
-      "title": "Create CodeCombat.com Account(s)",
       "parts": [
         {
           "title": "Select \u201cPlay Now\u201d",
@@ -492,99 +71,100 @@
           "concepts": [],
           "short": "start-the-dungeon"
         }
-      ]
+      ],
+      "title": "Create CodeCombat.com Account(s)"
     },
-    "closeapp": {
-      "title": "Close an Application",
-      "parts": []
-    },
-    "codeanywhere": {
-      "title": "Login with CodeAnywhere.com",
+    "pledge": {
       "parts": [
         {
-          "title": "Creating an Account: GitHub or Google?",
+          "title": "Do: Help People Out",
           "concepts": [],
-          "short": "creating-an-account-github-or-google"
+          "short": "do-help-people-out"
         },
         {
-          "title": "SFTP-SSH Connection Setup",
+          "title": "Do: Arrive on Time",
           "concepts": [],
-          "short": "sftp-ssh-connection-setup"
+          "short": "do-arrive-on-time"
         },
         {
-          "title": "Only for Education",
+          "title": "Do: Leave on Time",
           "concepts": [],
-          "short": "only-for-education"
+          "short": "do-leave-on-time"
         },
         {
-          "title": "Slower",
+          "title": "Do: Be Authentic",
           "concepts": [],
-          "short": "slower"
+          "short": "do-be-authentic"
         },
         {
-          "title": "No Solarized",
+          "title": "Do: Be Respectful",
           "concepts": [],
-          "short": "no-solarized"
+          "short": "do-be-respectful"
         },
         {
-          "title": "Alternative Editor",
+          "title": "Do: Take Responsibility",
           "concepts": [],
-          "short": "alternative-editor"
+          "short": "do-take-responsibility"
+        },
+        {
+          "title": "Don\u2019t: Touch Another\u2019s Computer",
+          "concepts": [],
+          "short": "dont-touch-anothers-computer"
+        },
+        {
+          "title": "Don\u2019t: Change *Anything* on a Computer",
+          "concepts": [],
+          "short": "dont-change-anything-on-a-computer"
+        },
+        {
+          "title": "Don\u2019t: Steal Information",
+          "concepts": [],
+          "short": "dont-steal-information"
+        },
+        {
+          "title": "Don\u2019t: Touch Other People",
+          "concepts": [],
+          "short": "dont-touch-other-people"
+        },
+        {
+          "title": "Don\u2019t: Bully",
+          "concepts": [],
+          "short": "dont-bully"
+        },
+        {
+          "title": "Don\u2019t: Disrespect",
+          "concepts": [],
+          "short": "dont-disrespect"
+        },
+        {
+          "title": "Don\u2019t: Criticize",
+          "concepts": [],
+          "short": "dont-criticize"
+        },
+        {
+          "title": "Don\u2019t: Use Hate",
+          "concepts": [],
+          "short": "dont-use-hate"
+        },
+        {
+          "title": "Don\u2019t: Willful Destroy Stuff or Litter",
+          "concepts": [],
+          "short": "dont-willful-destroy-stuff-or-litter"
+        },
+        {
+          "title": "Don\u2019t: Think You are the Exception",
+          "concepts": [],
+          "short": "dont-think-you-are-the-exception"
+        },
+        {
+          "title": "Do: Sign",
+          "concepts": [],
+          "short": "do-sign"
         }
-      ]
-    },
-    "keys": {
-      "title": "Configure GitHub Keys",
-      "parts": [
-        {
-          "title": "Secret Decoder Rings",
-          "concepts": [],
-          "short": "secret-decoder-rings"
-        },
-        {
-          "title": "Secure Shell Keys",
-          "concepts": [],
-          "short": "secure-shell-keys"
-        },
-        {
-          "title": "Create a Key Pair with `ssh-keygen`",
-          "concepts": [],
-          "short": "create-a-key-pair-with-ssh-keygen"
-        },
-        {
-          "title": "Copy Your Public Key",
-          "concepts": [],
-          "short": "copy-your-public-key"
-        },
-        {
-          "title": "Paste Public Key into GitHub Settings",
-          "concepts": [],
-          "short": "paste-public-key-into-github-settings"
-        },
-        {
-          "title": "Test",
-          "concepts": [],
-          "short": "test"
-        },
-        {
-          "title": "Clone a Repo",
-          "concepts": [],
-          "short": "clone-a-repo"
-        },
-        {
-          "title": "Update Push Default",
-          "concepts": [],
-          "short": "update-push-default"
-        },
-        {
-          "title": "Update Profile Configuration",
-          "concepts": [],
-          "short": "update-profile-configuration"
-        }
-      ]
+      ],
+      "title": "Sign Student Pledge"
     },
     "bash": {
-      "title": "Bash Command Line Essentials",
       "parts": [
         {
           "title": "Login",
@@ -696,84 +276,143 @@
           "concepts": [],
           "short": "just-a-start"
         }
-      ]
+      ],
+      "title": "Bash Command Line Essentials"
     },
-    "terminal": {
-      "title": "Login with Mac Terminal",
+    "offerings": {
       "parts": [
         {
-          "title": "`\u2318 + Space` for Spotlight",
+          "title": "Course Map Diagram",
           "concepts": [],
-          "short": "--space-for-spotlight"
+          "short": "course-map-diagram"
         },
         {
-          "title": "Secure Shell Login to `skilstak.sh`",
-          "concepts": [],
-          "short": "secure-shell-login-to-skilstaksh"
+          "title": "Level 1: Preparation",
+          "concepts": [
+            "Play",
+            "Prep",
+            "Yoga",
+            "NewMedia",
+            "Code.org",
+            "CodeCombat.com",
+            "Digital Recess",
+            "Gentle Introduction"
+          ],
+          "short": "level-1-preparation"
         },
         {
-          "title": "`\u2318 + +/-` to Increase/Decrease Font Size",
-          "concepts": [],
-          "short": "----to-increasedecrease-font-size"
+          "title": "Level 2: Proficiency",
+          "concepts": [
+            "Fundamentals",
+            "Certification",
+            "Repetition",
+            "Mastery",
+            "Technology Path",
+            "Python",
+            "Web",
+            "Digital Recess"
+          ],
+          "short": "level-2-proficiency"
         },
         {
-          "title": "`\u2318 + crtl + f` to Full Screen",
-          "concepts": [],
-          "short": "--crtl--f-to-full-screen"
+          "title": "Level 3: Projects",
+          "concepts": [
+            "Exploration",
+            "Specialization",
+            "Montessori-ish",
+            "Textbooks",
+            "Workbooks",
+            "Focus Categories",
+            "Logging",
+            "Reporting",
+            "IDP",
+            "Data",
+            "Apps",
+            "Game",
+            "Languages",
+            "Linux",
+            "Engineering",
+            "Custom Projects"
+          ],
+          "short": "level-3-projects"
+        },
+        {
+          "title": "Level 4: Professionals",
+          "concepts": [
+            "Incubator",
+            "Industry Professionals",
+            "Tech Forums",
+            "Tech Conferences",
+            "Giving Back",
+            "Community Involvement",
+            "Resumes",
+            "Recruiting",
+            "Unlimited Attendance",
+            "Financial Backing",
+            "Freelance Support",
+            "Client Work",
+            "Agile Management"
+          ],
+          "short": "level-4-professionals"
         }
-      ]
+      ],
+      "title": "Understand Core Offerings"
     },
-    "issues": {
-      "title": "Create First GitHub Issue",
-      "parts": []
-    },
-    "admission": {
-      "title": "Admission",
+    "typing": {
       "parts": [
         {
-          "title": "Am I Ready?",
-          "concepts": [
-            "Minimum Requirements",
-            "Maturity",
-            "Level of Understanding",
-            "Motor Skills"
-          ],
-          "short": "am-i-ready"
-        },
-        {
-          "title": "Basic Admission Test",
-          "concepts": [
-            "15 Minute Admission Test",
-            "Gmail",
-            "Passwords",
-            "Reading Comprehension",
-            "Basic Math",
-            "Free Audit"
-          ],
-          "short": "basic-admission-test"
-        },
-        {
-          "title": "No Age Limit",
+          "title": "Do I have to do home-row typing?",
           "concepts": [],
-          "short": "no-age-limit"
-        },
-        {
-          "title": "No Admission or Registration Fee",
-          "concepts": [],
-          "short": "no-admission-or-registration-fee"
-        },
-        {
-          "title": "Register Anytime",
-          "concepts": [
-            "First Time Registration",
-            "All Start in Prep"
-          ],
-          "short": "register-anytime"
+          "short": "do-i-have-to-do-home-row-typing"
         }
-      ]
+      ],
+      "title": "Attain 24 Words Per Minute Typing"
+    },
+    "slack": {
+      "parts": [
+        {
+          "title": "Get an Invite",
+          "concepts": [],
+          "short": "get-an-invite"
+        },
+        {
+          "title": "Join Your Team",
+          "concepts": [],
+          "short": "join-your-team"
+        },
+        {
+          "title": "Set Your Password",
+          "concepts": [],
+          "short": "set-your-password"
+        },
+        {
+          "title": "Skip the Tutorial",
+          "concepts": [],
+          "short": "skip-the-tutorial"
+        },
+        {
+          "title": "Show All Channels",
+          "concepts": [],
+          "short": "show-all-channels"
+        },
+        {
+          "title": "Join the Prep Channel",
+          "concepts": [],
+          "short": "join-the-prep-channel"
+        },
+        {
+          "title": "Accept the Prep Work Repo Invite",
+          "concepts": [],
+          "short": "accept-the-prep-work-repo-invite"
+        }
+      ],
+      "title": "Join the Slack Chat Room"
+    },
+    "forest": {
+      "parts": [],
+      "title": "Attain the Forest in CodeCombat.com"
     },
     "overview": {
-      "title": "Overview",
       "parts": [
         {
           "title": "Why Code?",
@@ -833,199 +472,35 @@
           ],
           "short": "digital-recess"
         }
-      ]
+      ],
+      "title": "Overview"
     },
-    "read": {
-      "title": "Be Willing and Able to Read, A Lot",
-      "parts": []
-    },
-    "skills": {
-      "title": "Prep Skills",
+    "websites": {
       "parts": [
         {
-          "title": "Join Mailing List",
+          "title": "Main",
           "concepts": [],
-          "short": "join-mailing-list"
+          "short": "main"
         },
         {
-          "title": "Create Google Gmail Account",
+          "title": "Location",
           "concepts": [],
-          "short": "create-google-gmail-account"
+          "short": "location"
         },
         {
-          "title": "Join the Slack Chat Room",
+          "title": "Shortcuts",
           "concepts": [],
-          "short": "join-the-slack-chat-room"
+          "short": "shortcuts"
         },
         {
-          "title": "Understand Core Offerings",
+          "title": "Personal",
           "concepts": [],
-          "short": "understand-core-offerings"
-        },
-        {
-          "title": "Pick a Path",
-          "concepts": [],
-          "short": "pick-a-path"
-        },
-        {
-          "title": "Create CodeCombat.com Account(s)",
-          "concepts": [],
-          "short": "create-codecombatcom-accounts"
-        },
-        {
-          "title": "Remember Passwords!",
-          "concepts": [],
-          "short": "remember-passwords"
-        },
-        {
-          "title": "Know Your Web Sites",
-          "concepts": [],
-          "short": "know-your-web-sites"
-        },
-        {
-          "title": "Agree to Policies",
-          "concepts": [],
-          "short": "agree-to-policies"
-        },
-        {
-          "title": "Understand Communications",
-          "concepts": [],
-          "short": "understand-communications"
-        },
-        {
-          "title": "Sign Student Pledge",
-          "concepts": [],
-          "short": "sign-student-pledge"
-        },
-        {
-          "title": "Attain 24 Words Per Minute Typing",
-          "concepts": [],
-          "short": "attain-24-words-per-minute-typing"
-        },
-        {
-          "title": "Toggle Applications with One Hand",
-          "concepts": [],
-          "short": "toggle-applications-with-one-hand"
-        },
-        {
-          "title": "Close a Window",
-          "concepts": [],
-          "short": "close-a-window"
-        },
-        {
-          "title": "Close an Application",
-          "concepts": [],
-          "short": "close-an-application"
-        },
-        {
-          "title": "Take Some Screenshots",
-          "concepts": [],
-          "short": "take-some-screenshots"
-        },
-        {
-          "title": "Complete the Markdown Tutorial",
-          "concepts": [],
-          "short": "complete-the-markdown-tutorial"
-        },
-        {
-          "title": "Edit a File with GitHub",
-          "concepts": [],
-          "short": "edit-a-file-with-github"
-        },
-        {
-          "title": "Create First GitHub Issue",
-          "concepts": [],
-          "short": "create-first-github-issue"
-        },
-        {
-          "title": "Create Custom Issue Labels",
-          "concepts": [],
-          "short": "create-custom-issue-labels"
-        },
-        {
-          "title": "Create Your First Web Site",
-          "concepts": [],
-          "short": "create-your-first-web-site"
-        },
-        {
-          "title": "Dragging a File Into a GitHub Repo",
-          "concepts": [],
-          "short": "dragging-a-file-into-a-github-repo"
-        },
-        {
-          "title": "Learn to Learn, Just in Time",
-          "concepts": [],
-          "short": "learn-to-learn-just-in-time"
-        },
-        {
-          "title": "What is Coding?",
-          "concepts": [],
-          "short": "what-is-coding"
-        },
-        {
-          "title": "Organic Learning",
-          "concepts": [],
-          "short": "organic-learning"
-        },
-        {
-          "title": "Choosing a Computer",
-          "concepts": [],
-          "short": "choosing-a-computer"
-        },
-        {
-          "title": "Login with Mac Terminal",
-          "concepts": [],
-          "short": "login-with-mac-terminal"
-        },
-        {
-          "title": "Login with CodeAnywhere.com",
-          "concepts": [],
-          "short": "login-with-codeanywherecom"
-        },
-        {
-          "title": "Bash Command Line Essentials",
-          "concepts": [],
-          "short": "bash-command-line-essentials"
-        },
-        {
-          "title": "Understand Basic Algebra Math",
-          "concepts": [],
-          "short": "understand-basic-algebra-math"
-        },
-        {
-          "title": "Attain the Forest in CodeCombat.com",
-          "concepts": [],
-          "short": "attain-the-forest-in-codecombatcom"
-        },
-        {
-          "title": "Configure GitHub Keys",
-          "concepts": [],
-          "short": "configure-github-keys"
-        },
-        {
-          "title": "Create Your Individual Development Plan (IDP)",
-          "concepts": [],
-          "short": "create-your-individual-development-plan-idp"
+          "short": "personal"
         }
-      ]
-    },
-    "math": {
-      "title": "Understand Basic Algebra Math",
-      "parts": [
-        {
-          "title": "You Can\u2019t Program Without Math",
-          "concepts": [],
-          "short": "you-cant-program-without-math"
-        },
-        {
-          "title": "How To Learn",
-          "concepts": [],
-          "short": "how-to-learn"
-        }
-      ]
+      ],
+      "title": "Know Your Web Sites"
     },
     "teachers": {
-      "title": "\ud83c\udf4e Welcome Teachers!",
       "parts": [
         {
           "title": "Prerequisites",
@@ -1067,29 +542,431 @@
           "concepts": [],
           "short": "copyright"
         }
-      ]
+      ],
+      "title": "\ud83c\udf4e Welcome Teachers!"
     },
-    "labels": {
-      "title": "Create Custom Issue Labels",
-      "parts": []
-    },
-    "passwords": {
-      "title": "Remember Passwords!",
+    "skills": {
       "parts": [
         {
-          "title": "Strategies",
+          "short": "join-mailing-list",
           "concepts": [],
-          "short": "strategies"
+          "title": "Join Mailing List"
         },
         {
-          "title": "Google Password Recovery",
+          "short": "create-google-gmail-account",
           "concepts": [],
-          "short": "google-password-recovery"
+          "title": "Create Google Gmail Account"
+        },
+        {
+          "short": "join-the-slack-chat-room",
+          "concepts": [],
+          "title": "Join the Slack Chat Room"
+        },
+        {
+          "short": "understand-core-offerings",
+          "concepts": [],
+          "title": "Understand Core Offerings"
+        },
+        {
+          "short": "pick-a-path",
+          "concepts": [],
+          "title": "Pick a Path"
+        },
+        {
+          "short": "create-codecombatcom-accounts",
+          "concepts": [],
+          "title": "Create CodeCombat.com Account(s)"
+        },
+        {
+          "short": "remember-passwords",
+          "concepts": [],
+          "title": "Remember Passwords!"
+        },
+        {
+          "short": "know-your-web-sites",
+          "concepts": [],
+          "title": "Know Your Web Sites"
+        },
+        {
+          "short": "agree-to-policies",
+          "concepts": [],
+          "title": "Agree to Policies"
+        },
+        {
+          "short": "understand-communications",
+          "concepts": [],
+          "title": "Understand Communications"
+        },
+        {
+          "short": "sign-student-pledge",
+          "concepts": [],
+          "title": "Sign Student Pledge"
+        },
+        {
+          "short": "attain-24-words-per-minute-typing",
+          "concepts": [],
+          "title": "Attain 24 Words Per Minute Typing"
+        },
+        {
+          "short": "toggle-applications-with-one-hand",
+          "concepts": [],
+          "title": "Toggle Applications with One Hand"
+        },
+        {
+          "short": "close-a-window",
+          "concepts": [],
+          "title": "Close a Window"
+        },
+        {
+          "short": "close-an-application",
+          "concepts": [],
+          "title": "Close an Application"
+        },
+        {
+          "short": "take-some-screenshots",
+          "concepts": [],
+          "title": "Take Some Screenshots"
+        },
+        {
+          "short": "complete-the-markdown-tutorial",
+          "concepts": [],
+          "title": "Complete the Markdown Tutorial"
+        },
+        {
+          "short": "edit-a-file-with-github",
+          "concepts": [],
+          "title": "Edit a File with GitHub"
+        },
+        {
+          "short": "create-first-github-issue",
+          "concepts": [],
+          "title": "Create First GitHub Issue"
+        },
+        {
+          "short": "create-custom-issue-labels",
+          "concepts": [],
+          "title": "Create Custom Issue Labels"
+        },
+        {
+          "short": "create-your-first-web-site",
+          "concepts": [],
+          "title": "Create Your First Web Site"
+        },
+        {
+          "short": "dragging-a-file-into-a-github-repo",
+          "concepts": [],
+          "title": "Dragging a File Into a GitHub Repo"
+        },
+        {
+          "short": "learn-to-learn-just-in-time",
+          "concepts": [],
+          "title": "Learn to Learn, Just in Time"
+        },
+        {
+          "short": "what-is-coding",
+          "concepts": [],
+          "title": "What is Coding?"
+        },
+        {
+          "short": "organic-learning",
+          "concepts": [],
+          "title": "Organic Learning"
+        },
+        {
+          "short": "choosing-a-computer",
+          "concepts": [],
+          "title": "Choosing a Computer"
+        },
+        {
+          "short": "login-with-mac-terminal",
+          "concepts": [],
+          "title": "Login with Mac Terminal"
+        },
+        {
+          "short": "login-with-codeanywherecom",
+          "concepts": [],
+          "title": "Login with CodeAnywhere.com"
+        },
+        {
+          "short": "bash-command-line-essentials",
+          "concepts": [],
+          "title": "Bash Command Line Essentials"
+        },
+        {
+          "short": "understand-basic-algebra-math",
+          "concepts": [],
+          "title": "Understand Basic Algebra Math"
+        },
+        {
+          "short": "attain-the-forest-in-codecombatcom",
+          "concepts": [],
+          "title": "Attain the Forest in CodeCombat.com"
+        },
+        {
+          "short": "configure-github-keys",
+          "concepts": [],
+          "title": "Configure GitHub Keys"
+        },
+        {
+          "short": "create-your-individual-development-plan-idp",
+          "concepts": [],
+          "title": "Create Your Individual Development Plan (IDP)"
         }
-      ]
+      ],
+      "title": "Prep Skills"
+    },
+    "issues": {
+      "parts": [],
+      "title": "Create First GitHub Issue"
+    },
+    "communications": {
+      "parts": [
+        {
+          "title": "Learn to Communicate for Yourself",
+          "concepts": [],
+          "short": "learn-to-communicate-for-yourself"
+        },
+        {
+          "title": "Urgent, Immediate: Use the Phone of Text",
+          "concepts": [],
+          "short": "urgent-immediate-use-the-phone-of-text"
+        },
+        {
+          "title": "Announcements and Info: Use Site and Slack #news",
+          "concepts": [],
+          "short": "announcements-and-info-use-site-and-slack-news"
+        },
+        {
+          "title": "Help and Ideas: Slack",
+          "concepts": [],
+          "short": "help-and-ideas-slack"
+        },
+        {
+          "title": "Enrollment and Makeups: Use Email",
+          "concepts": [],
+          "short": "enrollment-and-makeups-use-email"
+        },
+        {
+          "title": "Consultation: Email and Drop In",
+          "concepts": [],
+          "short": "consultation-email-and-drop-in"
+        },
+        {
+          "title": "General News and Information",
+          "concepts": [],
+          "short": "general-news-and-information"
+        }
+      ],
+      "title": "Understand Communications"
+    },
+    "markdown": {
+      "parts": [],
+      "title": "Complete the Markdown Tutorial"
+    },
+    "closeapp": {
+      "parts": [],
+      "title": "Close an Application"
+    },
+    "labels": {
+      "parts": [],
+      "title": "Create Custom Issue Labels"
+    },
+    "admission": {
+      "parts": [
+        {
+          "title": "Am I Ready?",
+          "concepts": [
+            "Minimum Requirements",
+            "Maturity",
+            "Level of Understanding",
+            "Motor Skills"
+          ],
+          "short": "am-i-ready"
+        },
+        {
+          "title": "Basic Admission Test",
+          "concepts": [
+            "15 Minute Admission Test",
+            "Gmail",
+            "Passwords",
+            "Reading Comprehension",
+            "Basic Math",
+            "Free Audit"
+          ],
+          "short": "basic-admission-test"
+        },
+        {
+          "title": "No Age Limit",
+          "concepts": [],
+          "short": "no-age-limit"
+        },
+        {
+          "title": "No Admission or Registration Fee",
+          "concepts": [],
+          "short": "no-admission-or-registration-fee"
+        },
+        {
+          "title": "Register Anytime",
+          "concepts": [
+            "First Time Registration",
+            "All Start in Prep"
+          ],
+          "short": "register-anytime"
+        }
+      ],
+      "title": "Admission"
+    },
+    "keys": {
+      "parts": [
+        {
+          "title": "Secret Decoder Rings",
+          "concepts": [],
+          "short": "secret-decoder-rings"
+        },
+        {
+          "title": "Secure Shell Keys",
+          "concepts": [],
+          "short": "secure-shell-keys"
+        },
+        {
+          "title": "Create a Key Pair with `ssh-keygen`",
+          "concepts": [],
+          "short": "create-a-key-pair-with-ssh-keygen"
+        },
+        {
+          "title": "Copy Your Public Key",
+          "concepts": [],
+          "short": "copy-your-public-key"
+        },
+        {
+          "title": "Paste Public Key into GitHub Settings",
+          "concepts": [],
+          "short": "paste-public-key-into-github-settings"
+        },
+        {
+          "title": "Test",
+          "concepts": [],
+          "short": "test"
+        },
+        {
+          "title": "Clone a Repo",
+          "concepts": [],
+          "short": "clone-a-repo"
+        },
+        {
+          "title": "Update Push Default",
+          "concepts": [],
+          "short": "update-push-default"
+        },
+        {
+          "title": "Update Profile Configuration",
+          "concepts": [],
+          "short": "update-profile-configuration"
+        }
+      ],
+      "title": "Configure GitHub Keys"
+    },
+    "math": {
+      "parts": [
+        {
+          "title": "You Can\u2019t Program Without Math",
+          "concepts": [],
+          "short": "you-cant-program-without-math"
+        },
+        {
+          "title": "How To Learn",
+          "concepts": [],
+          "short": "how-to-learn"
+        }
+      ],
+      "title": "Understand Basic Algebra Math"
+    },
+    "policies": {
+      "parts": [
+        {
+          "title": "Payment",
+          "concepts": [],
+          "short": "payment"
+        },
+        {
+          "title": "Strikes",
+          "concepts": [],
+          "short": "strikes"
+        },
+        {
+          "title": "Destruction of Property",
+          "concepts": [],
+          "short": "destruction-of-property"
+        },
+        {
+          "title": "Violation of Privacy, Information Theft",
+          "concepts": [],
+          "short": "violation-of-privacy-information-theft"
+        },
+        {
+          "title": "No Refunds",
+          "concepts": [],
+          "short": "no-refunds"
+        },
+        {
+          "title": "Referral Bonus",
+          "concepts": [],
+          "short": "referral-bonus"
+        },
+        {
+          "title": "First Paid, First Registered",
+          "concepts": [],
+          "short": "first-paid-first-registered"
+        },
+        {
+          "title": "Changing Classes",
+          "concepts": [],
+          "short": "changing-classes"
+        },
+        {
+          "title": "Four Students Minimum Required to Hold Course",
+          "concepts": [],
+          "short": "four-students-minimum-required-to-hold-course"
+        },
+        {
+          "title": "Learning to Code Demands Regular Attendance",
+          "concepts": [],
+          "short": "learning-to-code-demands-regular-attendance"
+        },
+        {
+          "title": "Makeups",
+          "concepts": [],
+          "short": "makeups"
+        },
+        {
+          "title": "Loss of Eligibility",
+          "concepts": [],
+          "short": "loss-of-eligibility"
+        },
+        {
+          "title": "Parent Visits",
+          "concepts": [],
+          "short": "parent-visits"
+        },
+        {
+          "title": "Understand Communications",
+          "concepts": [],
+          "short": "understand-communications"
+        },
+        {
+          "title": "Staff Rebates",
+          "concepts": [],
+          "short": "staff-rebates"
+        },
+        {
+          "title": "PayPal",
+          "concepts": [],
+          "short": "paypal"
+        }
+      ],
+      "title": "Agree to Policies"
     },
     "mailing": {
-      "title": "Join Mailing List",
       "parts": [
         {
           "title": "Checking Promotions Folder",
@@ -1111,14 +988,10 @@
           "concepts": [],
           "short": "add-contact-so-comes-to-main-folder"
         }
-      ]
-    },
-    "edit": {
-      "title": "Edit a File with GitHub",
-      "parts": []
+      ],
+      "title": "Join Mailing List"
     },
     "what": {
-      "title": "What is Coding?",
       "parts": [
         {
           "title": "Coding or Programming?",
@@ -1130,100 +1003,99 @@
           "concepts": [],
           "short": "programming-is-not-computer-science"
         }
-      ]
+      ],
+      "title": "What is Coding?"
     },
-    "pledge": {
-      "title": "Sign Student Pledge",
+    "flappy": {
       "parts": [
         {
-          "title": "Do: Help People Out",
+          "short": "image-asset-dimensions",
           "concepts": [],
-          "short": "do-help-people-out"
+          "title": "Image Asset Dimensions"
         },
         {
-          "title": "Do: Arrive on Time",
+          "short": "sound-assets",
           "concepts": [],
-          "short": "do-arrive-on-time"
+          "title": "Sound Assets"
         },
         {
-          "title": "Do: Leave on Time",
+          "short": "hacking-the-script",
           "concepts": [],
-          "short": "do-leave-on-time"
-        },
-        {
-          "title": "Do: Be Authentic",
-          "concepts": [],
-          "short": "do-be-authentic"
-        },
-        {
-          "title": "Do: Be Respectful",
-          "concepts": [],
-          "short": "do-be-respectful"
-        },
-        {
-          "title": "Do: Take Responsibility",
-          "concepts": [],
-          "short": "do-take-responsibility"
-        },
-        {
-          "title": "Don\u2019t: Touch Another\u2019s Computer",
-          "concepts": [],
-          "short": "dont-touch-anothers-computer"
-        },
-        {
-          "title": "Don\u2019t: Change *Anything* on a Computer",
-          "concepts": [],
-          "short": "dont-change-anything-on-a-computer"
-        },
-        {
-          "title": "Don\u2019t: Steal Information",
-          "concepts": [],
-          "short": "dont-steal-information"
-        },
-        {
-          "title": "Don\u2019t: Touch Other People",
-          "concepts": [],
-          "short": "dont-touch-other-people"
-        },
-        {
-          "title": "Don\u2019t: Bully",
-          "concepts": [],
-          "short": "dont-bully"
-        },
-        {
-          "title": "Don\u2019t: Disrespect",
-          "concepts": [],
-          "short": "dont-disrespect"
-        },
-        {
-          "title": "Don\u2019t: Criticize",
-          "concepts": [],
-          "short": "dont-criticize"
-        },
-        {
-          "title": "Don\u2019t: Use Hate",
-          "concepts": [],
-          "short": "dont-use-hate"
-        },
-        {
-          "title": "Don\u2019t: Willful Destroy Stuff or Litter",
-          "concepts": [],
-          "short": "dont-willful-destroy-stuff-or-litter"
-        },
-        {
-          "title": "Don\u2019t: Think You are the Exception",
-          "concepts": [],
-          "short": "dont-think-you-are-the-exception"
-        },
-        {
-          "title": "Do: Sign",
-          "concepts": [],
-          "short": "do-sign"
+          "title": "Hacking the Script"
         }
-      ]
+      ],
+      "title": "SkilStak Flappy"
+    },
+    "closewin": {
+      "parts": [],
+      "title": "Close a Window"
+    },
+    "terminal": {
+      "parts": [
+        {
+          "title": "`\u2318 + Space` for Spotlight",
+          "concepts": [],
+          "short": "--space-for-spotlight"
+        },
+        {
+          "title": "Secure Shell Login to `skilstak.sh`",
+          "concepts": [],
+          "short": "secure-shell-login-to-skilstaksh"
+        },
+        {
+          "title": "`\u2318 + +/-` to Increase/Decrease Font Size",
+          "concepts": [],
+          "short": "----to-increasedecrease-font-size"
+        },
+        {
+          "title": "`\u2318 + crtl + f` to Full Screen",
+          "concepts": [],
+          "short": "--crtl--f-to-full-screen"
+        }
+      ],
+      "title": "Login with Mac Terminal"
+    },
+    "upload": {
+      "parts": [
+        {
+          "title": "File Name Caution",
+          "concepts": [],
+          "short": "file-name-caution"
+        }
+      ],
+      "title": "Dragging a File Into a GitHub Repo"
+    },
+    "mastery": {
+      "parts": [
+        {
+          "title": "You Do Not Progress Until You Know It",
+          "concepts": [],
+          "short": "you-do-not-progress-until-you-know-it"
+        },
+        {
+          "title": "Speed",
+          "concepts": [],
+          "short": "speed"
+        }
+      ],
+      "title": "Mastery Based Learning"
+    },
+    "computer": {
+      "parts": [
+        {
+          "title": "Developers Overwhelmingly Prefer Mac and Linux",
+          "concepts": [],
+          "short": "developers-overwhelmingly-prefer-mac-and-linux"
+        },
+        {
+          "title": "So what do you have against Microsoft?",
+          "concepts": [],
+          "short": "so-what-do-you-have-against-microsoft"
+        }
+      ],
+      "title": "Choosing a Computer"
     },
     "screenshot": {
-      "title": "Take Some Screenshots",
       "parts": [
         {
           "title": "Mac",
@@ -1245,32 +1117,176 @@
           "concepts": [],
           "short": "animated-gifs"
         }
-      ]
+      ],
+      "title": "Take Some Screenshots"
     },
-    "websites": {
-      "title": "Know Your Web Sites",
+    "edit": {
+      "parts": [],
+      "title": "Edit a File with GitHub"
+    },
+    "verify": {
+      "parts": [],
+      "title": "Get Verified"
+    },
+    "path": {
       "parts": [
         {
-          "title": "Main",
+          "title": "Python",
           "concepts": [],
-          "short": "main"
+          "short": "python"
         },
         {
-          "title": "Location",
+          "title": "Web",
           "concepts": [],
-          "short": "location"
-        },
-        {
-          "title": "Shortcuts",
-          "concepts": [],
-          "short": "shortcuts"
-        },
-        {
-          "title": "Personal",
-          "concepts": [],
-          "short": "personal"
+          "short": "web"
         }
-      ]
+      ],
+      "title": "Pick a Path"
+    },
+    "idp": {
+      "parts": [
+        {
+          "title": "A Conversation",
+          "concepts": [],
+          "short": "a-conversation"
+        },
+        {
+          "title": "Goals",
+          "concepts": [],
+          "short": "goals"
+        },
+        {
+          "title": "Long Term Vision",
+          "concepts": [],
+          "short": "long-term-vision"
+        },
+        {
+          "title": "Come Back Often",
+          "concepts": [],
+          "short": "come-back-often"
+        }
+      ],
+      "title": "Create Your Individual Development Plan (IDP)"
+    },
+    "codeanywhere": {
+      "parts": [
+        {
+          "title": "Creating an Account: GitHub or Google?",
+          "concepts": [],
+          "short": "creating-an-account-github-or-google"
+        },
+        {
+          "title": "SFTP-SSH Connection Setup",
+          "concepts": [],
+          "short": "sftp-ssh-connection-setup"
+        },
+        {
+          "title": "Only for Education",
+          "concepts": [],
+          "short": "only-for-education"
+        },
+        {
+          "title": "Slower",
+          "concepts": [],
+          "short": "slower"
+        },
+        {
+          "title": "No Solarized",
+          "concepts": [],
+          "short": "no-solarized"
+        },
+        {
+          "title": "Alternative Editor",
+          "concepts": [],
+          "short": "alternative-editor"
+        }
+      ],
+      "title": "Login with CodeAnywhere.com"
+    },
+    "read": {
+      "parts": [],
+      "title": "Be Willing and Able to Read, A Lot"
+    },
+    "pproj": {
+      "parts": [],
+      "title": "Prep Projects"
+    },
+    "organic": {
+      "parts": [
+        {
+          "title": "Learning is Messy",
+          "concepts": [],
+          "short": "learning-is-messy"
+        }
+      ],
+      "title": "Organic Learning"
+    },
+    "jit": {
+      "parts": [],
+      "title": "Learn to Learn, Just in Time"
+    },
+    "gmail": {
+      "parts": [
+        {
+          "title": "13 and Up",
+          "concepts": [],
+          "short": "13-and-up"
+        },
+        {
+          "title": "Your Most Important Password",
+          "concepts": [],
+          "short": "your-most-important-password"
+        },
+        {
+          "title": "Multiple Gmail Accounts",
+          "concepts": [],
+          "short": "multiple-gmail-accounts"
+        }
+      ],
+      "title": "Create Google Gmail Account"
     }
-  }
+  },
+  "order": [
+    "admission",
+    "overview",
+    "read",
+    "chrome",
+    "mailing",
+    "gmail",
+    "slack",
+    "offerings",
+    "path",
+    "codecombat",
+    "passwords",
+    "websites",
+    "policies",
+    "communications",
+    "pledge",
+    "typing",
+    "toggle",
+    "closewin",
+    "closeapp",
+    "screenshot",
+    "markdown",
+    "edit",
+    "issues",
+    "labels",
+    "upload",
+    "jit",
+    "what",
+    "organic",
+    "mastery",
+    "computer",
+    "terminal",
+    "codeanywhere",
+    "bash",
+    "math",
+    "forest",
+    "keys",
+    "idp",
+    "verify",
+    "pproj",
+    "teachers"
+  ],
+  "title": "\ud83d\udcd6 Preparing for Fundamentals"
 }
