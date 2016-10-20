@@ -65,10 +65,10 @@ or personal connection, we strongly recommend
 [KhanAcademy.com](http://khanacademy.com) to help bring potential
 students math levels up to our minimums.
 
-> ⛔ *Unfortunately, for the sake
+> ⛔ **Unfortunately, for the sake
 > of other students, we cannot accept students who do not meet our
 > minimum math requirements under any circumstances and have no plans to
-> add math instruction to our curriculum.*
+> add math instruction to our curriculum.**
 
 ## [⏫ Basic Admission Test](#)
 
