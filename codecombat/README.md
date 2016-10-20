@@ -14,16 +14,16 @@ programming online. Let's create an account, or two.
 > *love* CodeCombat and think it is really the best online learning
 > resource for programming available to students ages eight and up.
 > 
-> **Open Source:** The source of [CodeCombat is completely open
-> and available][open] for anyone to use or modify as they wish. This
+> **Open Source:** The source of CodeCombat is completely open
+> and available for anyone to use or modify as they wish. This
 > is a major reason we use CodeCombat. Everything we do is completely
 > available for free and we feel strongly in supporting those that
-> feel the same way whether it be CodeCombat, [FreeCodeCamp][], or
-> [MIT][].
+> feel the same way whether it be CodeCombat, FreeCodeCamp, or
+> MIT.
 >
 > **Responsive Team of Developers:** The team behind CodeCombat is
-> amazing and available pretty much constantly via their [public
-> developer chat channels][chat]. If you think you have found a bug
+> amazing and available pretty much constantly via their public
+> developer chat channels. If you think you have found a bug
 > jump into the chat room and let them know.  They'll appreciate it.
 > In fact, the developers and architects are often available for a
 > phone conversation to discuss ways to make CoCo even better. This
@@ -53,7 +53,7 @@ programming online. Let's create an account, or two.
 
 ## [⏫ Create Two Accounts](#)
 
-When you [picked your primary technology path](#-pick-a-path), you also
+When you picked your primary technology path, you also
 picked the main language you will learn in CodeCombat, Python or
 JavaScript (Web). You should go ahead and create accounts for both
 languages right just both are there when you want them. If you are
