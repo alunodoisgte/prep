@@ -14,6 +14,21 @@ that don’t:
 2. Able to use the basic tools we use
 3. Willing and able to contribute to the learning of others
 
+## Table of Contents
+
+1. [**Am I Ready?**](#user-content--am-i-ready)
+ 1. [**Primary Requirements for Enrollment**](#user-content--primary-requirements-for-enrollment)
+2. [**Basic Admission Test**](#user-content--basic-admission-test)
+ 1. [**Reading Comprehension**](#user-content--reading-comprehension)
+ 2. [**Self Expression, Basic Typed Communication**](#user-content--self-expression-basic-typed-communication)
+ 3. [**Basic Math**](#user-content--basic-math)
+ 4. [**Strictly Timed**](#user-content--strictly-timed)
+ 5. [**Unlimited Attempts, Fee Required**](#user-content--unlimited-attempts-fee-required)
+ 6. [**Tutoring**](#user-content--tutoring)
+3. [**No Age Limit**](#user-content--no-age-limit)
+4. [**No Admission or Registration Fee**](#user-content--no-admission-or-registration-fee)
+5. [**Register Anytime**](#user-content--register-anytime)
+
 ## [⏫ Am I Ready?](#)
 
 > Concepts: Minimum Requirements, Maturity, Level of Understanding,
