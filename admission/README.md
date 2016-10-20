@@ -39,6 +39,9 @@ basic assessment test—before admitting *any* student.
 
 ### [⏫ Primary Requirements for Enrollment](#)
 
+> ⛔ We have students as young as seven attending and learning
+> productively but **SkilStak™ is not a daycare.** 
+
 1. Willing and able to read
 2. Willing and able to type 10 wpm (24 for Fundamentals)
 3. Willing and able to remember passwords and use email effectively
@@ -47,8 +50,25 @@ basic assessment test—before admitting *any* student.
 6. Can do basic addition, subtraction, division, multiplication,
    fractions, and decimals
 
-> ⛔ We have students as young as seven attending and learning
-> productively but **SkilStak™ is not a daycare.** 
+The hardest of these for most is remembering passwords and the math.
+
+Any password strategy a parent and student can come up with works
+including sending the student to class every week with a new paper
+with their printed passwords on it.
+
+As for the math, well, unfortunately our public education system
+is woefully bad at bringing most students to even a fundamental
+[mastery](/mastery/README.md) of basic math no matter what the
+method of the day seems to be popular. While we have no professional
+or personal connection, we strongly recommend
+[Mathnasium](http://www.mathnasium.com) or
+[KhanAcademy.com](http://khanacademy.com) to help bring potential
+students math levels up to our minimums.
+
+> ⛔ *Unfortunately, for the sake
+> of other students, we cannot accept students who do not meet our
+> minimum math requirements under any circumstances and have no plans to
+> add math instruction to our curriculum.*
 
 ## [⏫ Basic Admission Test](#)
 
