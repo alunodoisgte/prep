@@ -106,7 +106,7 @@ candidate is not yet ready for admission.
 > exam including logging the potential student into Gmail. Parents
 > must remain in another room or off site during the exam. ***All
 > preparations for the exam must be completed before arriving
-> at SkilStak™***
+> at SkilStak™***.
 
 ### [⏫ Reading Comprehension](#)
 
