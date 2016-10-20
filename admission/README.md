@@ -115,7 +115,7 @@ a web site and reading the material and responding by typed responses.
 (ex: Go to skilstak.io and read enough to answer this question: how
 many students are generally assigned to a single teacher assistant?)
 
-### [⏫ Typing and Communication](#)
+### [⏫ Self Expression, Basic Typed Communication](#)
 
 This is a general question usually related to the student’s goals,
 desires, and opinions to check the candidate’s ability to minimally
