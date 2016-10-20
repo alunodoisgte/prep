@@ -1,12 +1,14 @@
-# [⏪ Bash Command Line Essentials](/README.md)
+# [⏪ Command Line Essentials](/README.md)
 
-`bash` is the most powerful, prominent command line in history.
-Every Mac and Linux machine comes with it and [Windows *finally*
-added it](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md)
-to their developer version. This is the reason we have a `skilstak.sh`
+The command line, `bash`, is the most powerful, prominent command
+line in history.  Every Mac and Linux machine comes with it and
+[Windows *finally* added
+it](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md) to
+their developer version. This is the reason we have a `skilstak.sh`
 is to ensure everyone learns the power of the command line as
-professional do. At this point you should already known how to connect
-with the [Terminal](/terminal/README.md) or [CodeAnywhere](/codeanywhere/README.md).
+professional do. At this point you should already known how to
+connect with the [Terminal](/terminal/README.md) or
+[CodeAnywhere](/codeanywhere/README.md).
 
 ## [⏫ Login](#)
 

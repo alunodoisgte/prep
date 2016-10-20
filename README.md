@@ -177,7 +177,7 @@ please be patient and thorough.
   4. [**Slower**](codeanywhere/README.md#user-content--slower)
   5. [**No Solarized**](codeanywhere/README.md#user-content--no-solarized)
   6. [**Alternative Editor**](codeanywhere/README.md#user-content--alternative-editor)
-33. [**Bash Command Line Essentials** (`cli`)](cli/README.md)
+33. [**Command Line Essentials** (`cli`)](cli/README.md)
   1. [**Login**](cli/README.md#user-content--login)
   2. [**Help**](cli/README.md#user-content--help)
   3. [**List Files and Directories**](cli/README.md#user-content--list-files-and-directories)
