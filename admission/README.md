@@ -63,7 +63,9 @@ method of the day seems to be popular. While we have no professional
 or personal connection, we strongly recommend
 [Mathnasium](http://www.mathnasium.com) or
 [KhanAcademy.com](http://khanacademy.com) to help bring potential
-students math levels up to our minimums.
+students math levels up to our minimums. Mathnasium costs are
+reasonable considering the unlimited amount of attendance during
+a given month. Khanacademy.com, of course, is free.
 
 > ⛔ **Unfortunately, for the sake
 > of other students, we cannot accept students who do not meet our
