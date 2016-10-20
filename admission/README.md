@@ -114,7 +114,7 @@ a web site and reading the material and responding by typed responses.
 ### [⏫ Basic Math](#)
 
 The test will also include several basic math questions involving
-addition, subtraction, multiplication, division, fractions, decimals
+addition, subtraction, multiplication, division, fractions, basic decimals
 and simple graphing coordinates.
 
 ### [⏫ Strictly Timed](#)
