@@ -112,12 +112,24 @@ candidate is not yet ready for admission.
 
 The test questions will include reading comprehension by going to
 a web site and reading the material and responding by typed responses.
+(ex: Go to skilstak.io and read enough to answer this question: how
+many students are generally assigned to a single teacher assistant?)
+
+### [⏫ Typing and Communication](#)
+
+This is a general question usually related to the student’s goals,
+desires, and opinions to check the candidate’s ability to minimally
+compose their thoughts and communicate them through typed email
+responses. Students throughout all the courses are expected to log
+their progress and express themselves in this way. (ex: In a few
+sentences describe what it is that you like about SkilStak™ and what
+you intend to do eventually with your new coding powers?)
 
 ### [⏫ Basic Math](#)
 
-The test will also include several basic math questions involving
+The test will also include one or more basic math questions involving
 addition, subtraction, multiplication, division, fractions, basic decimals
-and simple graphing coordinates.
+and simple graphing coordinates. (ex: What is 5 divided by 2?)
 
 ### [⏫ Strictly Timed](#)
 
