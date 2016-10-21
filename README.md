@@ -48,9 +48,7 @@ please be patient and thorough.
 4. [**Google Chrome Web Browser** (`chrome`)](chrome/README.md)
   1. [**Why Google Chrome?**](chrome/README.md#user-content--why-google-chrome)
       <br>💡 Browser Adoption ◦ Browser Security ◦ Browser Quality
-  2. [**Download and Install Chrome**](chrome/README.md#user-content--download-and-install-chrome)
-      <br>💡 Chrome Installation
-  3. [**Use Chrome Incognito**](chrome/README.md#user-content--use-chrome-incognito)
+  2. [**Use Chrome Incognito**](chrome/README.md#user-content--use-chrome-incognito)
 5. [**Join Mailing List** (`mailing`)](mailing/README.md)
   1. [**Checking Promotions Folder**](mailing/README.md#user-content--checking-promotions-folder)
   2. [**Confirm Subscription**](mailing/README.md#user-content--confirm-subscription)

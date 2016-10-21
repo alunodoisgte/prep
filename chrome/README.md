@@ -8,8 +8,7 @@ being stolen with Incognito.
 ## Table of Contents
 
 1. [**Why Google Chrome?**](#user-content--why-google-chrome)
-2. [**Download and Install Chrome**](#user-content--download-and-install-chrome)
-3. [**Use Chrome Incognito**](#user-content--use-chrome-incognito)
+2. [**Use Chrome Incognito**](#user-content--use-chrome-incognito)
 
 ## [⏫ Why Google Chrome?](#)
 
@@ -23,15 +22,6 @@ most advanced and popular in the world.
 Not only does Google Chrome comply with the existing standards but
 often implements them well before the standard has been adopted by any
 other browser. Frequently Chrome is the first to implement it.
-
-## [⏫ Download and Install Chrome](#)
-
-> Concepts: Chrome Installation
-
-![](/assets/ie.jpg)
-
-It is as simple as Googling `install chrome` in whatever browser you
-have to use, downloading, and clicking on it.
 
 ## [⏫ ⏪ Use Chrome Incognito](#)
 
