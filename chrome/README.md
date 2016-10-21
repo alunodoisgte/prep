@@ -1,11 +1,44 @@
-# [⏪ Use Chrome Incognito](/README.md)
+# [⏪ Google Chrome Web Browser](/README.md)
 
-> Concepts: Browser Security 
+In this lesson you learn to download, and install Chrome if you do
+not already have it, why you would want to, and how to setup Chrome
+for use at SkilStak™ including how to prevent your information from
+being stolen with Incognito.
+
+## Table of Contents
+
+1. [**Why Google Chrome?**](#user-content--why-google-chrome)
+2. [**Download and Install Chrome**](#user-content--download-and-install-chrome)
+3. [**Use Chrome Incognito**](#user-content--use-chrome-incognito)
+
+## [⏫ Why Google Chrome?](#)
+
+> Concepts: Browser Adoption, Browser Security, Browser Quality
 
 Google Chrome is the only browser we use.  It is indisputably the
 most advanced and popular in the world.
 
 ![](/assets/browsers.png)
+
+Not only does Google Chrome comply with the existing standards but
+often implements them well before the standard has been adopted by any
+other browser. Frequently Chrome is the first to implement it.
+
+## [⏫ Download and Install Chrome](#)
+
+> Concepts: Chrome Installation
+
+![](/assets/ie.jpg)
+
+It is as simple as Googling `install chrome` in whatever browser you
+have to use, downloading, and clicking on it.
+
+## [⏫ ⏪ Use Chrome Incognito](#)
+
+Whenever you use a web browser on a system you do not trust, even here
+since the student sitting in your chair after you might not even know
+to logout and might delete all your bookmarks or email, (which has
+unfortunately happened more than once here).
 
 **Incognito (in-cog-NEE-to) is a way to use Chrome so that the
 person before you or after you is not affected by what you do.**
