@@ -18,7 +18,7 @@ rarely works for a long time, consider creating a notebook or piece of
 paper that you bring with you to class, or take a picture of it with
 your phone. Don't forget a backup.
 
-## Never Use “Remember/Save Password”
+## [⏫ Never Use “Remember/Save Password”](#)
 
 Unless you are absolutely sure no one will ever use the computer you
 are using do *not* use any sort of *remember or save password* option.
