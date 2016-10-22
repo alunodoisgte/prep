@@ -18,6 +18,14 @@ rarely works for a long time, consider creating a notebook or piece of
 paper that you bring with you to class, or take a picture of it with
 your phone. Don't forget a backup.
 
+## Never Use “Remember/Save Password”
+
+Unless you are absolutely sure no one will ever use the computer you
+are using do *not* use any sort of *remember or save password* option.
+All anyone has to do is inspect element on that password box and
+change `password` to `text` to see your actual password. You have been
+warned.
+
 ## [⏫ Google Password Recovery](#)
 
 **The most important password of all is your Google/Gmail password.**
