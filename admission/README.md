@@ -62,8 +62,8 @@ basic assessment test—before admitting *any* student.
 3. Willing and able to remember passwords
 4. Willing to do work in class and not distract others
 5. Not monopolize the attention of the instructor or TA
-6. Can do basic addition, subtraction, division, multiplication,
-   fractions, and decimals
+6. Can do basic addition, subtraction, multiplication, and division
+   with remainders
 
 The hardest of these for most is remembering passwords and the math.
 
