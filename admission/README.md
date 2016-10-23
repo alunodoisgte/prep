@@ -59,7 +59,7 @@ basic assessment test—before admitting *any* student.
 
 1. Willing and able to read
 2. Willing and able to type 10 wpm (24 for Fundamentals)
-3. Willing and able to remember passwords and use email effectively
+3. Willing and able to remember passwords
 4. Willing to do work in class and not distract others
 5. Not monopolize the attention of the instructor or TA
 6. Can do basic addition, subtraction, division, multiplication,
@@ -89,7 +89,7 @@ a given month. Khanacademy.com, of course, is free.
 
 ## [⏫ Basic Admission Test](#)
 
-> Concepts: 15 Minute Admission Test, Gmail, Passwords,
+> Concepts: 15 Minute Admission Test, Passwords,
 > Reading Comprehension, Basic Math, Free Audit
 
 When considering SkilStak™ part of the process is for the potential
@@ -102,16 +102,13 @@ While the exact content of every exam will differ slightly for every
 student the format and general areas will be the same. They are as
 follows:
 
-1. Login to Gmail
-2. Send email to your SkilStak™ location’s email address asking for
-   the test
-3. Receive the response email containing the test questions
-4. Complete the answers to the test questions in the email
-5. Send the completed test as an email response back
+1. Read a paragraph on a web page and answer questions about it
+2. Write 2-3 sentences describing why the student wants to attend
+3. Answer 2-3 math problems including remainders and 0-12 times tables 
 
 This all happens during the 15 minutes that the student is on site
 at SkilStak™. The location manager, who is essentially the principal
-of the school, will personally review the exam and make the
+of the school, will personally review the results and make the
 decision that same day before you leave. He or she can then discuss
 the options including referring a personal tutor from among senior
 student teachers and teacher assistants if the exam reveals the

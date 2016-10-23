@@ -26,7 +26,7 @@ please be patient and thorough.
   1. [**Am I Ready?**](admission/README.md#user-content--am-i-ready)
       <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
   2. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
-      <br>💡 15 Minute Admission Test ◦ Gmail ◦ Passwords ◦ Reading Comprehension ◦ Basic Math ◦ Free Audit
+      <br>💡 15 Minute Admission Test ◦ Passwords ◦ Reading Comprehension ◦ Basic Math ◦ Free Audit
   3. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
   4. [**No Admission or Registration Fee**](admission/README.md#user-content--no-admission-or-registration-fee)
   5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
