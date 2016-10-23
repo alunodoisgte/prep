@@ -1,5 +1,27 @@
 # [⏪ Create CodeCombat.com Account(s)](/README.md)
 
+> ⛔ If you are under 13 you can skip all of the creation stuff and
+> [start playing][] since your accounts should have already been setup
+> by your location manager. Ask them for your information if you
+> do not remember it.
+
+[start playing]: #user-content--start-the-dungeon 
+
+## Table of Contents
+
+1. [**Overview**](#user-content--overview)
+2. [**Select “Play Now”**](#user-content--select-play-now)
+3. [**Select “Sign Up”**](#user-content--select-sign-up)
+4. [**“Sign up as an individual”**](#user-content--sign-up-as-an-individual)
+5. [**Decide Birthday to Use**](#user-content--decide-birthday-to-use)
+6. [**Do NOT Connect with Facebook or Google!**](#user-content--do-not-connect-with-facebook-or-google)
+7. [**Create Two Accounts**](#user-content--create-two-accounts)
+8. [**Repeat**](#user-content--repeat)
+9. [**“Start Playing”**](#user-content--start-playing)
+10. [**Start the Dungeon**](#user-content--start-the-dungeon)
+
+## [⏫ Overview](#)
+
 Welcome to CodeCombat, the most fun we have found to learn
 programming online. Let's create an account, or two.
 
