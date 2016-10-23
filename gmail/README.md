@@ -2,25 +2,47 @@
 
 ![](/assets/gmail.png)
 
-Having a Google account is an absolute essential today. There's no way
-around it. Most web services and games have an option to login with
-Google. There is also no email service that beats Gmail in its
-ability to filter out spam, manage your inbox, and create multiple
-accounts. ***You must have a Google Gmail account to be here,*** not
-a Gmail account tied to a Yahoo or Hotmail address, but an *actual*
-gmail account. Later, if you really want, you can forward your Gmail
-to your other account (but we strongly recommend picking
-a Gmail address to use for the rest of your technology life).
+Having a Google account is an absolute essential today and **required
+for being a SkilStak™ student**. Most web services and games have an
+option to login with Google. There is also no email service that
+beats Gmail in its ability to filter out spam, manage your inbox,
+and create multiple accounts.  
+
+## [⏫ Under 13](#)
+
+If you are under 13 you will already have an email setup that belongs
+to your SkilStak™ location manager. You won’t have access to the
+emails sent to it, but can use it for any educational tool that needs
+an email provided. The format of the email is
+`skilstak.<location>+<yourid>.<suf>@gmail.com`. Here are some email
+address examples as used by different services:
+
+* GitHub: `skilstak.cornelius+you@gmail.com`
+* Slack: `skilstak.cornelius+you@gmail.com`
+* CodeCombat (Python): `skilstak.cornelius+you.py@gmail.com`
+* CodeCombat (Web): `skilstak.cornelius+you.js@gmail.com`
+
+> ⛔ Do NOT continue if you are under 13. The rest of this page is for
+> those 13 or over **only** who wish to create their own Gmail
+> account.
+>
+> 💬 Even if your parents have setup an email for you we will still use
+> your SkilStak™ email until you are 13 to ensure password recovery
+> and such can be done quickly without needing your parents to
+> intervene. For parents who request it we can setup an auto-forward
+> of a copy of every email received by the student to an email they
+> provide.
 
 ## [⏫ 13 and Up](#)
 
-***If you are under 13 you are not legally allowed to have a Gmail
-account.*** Your parents *are* allowed to have an account, however.
-Your parents are the ones creating the account and they are the one
-using it. This is important to accept and remember. If you are under
-13 the Gmail account your parents create is theirs and they are
-responsible for how it is used. If you ask really nicely they might
-let you use it.
+> ⛔ If you are under 13 *STOP NOW!*
+
+> 💬 Unlike other schools, after you turn 13 we can setup a permanent
+> forward to whatever email you have setup for yourself. If you have
+> just turned 13 contact your *location manager* to help setup
+> forwarding. Keep in mind that your location manager will have access
+> to all, but only, emails send through your SkilStak™ address so you
+> will want to tell everyone to use your new address only.
 
 ![](/assets/gmail-age.png)
 
