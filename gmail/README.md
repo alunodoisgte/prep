@@ -44,8 +44,6 @@ address examples as used by different services:
 > to all, but only, emails send through your SkilStak™ address so you
 > will want to tell everyone to use your new address only.
 
-![](/assets/gmail-age.png)
-
 ## [⏫ Your Most Important Password](#)
 
 Gmail is the most important account and password information that you
