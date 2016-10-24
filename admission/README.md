@@ -192,7 +192,7 @@ a $50 admission fee to cover the cost of the following work:
 1. Creating [CodeCombat accounts](http://coco.skilstak.io)
 1. Create a [GitHub account](http://github.skilstak.io)
 1. Create a [`skilstak.sh`](http://cli.skilstak.io)
-
+1. Configure [GitHub keys](http://keys.skilstak.io)
 
 Those students 13 and up have the option of waving this fee and doing
 these things themselves with their parents at home either before or
