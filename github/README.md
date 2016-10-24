@@ -25,13 +25,14 @@ getting the visibility and the jobs of their choice are.
 > companies in particular is that they become walled off from
 > innovation and new discoveries happening outside their own
 > enterprise. Many careers have died when such individuals suddenly
-> find themselves looking for a job with a toll box full of old,
+> find themselves looking for a job with a tool box full of old,
 > rusted, dull tools. Keep your tools sharp at all times, no matter
 > where you are working. Imagine if a doctor, or even an orthodontist
 > did not keep up on new technologies and techniques. Yet somehow
 > technologists get lulled into thinking they are not required to hold
 > themselves to the same standard of up-to-date-ness.
 
+## 
 ![](/assets/github1.png)
 ![](/assets/github2.png)
 ![](/assets/github3.png)
