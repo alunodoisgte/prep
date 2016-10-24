@@ -6,8 +6,10 @@
 
 ## Table of Contents
 
+1. [**“Facebook for Developers”**](#user-content--facebook-for-developers)
+2. [****](#user-content--)
 
-## “Facebook for Developers”
+## [⏫ “Facebook for Developers”](#)
 
 Although people call it that, it is so much more. We have had
 students approached for jobs based on what was in their GitHub repo.
@@ -32,8 +34,8 @@ getting the visibility and the jobs of their choice are.
 > technologists get lulled into thinking they are not required to hold
 > themselves to the same standard of up-to-date-ness.
 
-## 
-![](/assets/github1.png)
+## [⏫ 
+![](/assets/github1.png)](#)
 ![](/assets/github2.png)
 ![](/assets/github3.png)
 ![](/assets/github4.png)
