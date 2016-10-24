@@ -1,15 +1,26 @@
 # [⏪ Join the Slack Chat Room](/README.md)
 
-**The chat room is the most important thing for you to remember
-from this class.** Everything else depends on it. **You should check
-the chat at least once a week** to stay informed about what is going
-on. If you forget how to get to it, go to the home page
-([skilstak.io](http://skilstak.io)) and find your location. The
-chat room is linked from there. If you have questions about anything
-else, where something is, how to do it, if we are open, *everything*
-is in there. **Each chat room is private for your location and you
-can direct message anyone at the location including students and
-staff.**
+> 💬 **The chat room is the most important thing for you to learn and
+rememeber from this Prep course.** Everything else depends on it.
+
+Each school or group has their own Slack Chat room. This tool helps
+you with many important things
+
+1. You find your workbook invites in your course channel (ex: #prep)
+1. You can ask questions about anything
+1. You can make and stay connected with friends
+1. You can coordinate your work on projects with your team
+1. You can post your projects and work for others to review
+1. You can read about news, alerts, and events `#news`
+
+**You should check the chat at least once a week** to stay informed
+about what is going on. If you forget how to get to it, go to the
+home page ([skilstak.io](http://skilstak.io)) and find your location.
+The chat room is linked from there. If you have questions about
+anything else, where something is, how to do it, if we are open,
+*everything* is in there. **Each chat room is private for your
+location and you can direct message anyone at the location including
+students and staff.**
 
 ![](/assets/slack.png)
 
