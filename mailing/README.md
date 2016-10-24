@@ -1,5 +1,11 @@
 # [⏪ Join Mailing List](/README.md)
 
+> 🍎 Only students 13 and over are required to do this step for
+> themselves although *any* semester-enrolled student needs to
+> understand how to get it and ensure their parents understand. The
+> billing email address at registration is submitted to the mailing
+> list and needs follow up confirmation.
+
 You should sign up for the mailing list in your location section of
 the web page. Make sure you and your emergency contact are on
 it.
