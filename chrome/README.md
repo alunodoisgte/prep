@@ -1,9 +1,13 @@
 # [⏪ Google Chrome Web Browser](/README.md)
 
+
 In this lesson you learn to download, and install Chrome if you do
-not already have it, why you would want to, and how to setup Chrome
+not already have it, why you want to use it, and how to setup Chrome
 for use at SkilStak™ including how to prevent your information from
 being stolen with Incognito.
+
+> 🍎 In many cases Chrome is already installed and students simply need
+> to learn how to use it and why.
 
 ## Table of Contents
 
