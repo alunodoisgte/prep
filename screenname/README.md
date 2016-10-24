@@ -22,6 +22,12 @@ completely anonymous.
 > and only seen by you and your location manager and SkilStak™ staff.
 > Not even your parents can see your workbook repos without you
 > showing it to them, which we expect you will do when asked.
+>
+> 💬 Eventually, after you are 13 at least, we encourage you to
+> associate your full name with your GitHub repo since potential
+> employers and colleges often search GitHub for candidates. Even then
+> only the projects you choose to make public will be there because
+> all SkilStak™ work will be in private repos.
 
 ## [⏫ All Lowercase](#)
 
