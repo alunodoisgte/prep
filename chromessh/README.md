@@ -9,7 +9,7 @@
 > assistance helping them through this setup at home.
 
 > ⛔ **This is the only supported method of connecting for Windows
-> PCs.** All other methods to not support the full Unicode character
+> PCs.** All other methods do not support the full Unicode character
 > set used in all world-wide programming as well as the simple
 > [emojis](http://emoji.skilstak.io) that we use in our courses to
 > keep the terminal as fun as possible.
