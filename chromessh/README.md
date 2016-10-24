@@ -1,8 +1,9 @@
 # [⏪ Login with Chrome SSH Extension](/README.md)
 
 > 🍎 **Students under 13 will need to have their parents set this up for
-> them at home on the PC the student will be using** since they will not
-> have a full Gmail account at SkilStak™, which is required to 
+> them at home on the PC the student will be using** since the
+> student will not
+> have a full [Gmail account at SkilStak™][gmail], which is required to 
 > add any extension. Parents can
 > follow these steps and consult with their location manager for
 > assistance helping them through this setup at home.
@@ -12,6 +13,8 @@
 > set used in all world-wide programming as well as the simple
 > [emojis](http://emoji.skilstak.io) that we use in our courses to
 > keep the terminal as fun as possible.
+
+[gmail]: http://gmail.skilstak.io
 
 In this lesson you learn how to get, install, configure, and use the
 Google Chrome SSH Extension to connect to the `skilstak.sh` command
