@@ -43,6 +43,9 @@ reason we require learning it.
 
 ## [⏫ Get an Invite](#)
 
+> 🍎 Students under 13 will automatically be added to their chat room
+> and just need to learn to login and remember their password.
+
 Because we use a private repo (for obvious reasons) you'll need an
 invite from your instructor, teacher assistant, or location manager.
 Here's what it looks like in your in box:

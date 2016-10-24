@@ -31,7 +31,9 @@ that don’t:
  5. [**Unlimited Attempts, Fee Required**](#user-content--unlimited-attempts-fee-required)
  6. [**Tutoring**](#user-content--tutoring)
 3. [**No Age Limit**](#user-content--no-age-limit)
-4. [**No Admission or Registration Fee**](#user-content--no-admission-or-registration-fee)
+4. [**Fees**](#user-content--fees)
+ 1. [**One-Time Admission Fee**](#user-content--one-time-admission-fee)
+ 2. [**Late Registration**](#user-content--late-registration)
 5. [**Register Anytime**](#user-content--register-anytime)
 
 ## [⏫ Am I Ready?](#)
@@ -175,17 +177,32 @@ can pass.
 While our custom course material is designed for those generally from
 eight to eighteen *anyone* of *any* age can seek admission.
 
-## [⏫ No Admission or Registration Fee](#)
+## [⏫ Fees](#)
 
 > Concept: Fees, Registration Costs, Late Registration
 
-Unlike other programs there is no fee for the initial audit and any
-enrollment or registration, only the cost of the course, any late
-fees, and any subsequent admission exam attempts.
+### [⏫ One-Time Admission Fee](#)
 
-> ⛔ However, there *is* a $50 fee for ***late*** registration every
-> semester. This is waved for first-time students entering at
-> any time during the semester.
+All first-time students who are under 13 are automatically assessed
+a $50 admission fee to cover the cost of the following work:
+
+1. Adding parents to [mailing list](http://mailing.skilstak.io)
+1. Creating the [SkilStak Gmail addresses](http://gmail.skilstak.io)
+1. Adding student to [Slack chat room](http://slack.skilstak.io)
+1. Creating [CodeCombat accounts](http://coco.skilstak.io)
+1. Create a [GitHub account](http://github.skilstak.io)
+1. Create a [`skilstak.sh`](http://cli.skilstak.io)
+
+
+Those students 13 and up have the option of waving this fee and doing
+these things themselves with their parents at home either before or
+during their Prep course.
+
+### [⏫ Late Registration](#)
+
+There *is* also a $50 fee for ***late*** registration every semester.
+This is waved for first-time students entering at any time during
+the semester.
 
 ## [⏫ Register Anytime](#)
 

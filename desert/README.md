@@ -1,7 +1,7 @@
-# [⏪ Attain the Forest in CodeCombat.com](/README.md)
+# [⏪ Attain the Desert in CodeCombat.com](/README.md)
 
 We have discussed the value of [CodeCombat](http://codecombat.com)
-already. Getting into the *Forest* demonstrates that you are familiar
+already. Getting into the *Desert* demonstrates that you are familiar
 with at least basics enough to move on into *Fundamentals*.
 
 ---
