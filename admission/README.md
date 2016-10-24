@@ -1,5 +1,10 @@
 # [⏪ Admission](/README.md)
 
+> 🍎 This part is for those applying for semester enrollment and can be
+> skipped by those doing on-site programs. It might be worth reading
+> for teachers and parents, however, to give a sense of who this
+> course is for. We heavily summarize this for students under 13.
+
 We welcome everyone to SkilStak™ from all backgrounds and abilities.
 In fact, often those that think coding might not be for them end up
 the best coders of all. 
