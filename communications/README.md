@@ -1,5 +1,9 @@
 # [⏪ Understand Communications](/README.md)
 
+> ⛔ If under 13 the references to sending and checking Gmail
+> refer to your parents. You will use a SkilStak email address alias
+> until you are old enough to set one up for yourself.
+
 Learning how to communicate while you are here is very important
 to avoid misunderstanding, so let's go over the methods of communication
 we use.
