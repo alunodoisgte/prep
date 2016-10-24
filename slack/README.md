@@ -4,9 +4,9 @@
 rememeber from this Prep course.** Everything else depends on it.
 
 Each school or group has their own Slack Chat room. This tool helps
-you with many important things
+you with many important things:
 
-1. You find your workbook invites in your course channel (ex: #prep)
+1. You find your workbook invites in your course channel (ex: `#prep`)
 1. You can ask questions about anything
 1. You can make and stay connected with friends
 1. You can coordinate your work on projects with your team
