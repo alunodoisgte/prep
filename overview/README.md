@@ -120,6 +120,9 @@ computers speak.
 > Concepts: Digital Recess, Netiquette, Social Skills, Minecraft,
 > Agar.io, Class Progress Review
 
+> 🍎 Digital recess is omitted from 60-minute classes and many on-site
+> school programs where there is ample opportunity for *real* recess.
+
 ![minecraft](/assets/minecraft1.gif)
 
 *Digital Recess* is a term we came up with after watching students
