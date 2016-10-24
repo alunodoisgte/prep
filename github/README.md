@@ -7,8 +7,31 @@
 ## Table of Contents
 
 
-![](/assets/github-account-name.png)
-![](/assets/github-profile.png)
+## “Facebook for Developers”
+
+Although people call it that, it is so much more. We have had
+students approached for jobs based on what was in their GitHub repo.
+Those seeking qualified candidates—particularly with hard to find
+skills—regularly search GitHub for repos containing what they are
+after. Colleges and other schools use GitHub as a portfolio of sorts
+when examining the work and community activity of a potential
+candidate. Some would go so far as to say that if you do *not* have
+a GitHub profile demonstrating your work and activity that you are
+simple are irrelevant. Are there successful, amazing, brilliant
+engineers who are *not* on GitHub? Of course, but the ones that are
+getting the visibility and the jobs of their choice are.
+
+> 💬 One of the saddest realities about the tech work force in big
+> companies in particular is that they become walled off from
+> innovation and new discoveries happening outside their own
+> enterprise. Many careers have died when such individuals suddenly
+> find themselves looking for a job with a toll box full of old,
+> rusted, dull tools. Keep your tools sharp at all times, no matter
+> where you are working. Imagine if a doctor, or even an orthodontist
+> did not keep up on new technologies and techniques. Yet somehow
+> technologists get lulled into thinking they are not required to hold
+> themselves to the same standard of up-to-date-ness.
+
 ![](/assets/github1.png)
 ![](/assets/github2.png)
 ![](/assets/github3.png)
