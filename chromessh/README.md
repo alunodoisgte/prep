@@ -1,7 +1,7 @@
 # [⏪ Login with Chrome SSH Extension](/README.md)
 
-> 🍎 Students under 13 will need to have their parents set this up for
-> them at home on the PC the student will be using since they will not
+> 🍎 **Students under 13 will need to have their parents set this up for
+> them at home on the PC the student will be using** since they will not
 > have a full Gmail account at SkilStak™, which is required to 
 > add any extension. Parents can
 > follow these steps and consult with their location manager for
