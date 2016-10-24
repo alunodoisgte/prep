@@ -37,10 +37,9 @@ Click on the diagram to download a printable PDF.
 > Concepts: Play, Prep, Yoga, NewMedia, Code.org, 
 > CodeCombat.com, Digital Recess, Gentle Introduction
 
-*Play*, *Prep*, *[Yoga][]*, and *[NewMedia][]* are all at
-the *Preparation* level. Stuff here is designed to prepare and 
-maintain your programming and other technical skills as you
-build them. 
+*Prep*, *[Yoga][]*, and *[NewMedia][]* are all at the *Preparation*
+level. Stuff here is designed to prepare and maintain your programming
+and other technical skills as you build them.
 
 ### [⏫ Code and Play™](#)
 
@@ -52,13 +51,10 @@ time coding on [Code.org](http://code.org) and
 class is entirely dedicated to mini-projects and [*Digital
 Recess*](http://recess.skilstak.io).
 
-> ⛔ The primary challenge for this group is learning to remember an
-> email address and password (provided to them by their parents).
-
-Depending on the location *Play* is offered either as a weekly course
-offering (like *Prep*) or as a periodic camp. Frequently *Play* is
-offered as a 4-day, 3-hours-a-day, Summer camp where students can
-enjoy the company of lots of other campers with similar interests.
+> 💬 Depending on the location *Play* may not be offered at all
+> or offered only as a periodic camp or workshop. Frequently *Play* is
+> offered as a 4-day, 3-hours-a-day, Summer camp where students can
+> enjoy the company of lots of other campers with similar interests.
 
 > 🍎 Teachers considering *Play* should ensure there is adequate room
 > in the weekly schedule remaining after having scheduled *Prep*,
