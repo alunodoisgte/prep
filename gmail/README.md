@@ -1,5 +1,8 @@
 # [⏪ Create Google Gmail Account](/README.md)
 
+> 🍎 Every participant in any SkilStak™ offering will need an email to
+> use. Under 13 we provide. 13 and over the student needs to provide.
+
 ![](/assets/gmail.png)
 
 Having a Google account is an absolute essential today and **required
