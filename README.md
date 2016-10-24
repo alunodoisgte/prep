@@ -74,7 +74,7 @@ please be patient and thorough.
   7. [**Accept the Prep Work Repo Invite**](slack/README.md#user-content--accept-the-prep-work-repo-invite)
 9. [**Create GitHub Account** (`github`)](github/README.md)
   1. [**“Facebook for Developers”**](github/README.md#user-content--facebook-for-developers)
-  2. [****](github/README.md#user-content--)
+  2. [**Sign Up**](github/README.md#user-content--sign-up)
 10. [**Complete the Markdown Tutorial** (`markdown`)](markdown/README.md)
 11. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Course Map Diagram**](offerings/README.md#user-content--course-map-diagram)

@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [**“Facebook for Developers”**](#user-content--facebook-for-developers)
-2. [****](#user-content--)
+2. [**Sign Up**](#user-content--sign-up)
 
 ## [⏫ “Facebook for Developers”](#)
 
@@ -34,7 +34,11 @@ getting the visibility and the jobs of their choice are.
 > technologists get lulled into thinking they are not required to hold
 > themselves to the same standard of up-to-date-ness.
 
-## [⏫ 
+## [⏫ Sign Up](#)
+
+Make sure you are in pIncognito if you are on a public Chrome web
+browser. Go to [github.com](http://github.com) in your web browser.
+
 ![](/assets/github1.png)](#)
 ![](/assets/github2.png)
 ![](/assets/github3.png)

@@ -27,7 +27,7 @@ Not only does Google Chrome comply with the existing standards but
 often implements them well before the standard has been adopted by any
 other browser. Frequently Chrome is the first to implement it.
 
-## [⏫ ⏪ Use Chrome Incognito](#)
+## [⏫ Use Chrome Incognito](#)
 
 Whenever you use a web browser on a system you do not trust, even here
 since the student sitting in your chair after you might not even know
