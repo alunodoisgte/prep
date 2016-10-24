@@ -5,6 +5,37 @@ give away your real name, but some people include some part of their
 real name in it. That is up to you (and your parents). *Your screen
 name will be known to the public.*
 
+## [⏫ Anonymous If You Wish](#)
+
+Many will create a screen name that does not give any information
+about you in the name itself. `smokiemario`, `l33thacks`, `robmuh` are
+examples of different screen names that keep your information
+anonymous. You can certain include your name if you wish (and your
+parents approve). **Remember that your screen name will be publically
+associated with any projects you put on GitHub as well as your
+SkilStak™ achievements and profile.** All of these things can be
+disabled at your request if you wish all your SkilStak™ work to remain
+completely anonymous.
+
+> 💬 SkilStak™ will never require that you put anything onto the
+> Internet including any GitHub repos. Your workbook repos are private
+> and only seen by you and your location manager and SkilStak™ staff.
+> Not even your parents can see your workbook repos without you
+> showing it to them, which we expect you will do when asked.
+
+## [⏫ All Lowercase](#)
+
+Because your screen name will be used for your `skilstak.sh` login,
+email, and more you want to pick a lowercase name. This also avoids
+having things go wrong with your web site when you create it on
+GitHub.
+
+## [⏫ At Least Three Characters](#)
+
+It is hard to find unique names that are less than three
+characters—especially on GitHub where your screen name will be used as
+the account name there.
+
 ## [⏫ Handling Duplicates](#)
 
 Often your name will already be taken. Most will just add a number

@@ -32,7 +32,10 @@ please be patient and thorough.
   5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
       <br>💡 First Time Registration ◦ All Start in Prep
 2. [**Pick a Screen Name** (`screenname`)](screenname/README.md)
-  1. [**Handling Duplicates**](screenname/README.md#user-content--handling-duplicates)
+  1. [**Anonymous If You Wish**](screenname/README.md#user-content--anonymous-if-you-wish)
+  2. [**All Lowercase**](screenname/README.md#user-content--all-lowercase)
+  3. [**At Least Three Characters**](screenname/README.md#user-content--at-least-three-characters)
+  4. [**Handling Duplicates**](screenname/README.md#user-content--handling-duplicates)
 3. [**Overview** (`overview`)](overview/README.md)
   1. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
