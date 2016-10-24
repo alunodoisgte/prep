@@ -1,5 +1,9 @@
 # [⏪ Pick a Screen Name](/README.md)
 
+> 🍎 All SkilStak™ participants need a screen name including those
+> enrolled in semester courses, workshops, on-site school programs,
+> and one-time camps.
+
 A screen name is a name to use on the screen that usually does not
 give away your real name, but some people include some part of their
 real name in it. That is up to you (and your parents). *Your screen
