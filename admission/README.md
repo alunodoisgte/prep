@@ -187,16 +187,17 @@ All first-time students who are under 13 are automatically assessed
 a $50 admission fee to cover the cost of the following work:
 
 1. Adding parents to [mailing list](http://mailing.skilstak.io)
-1. Creating the [SkilStak Gmail addresses](http://gmail.skilstak.io)
+1. Creating student’s [SkilStak™ Gmail aliases](http://gmail.skilstak.io)
 1. Adding student to [Slack chat room](http://slack.skilstak.io)
 1. Creating [CodeCombat accounts](http://coco.skilstak.io)
-1. Create a [GitHub account](http://github.skilstak.io)
-1. Create a [`skilstak.sh`](http://cli.skilstak.io)
-1. Configure [GitHub keys](http://keys.skilstak.io)
+1. Creating a [GitHub account](http://github.skilstak.io)
+1. Creating a [`skilstak.sh`](http://cli.skilstak.io)
+1. Configuring [GitHub keys](http://keys.skilstak.io)
 
 Those students 13 and up have the option of waving this fee and doing
 these things themselves with their parents at home either before or
-during their Prep course.
+during their Prep course. Otherwise, they can pay the admission fee
+to save themselves the extra work.
 
 ### [⏫ Late Registration](#)
 
