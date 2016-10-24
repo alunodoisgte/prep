@@ -2,9 +2,8 @@
 
 > 🍎 Students under 13 will need to have their parents set this up for
 > them at home on the PC the student will be using since they will not
-> have a full Gmail account at SkilStak™ required to allow them to
-> login in such a way that would allow them to add the extension to
-> their Google Chrome account, which depends on Gmail. Parents can
+> have a full Gmail account at SkilStak™, which is required to 
+> add any extension. Parents can
 > follow these steps and consult with their location manager for
 > assistance helping them through this setup at home.
 
