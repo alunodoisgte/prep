@@ -1,6 +1,6 @@
 # [⏪ Create Google Gmail Account](/README.md)
 
-> 🍎 Everyone as SkilStak™ needs a gmail account to
+> 🍎 Everyone at SkilStak™ needs a gmail account to
 > use. Under 13 we provide. Students 13 and over need to provide their
 > own.
 
