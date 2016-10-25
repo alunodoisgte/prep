@@ -13,11 +13,10 @@
 to come later. Some of the stuff might seem boring—but it is
 important, administrative stuff that will be referred back to by
 you, instructors, and your parents for as long as you are here. So
-please be patient.
-
-The good news is that **you won’t actually have to read all 200
-pages or so** of Prep course textbook. You will go over it in class
-with your instructor and can knock out several lessons in a day.
+please be patient. The good news is that **you won’t actually have
+to read all 200 pages or so** of Prep course textbook. You will go
+over it in class with your instructor and can knock out several
+lessons in a day.
 
 
 > 📖 All [*SkilStak™ GitHub Textbooks*][t] come with automatic *Table of
