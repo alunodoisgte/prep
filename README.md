@@ -26,21 +26,7 @@ lessons in a day.
 
 ## Table of Contents
 
-1. [**Admission** (`admission`)](admission/README.md)
-  1. [**Am I Ready?**](admission/README.md#user-content--am-i-ready)
-      <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
-  2. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
-      <br>💡 15 Minute Admission Test ◦ Passwords ◦ Reading Comprehension ◦ Basic Math ◦ Free Audit
-  3. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
-  4. [**Fees**](admission/README.md#user-content--fees)
-  5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
-      <br>💡 First Time Registration ◦ All Start in Prep
-2. [**Pick a Screen Name** (`screenname`)](screenname/README.md)
-  1. [**Anonymous If You Wish**](screenname/README.md#user-content--anonymous-if-you-wish)
-  2. [**All Lowercase**](screenname/README.md#user-content--all-lowercase)
-  3. [**At Least Three Characters**](screenname/README.md#user-content--at-least-three-characters)
-  4. [**Handling Duplicates**](screenname/README.md#user-content--handling-duplicates)
-3. [**Overview** (`overview`)](overview/README.md)
+1. [**Overview** (`overview`)](overview/README.md)
   1. [**Why Code?**](overview/README.md#user-content--why-code)
       <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
   2. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
@@ -53,6 +39,20 @@ lessons in a day.
       <br>💡 Prep Projects ◦ Project Based Learning
   6. [**Digital Recess**](overview/README.md#user-content--digital-recess)
       <br>💡 Digital Recess ◦ Netiquette ◦ Social Skills ◦ Minecraft ◦ Agar.io ◦ Class Progress Review
+2. [**Admission** (`admission`)](admission/README.md)
+  1. [**Am I Ready?**](admission/README.md#user-content--am-i-ready)
+      <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
+  2. [**Basic Admission Test**](admission/README.md#user-content--basic-admission-test)
+      <br>💡 15 Minute Admission Test ◦ Passwords ◦ Reading Comprehension ◦ Basic Math ◦ Free Audit
+  3. [**No Age Limit**](admission/README.md#user-content--no-age-limit)
+  4. [**Fees**](admission/README.md#user-content--fees)
+  5. [**Register Anytime**](admission/README.md#user-content--register-anytime)
+      <br>💡 First Time Registration ◦ All Start in Prep
+3. [**Pick a Screen Name** (`screenname`)](screenname/README.md)
+  1. [**Anonymous If You Wish**](screenname/README.md#user-content--anonymous-if-you-wish)
+  2. [**All Lowercase**](screenname/README.md#user-content--all-lowercase)
+  3. [**At Least Three Characters**](screenname/README.md#user-content--at-least-three-characters)
+  4. [**Handling Duplicates**](screenname/README.md#user-content--handling-duplicates)
 4. [**Be Willing and Able to Read, A Lot** (`read`)](read/README.md)
 5. [**Google Chrome Web Browser** (`chrome`)](chrome/README.md)
   1. [**Why Google Chrome?**](chrome/README.md#user-content--why-google-chrome)
