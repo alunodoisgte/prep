@@ -191,7 +191,7 @@ a $50 admission fee to cover the cost of the following work:
 1. Adding student to [Slack chat room](http://slack.skilstak.io)
 1. Creating [CodeCombat accounts](http://coco.skilstak.io)
 1. Creating a [GitHub account](http://github.skilstak.io)
-1. Creating a [`skilstak.sh`](http://cli.skilstak.io)
+1. Creating a [`skilstak.sh`](http://cli.skilstak.io) account
 1. Configuring [GitHub keys](http://keys.skilstak.io)
 
 Those students 13 and up have the option of waving this fee and doing
