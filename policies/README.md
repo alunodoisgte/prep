@@ -3,6 +3,25 @@
 Blah, blah. Yeah, I know. Policies are lame. But it is kinda important
 that you—and more importantly—your parents understand them. 
 
+## Table of Contents
+
+1. [**Payment**](#user-content--payment)
+2. [**Strikes**](#user-content--strikes)
+3. [**Destruction of Property**](#user-content--destruction-of-property)
+4. [**Violation of Privacy, Information Theft**](#user-content--violation-of-privacy-information-theft)
+5. [**No Refunds**](#user-content--no-refunds)
+6. [**Referral Bonus**](#user-content--referral-bonus)
+7. [**First Paid, First Registered**](#user-content--first-paid-first-registered)
+8. [**Changing Classes**](#user-content--changing-classes)
+9. [**Four Students Minimum Required to Hold Course**](#user-content--four-students-minimum-required-to-hold-course)
+10. [**Learning to Code Demands Regular Attendance**](#user-content--learning-to-code-demands-regular-attendance)
+11. [**Makeups**](#user-content--makeups)
+12. [**Loss of Eligibility**](#user-content--loss-of-eligibility)
+13. [**Parent Visits**](#user-content--parent-visits)
+14. [**Understand Communications**](#user-content--understand-communications)
+15. [**Staff Rebates**](#user-content--staff-rebates)
+16. [**PayPal**](#user-content--paypal)
+
 ## [⏫ Payment](#)
 
 All payment is due in advance by the posted deadline, no exceptions.
