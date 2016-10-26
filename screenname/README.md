@@ -9,6 +9,13 @@ give away your real name, but some people include some part of their
 real name in it. That is up to you (and your parents). *Your screen
 name will be known to the public.*
 
+## [⏫ Be Creative](#)
+
+This is an opportunity to create your own handle, call sign, and
+nickname, like astronauts, hackers or air force pilots. Your
+instructors and teacher assistants will usually call you by your
+screen name instead of your actual name. 
+
 ## [⏫ Anonymous If You Wish](#)
 
 Many will create a screen name that does not give any information
