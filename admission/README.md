@@ -193,13 +193,13 @@ eight to eighteen *anyone* of *any* age can seek admission.
 All first-time students who are under 13 are automatically assessed
 a $50 admission fee to cover the cost of the following work:
 
-1. Adding parents to [mailing list](http://mailing.skilstak.io)
-1. Creating student’s [SkilStak™ Gmail aliases](http://gmail.skilstak.io)
-1. Adding student to [Slack chat room](http://slack.skilstak.io)
-1. Creating [CodeCombat accounts](http://coco.skilstak.io)
-1. Creating a [GitHub account](http://github.skilstak.io)
-1. Creating a [`skilstak.sh`](http://cli.skilstak.io) account
-1. Configuring [GitHub keys](http://keys.skilstak.io)
+1. Add parents to [mailing list](http://mailing.skilstak.io)
+1. Create student’s [SkilStak™ Gmail aliases](http://gmail.skilstak.io)
+1. Add student to [Slack chat room](http://slack.skilstak.io)
+1. Create [CodeCombat accounts](http://coco.skilstak.io)
+1. Create a [GitHub account](http://github.skilstak.io)
+1. Create a [`skilstak.sh`](http://cli.skilstak.io) account
+1. Configure [GitHub keys](http://keys.skilstak.io)
 
 Those students 13 and up have the option of waving this fee and doing
 these things themselves with their parents at home either before or
