@@ -30,7 +30,7 @@ OER movement continues and classrooms become more digital.
 
 > ⛔ The course materials themselves are written at about an 
 > 12-year-old reading comprehension level except in key portions of
-> lessons where students would be likely to learn. Then we have aimed
+> lessons where students would be likely to read. Then we have aimed
 > for a 9-year-old level. It is very likely you as the parent or
 > teacher will have to paraphrase or simplify how the material is
 > written here for your particular students.
