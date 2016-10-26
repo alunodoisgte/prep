@@ -23,6 +23,7 @@ that don’t:
 
 1. [**Am I Ready?**](#user-content--am-i-ready)
  1. [**Primary Requirements for Enrollment**](#user-content--primary-requirements-for-enrollment)
+ 2. [**Math Requirement**](#user-content--math-requirement)
 2. [**Basic Admission Test**](#user-content--basic-admission-test)
  1. [**Reading Comprehension**](#user-content--reading-comprehension)
  2. [**Self Expression, Basic Typed Communication**](#user-content--self-expression-basic-typed-communication)
@@ -81,7 +82,7 @@ with their printed passwords on it.
 > with every account URL, account [Gmail alias](http://gmail.skilstak.io)
 > used, and initial unique password.
 
-### Math Requirement
+### [⏫ Math Requirement](#)
 
 As for the math, well, unfortunately our public education system
 is woefully bad at bringing most students to even a fundamental
