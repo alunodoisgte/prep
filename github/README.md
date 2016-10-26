@@ -30,9 +30,7 @@ Those seeking qualified candidates—particularly with hard to find
 skills—regularly search GitHub for repos containing what they are
 after. Colleges and other schools use GitHub as a portfolio of sorts
 when examining the work and community activity of a potential
-candidate. Some would go so far as to say that if you do *not* have
-a GitHub profile demonstrating your work and activity that you are
-simple are irrelevant. Are there successful, amazing, brilliant
+candidate. Are there successful, amazing, brilliant
 engineers who are *not* on GitHub? Of course, but the ones that are
 getting the visibility and the jobs of their choice are.
 
