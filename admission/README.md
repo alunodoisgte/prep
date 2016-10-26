@@ -23,7 +23,8 @@ that don’t:
 
 1. [**Am I Ready?**](#user-content--am-i-ready)
  1. [**Primary Requirements for Enrollment**](#user-content--primary-requirements-for-enrollment)
- 2. [**Math Requirement**](#user-content--math-requirement)
+ 2. [**Password Requirement**](#user-content--password-requirement)
+ 3. [**Math Requirement**](#user-content--math-requirement)
 2. [**Basic Admission Test**](#user-content--basic-admission-test)
  1. [**Reading Comprehension**](#user-content--reading-comprehension)
  2. [**Self Expression, Basic Typed Communication**](#user-content--self-expression-basic-typed-communication)
@@ -71,6 +72,8 @@ basic assessment test—before admitting *any* student.
 5. Not monopolize the attention of the instructor or TA
 6. Can do basic addition, subtraction, multiplication, and division
    with remainders
+
+### [⏫ Password Requirement](#)
 
 The hardest of these for most is remembering passwords and the math.
 
