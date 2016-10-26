@@ -162,10 +162,8 @@ helps combat this in a fun way.
 
 For instructors and teacher assistants this bit of time at the end
 of class provides a moment to review the class together, provide
-feedback, [pay staff rebates][rebates], and sometimes meet with a parent or
-two briefly.
-
-[rebates]: https://github.com/skilstak/prep/blob/gh-pages/sections/policies.md#staff-rebates
+feedback, [pay staff rebates](http://policies.skilstak.io), and
+sometimes meet with a parent or two briefly.
 
 ---
 [![home](/assets/home-blue.png)](/README.md)
