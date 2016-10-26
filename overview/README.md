@@ -41,7 +41,7 @@ parts:
 The [Prep Skills](#prep-skills) directly prepare you to
 continue on to [Fundamentals in Python](http://pyfun.skilstak.io)
 or [Fundamentals in Web](http://webfun.skilstak.io) then on to
-[Project](http://project.skilstak.io) and eventually
+[Projects](http://projects.skilstak.io) and eventually
 [Pro](http://pro.skilstak.io). Read more in *[Understanding Core
 Offerings](http://offerings.skilstak.io)*.
 
