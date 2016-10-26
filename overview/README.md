@@ -107,7 +107,7 @@ to prove you know it to move on, no waiting around for the next
 semester, even the next week. You move immediately when you want to
 and you can prove you are ready. 
 
-[Read more about *Prep Skills*](/skills/README.md)
+[Read more about *Prep Skills*](/README.md)
 
 ## [⏫ Prep Projects](#)
 
