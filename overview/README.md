@@ -71,7 +71,7 @@ of every class is dedicated to helping you through CodeCombat.
 
 ![desert](/assets/desert.png)
 
-> 💬 For some reason when traditional educators get a hold of something
+> 💬🍎 For some reason when traditional educators get a hold of something
 > they have to make an “educational” version instead of teaching the
 > *actual* thing in a way that is approachable. Examples of such
 > “educational” things meant to teach programming that can actually
