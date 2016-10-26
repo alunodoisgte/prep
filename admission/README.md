@@ -77,6 +77,13 @@ Any password strategy a parent and student can come up with works
 including sending the student to class every week with a new paper
 with their printed passwords on it.
 
+> 🍎 At admission every student should be given a card or print out
+> with every account URL, account email name used, and initial unique
+> password.
+
+
+### Math Requirement
+
 As for the math, well, unfortunately our public education system
 is woefully bad at bringing most students to even a fundamental
 [mastery](/mastery/README.md) of basic math no matter what the
