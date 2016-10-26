@@ -30,9 +30,13 @@ one full ***semester***. Each 90-minute class is divided into three
 parts:
 
 1. **30 minutes:** [CodeCombat](#codecombat)
-2. **30 minutes:** [Prep Skills](#prep-skills) or [Prep
+2. **45 minutes:** [Prep Skills](#prep-skills) or [Prep
    Projects](#prep-projects)
-3. **30 minutes:** [Digital Recess](#digital-recess)
+3. **15 minutes:** [Digital Recess](#digital-recess)
+
+> 💬 Sometimes this exact amount of time and order is modified
+> depending on the class—especially if you are in a Prep course that
+> is not at a SkilStak™ location.
 
 The [Prep Skills](#prep-skills) directly prepare you to
 continue on to [Fundamentals in Python](http://pyfun.skilstak.io)
@@ -40,6 +44,11 @@ or [Fundamentals in Web](http://webfun.skilstak.io) then on to
 [Project](http://project.skilstak.io) and eventually
 [Pro](http://pro.skilstak.io). Read more in *[Understanding Core
 Offerings](http://offerings.skilstak.io)*.
+
+> 🍎 The name *Prep* implies there is less coding happening, which is
+> true, but we do code in this course, just in a more controlled and
+> fun way before moving on to the more serious, challenging material
+> in *Fundamentals*.
 
 ## [⏫ CodeCombat](#)
 
