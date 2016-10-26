@@ -53,6 +53,8 @@ browser.
 
 [Incognito]: /chrome/README.md#user-content--use-chrome-incognito
 
+![](/assets/github1.png)
+
 ## [⏫ Pick a Lowercase Screen Name](#)
 
 > 🍎 Students who are under 13 likely have had this done already.
@@ -61,18 +63,18 @@ You want a lowercase GitHub name especially since it becomes a part of
 your web site address and every single Git URL you have to type to
 check out all your GitHub repos full of code later.
 
-![](/assets/github1.png)
+![](/assets/github2.png)
 
 ## [⏫ Select the Free Plan](#)
 
 No need for anything more—especially since as a student you get
 unlimited private repos when you apply for them.
 
-![](/assets/github2.png)
+![](/assets/github3.png)
 
 ## [⏫ Skip the Survey](#)
 
-![](/assets/github3.png)
+![](/assets/github4.png)
 
 ## [⏫ Start a Project](#)
 
@@ -80,17 +82,17 @@ We will go ahead and create a first project to have something to work
 with a little later. We will create a special project that will
 contain your personal web site hosted for free by GitHub.
 
-![](/assets/github4.png)
+![](/assets/github5.png)
 
 ## [⏫ Verify you Email Address](#)
 
-![](/assets/github5.png)
+![](/assets/github6.png)
 
 ## [⏫ Find the Email](#)
 
 And click on “verify email address”.
 
-![](/assets/github6.png)
+![](/assets/github7.png)
 
 ## [⏫ Create a New Repository](#)
 
@@ -98,7 +100,7 @@ We will name this a special name that GitHub uses to identify your
 personal web site. The name must be your exact account name, followed
 by `.github.io`.
 
-![](/assets/github7.png)
+![](/assets/github8.png)
 
 ## [⏫ Create a README](#)
 
@@ -106,7 +108,7 @@ In case you have not noticed yet, this entire course textbook is
 hosted on GitHub with `README.md` files. These are very convenient and
 powerful. Make one now.
 
-![](/assets/github8.png)
+![](/assets/github9.png)
 
 ## [⏫ Change the Name and Edit](#)
 
@@ -114,13 +116,13 @@ Rather than name this one `README.md`, which is good for most repos,
 we will name it `index.html` instead. This special file name is
 universally known to be the default web page to show on a web site.
 
-![](/assets/github9.png)
+![](/assets/github10.png)
 
 ## [⏫ Commit New File](#)
 
 Do not forget to `Commit` your work. This is the equivalent of save.
 
-![](/assets/github10.png)
+![](/assets/github11.png)
 
 ## [⏫ Change Your Profile Icon](#)
 
@@ -131,7 +133,6 @@ you in our achievements profile system.
 > 🍎 Teachers and parents should be aware of the image selected by the
 > student—especially for those under 13.
 
-![](/assets/github11.png)
 ![](/assets/github12.png)
 ![](/assets/github13.png)
 ![](/assets/github14.png)
