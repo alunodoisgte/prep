@@ -78,9 +78,8 @@ including sending the student to class every week with a new paper
 with their printed passwords on it.
 
 > 🍎 At admission every student should be given a card or print out
-> with every account URL, account email name used, and initial unique
-> password.
-
+> with every account URL, account [Gmail alias](http://gmail.skilstak.io)
+> used, and initial unique password.
 
 ### Math Requirement
 
