@@ -2,8 +2,8 @@
 
 > 🍎 This part is mostly for those applying for semester enrollment
 > and can be skipped by those doing on-site programs. It might be
-> worth reading for teachers and parents to give a sense of who this
-> course is for. We heavily summarize this for students under 13.
+> worth reading for teachers and parents to give some context.
+> We heavily summarize this information for students under 13.
 
 We welcome everyone to SkilStak™ from all backgrounds and abilities.
 In fact, often those that think coding might not be for them end up
@@ -45,10 +45,9 @@ One of the first questions everyone asks—particularly from those
 who have less technical background—is can they do it; can they code;
 are they ready for SkilStak™?
 
-The answer is **it depends.** Mostly it depends on the level of
-interest and motivation in the student, how willing they are to
-work hard and stick with it. **It has almost nothing to do
-with how smart a person is.** 
+Mostly it depends on the level of interest and motivation in the
+student, how willing they are to work hard and stick with it. **It
+has almost nothing to do with how smart a person is.**
 
 > 💬 “Grit trumps talent,” as one [Wall Street Journal][] notes.
 [Wall Street Journal]: http://www.wsj.com/articles/SB10001424052702304213904579095303368899132
