@@ -215,6 +215,17 @@ This is just the tip of the iceberg. Learning command line will help
 you dominate technology and harness its power for you to make amazing
 things.
 
+## [⏫ Changing Your Password](#)
+
+It is a good idea to change your password on the shell to something
+good. In fact, we regularly check for easy to crack passwords and will
+let you know when you need to make it harder.
+
+> ⛔ The most common way people break into computers is simply easy
+> passwords to guess that “brute force” programs easily figure out.
+
+![](/assets/passwd.gif)
+
 ---
 [![home](/assets/home-blue.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa-blue.png)][cc-by-sa]

@@ -233,6 +233,7 @@ lessons in a day.
   20. [**Save to GitHub**](cli/README.md#user-content--save-to-github)
   21. [**Stop the Fish**](cli/README.md#user-content--stop-the-fish)
   22. [**Just a Start**](cli/README.md#user-content--just-a-start)
+  23. [**Changing Your Password**](cli/README.md#user-content--changing-your-password)
 37. [**Understand Basic Algebra Math** (`math`)](math/README.md)
   1. [**You Can’t Program Without Math**](math/README.md#user-content--you-cant-program-without-math)
   2. [**How To Learn**](math/README.md#user-content--how-to-learn)
