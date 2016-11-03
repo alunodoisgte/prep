@@ -120,7 +120,7 @@ follows:
 
 1. Read a paragraph on a web page and answer questions about it
 2. Write 2-3 sentences describing why the student wants to attend
-3. Answer 2-3 math problems including remainders and 0-12 times tables 
+3. Answer 2-3 math problems including remainders and 0-11 times tables 
 
 This all happens during the 15 minutes that the student is on site
 at SkilStak™. The location manager, who is essentially the principal
