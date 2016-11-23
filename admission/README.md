@@ -88,7 +88,7 @@ with their printed passwords on it.
 ### [⏫ Math Requirement](#)
 
 As for the math, well, unfortunately our public education system
-is woefully bad at bringing most students to even a fundamental
+is woefully ineffective at bringing most students to even a fundamental
 [mastery](/mastery/README.md) of basic math no matter what the
 method of the day seems to be popular. While we have no professional
 or personal connection, we strongly recommend

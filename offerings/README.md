@@ -1,6 +1,6 @@
 # [⏪ Understand Core Offerings](/README.md)
 
-If we were at Disney Land then *Core Offerings* we be our directional
+If we were at Disney Land then *Core Offerings* would be our directional
 pillar.  You know those “you are here” things with a star helping
 you see where you fit into it all. So where is your star on our
 directional pillar? At the entrance?
@@ -8,18 +8,13 @@ directional pillar? At the entrance?
 ## Table of Contents
 
 1. [**Course Map Diagram**](#user-content--course-map-diagram)
-2. [**Level 1: Preparation**](#user-content--level-1-preparation)
- 1. [**Code and Play™**](#user-content--code-and-play)
- 2. [**Code and Prep™**](#user-content--code-and-prep)
- 3. [**Yoga**](#user-content--yoga)
- 4. [**New Media**](#user-content--new-media)
-3. [**Level 2: Proficiency**](#user-content--level-2-proficiency)
+2. [**Support**](#user-content--support)
+3. [**Preparation**](#user-content--preparation)
+4. [**Proficiency**](#user-content--proficiency)
  1. [**Fundamentals**](#user-content--fundamentals)
- 2. [**Certified Mastery**](#user-content--certified-mastery)
-4. [**Level 3: Projects**](#user-content--level-3-projects)
- 1. [**Focus Categories**](#user-content--focus-categories)
- 2. [**Custom Projects**](#user-content--custom-projects)
-5. [**Level 4: Professionals**](#user-content--level-4-professionals)
+ 2. [**Projects**](#user-content--projects)
+ 3. [**Proficiency Takes Time**](#user-content--proficiency-takes-time)
+5. [**Professional**](#user-content--professional)
  1. [**Incubator**](#user-content--incubator)
  2. [**Invite Only**](#user-content--invite-only)
  3. [**Projects SkilStak™ Most Wants to See Built**](#user-content--projects-skilstak-most-wants-to-see-built)
@@ -30,214 +25,133 @@ directional pillar? At the entrance?
 
 Click on the diagram to download a printable PDF.
 
-[![](/assets/core-offerings.png)](https://github.com/skilstak/prep/raw/gh-pages/assets/core-offerings.pdf)
+[![](/assets/core-offerings.png)](https://github.com/skilstak/posters/blob/gh-pages/skilstak-core-offerings.pdf)
 
-## [⏫ Level 1: Preparation](#)
+## [⏫ Support ](#)
 
-> Concepts: Play, Prep, Yoga, NewMedia, Code.org, 
-> CodeCombat.com, Digital Recess, Gentle Introduction
+> Concepts: New Media, Yoga, SUP, Hike 
 
-*Prep*, *[Yoga][]*, and *[NewMedia][]* are all at the *Preparation*
-level. Stuff here is designed to prepare and maintain your programming
-and other technical skills as you build them.
+Support offerings are there to supplement the rest of your technical
+learning. None of them are required for any reason other than this
+supplemental learning. For example, a programmer does not need to have
+a YouTube channel, blog, or Twitter account but understanding and
+using them create a well rounded technologist and keeping up on the
+latest developments.
 
-### [⏫ Code and Play™](#)
+Stand Up Paddleboarding, Yoga, and Hiking are things you can do to get
+your mind off of code and maintain your health, which is particularly
+challenging for those known to sit in front of screens hours at
+a time. Keeping your mind fresh, fit, and clear creates an environment
+where focus and creativity can thrive. You will have some of the best
+breakthroughs of your life while doing physical activities that have
+nothing to do with programming.
 
-This offering is the least intimidating and the most affordable.
-Designed particularly for younger students who have only been
-familiar with a keyboard for a short time, students spend half the
-time coding on [Code.org](http://code.org) and
-[CodeCombat.com](http://codecombat.com). The second half of each
-class is entirely dedicated to mini-projects and [*Digital
-Recess*](http://recess.skilstak.io).
+## [⏫ Preparation](#)
 
-> 💬 Depending on the location *Play* may not be offered at all
-> or offered only as a periodic camp or workshop. Frequently *Play* is
-> offered as a 4-day, 3-hours-a-day, Summer camp where students can
-> enjoy the company of lots of other campers with similar interests.
+Everyone starts in Prep. Prep classes are divided in three parts:
 
-> 🍎 Teachers considering *Play* should ensure there is adequate room
-> in the weekly schedule remaining after having scheduled *Prep*,
-> *Fundamentals*, *Projects*, and *Pro*. *Play* is always secondary to
-> these main core offerings.
+1. [Codecombat.com](/codecombat/README.md)
+2. Prep Skill
+3. Project Time
 
-### [⏫ Code and Prep™](#)
+Prep skills prepare students to program like professionals introducing
+them to pro tools in a fun way.
 
-> 💬 This offerings page is itself a part of the 
-> *[Prep Textbook](/README.md)*
+*Project Time* is for students to explore the different mini-projects
+available or create their own as they imagine what they would like to
+do with their skills and decide an initial focus for their learning.
 
-This is the first course everyone takes. Anyone can enter *Prep* at
-any time and the cost is prorated for the remaining classes in the
-semester.
-
-Students stay in *Prep* as long as then need and want. When they
-have completed the *Prep Skills* they can immediately move to
-*Fundamentals*.
+The length of time in this course varies dramatically based on the
+individual, their amount of time to focus on their preparation
+skills, and their overall aptitude and motivation.  As soon as a
+student can demonstrate they have mastered the *prep skills* they
+can move on without waiting for the next course.
 
 > 💬 Unlike other schools we never make any student wait for any
 > reason other than being prepared to move on. We also never move
 > anyone on before they are ready even if it means repeating
 > a course several times. Mastery is key.
 
-### [⏫ Yoga](#)
+## [⏫ Proficiency](#)
 
-This course can be taken at any time and has no prerequisites.
-The cost is significantly subsidized making it only available
-to current students enrolled in other courses. Often this will
-be the most affordable Yoga offering in the region and we
-wish to maintain a healthy relationship with other dedicated
-Yoga studios in the area, even though we generally rent or
-partner with them to provide our own Yoga course.
-
-Before you ask, yes Yoga is a technical skill, which is discussed
-more in the [SkilStak™ Yoga textbook][Yoga].
-
-### [⏫ New Media](#)
-
-This course can be taken at any time and has no prerequisites.
-
-The name represents all the new media used by technologist to maintain
-their personal learning networks and connect with others. It includes
-self publishing on YouTube and blogs and social media. 
-
-Read more in the *[NewMedia textbook][NewMedia]*
-
-## [⏫ Level 2: Proficiency](#)
-
-> Concepts: Fundamentals, Certification, Repetition,
-> Mastery, Technology Path, Python, Web, Digital Recess
+> Concepts: Fundamentals, Projects, Learning Styles,
+> Certification, Repetition, Mastery, Technology Path,
+> Python, Web
 
 Proficiency means being able to show that you are able to do
-something, that you are competent, that you know the Fundamentals
-well. The greater your level of proficiency the closer you get to
-mastery. The two *Fundamentals* courses at this level are designed
-to help you get proficient in coding, either in *[Python][]* or
-*[Web][]* depending on which *[technology path][]* you've chosen.
+something, that you are competent. Getting to this point is what
+*Proficiency* is all about. The greater your level of proficiency
+the closer you get to mastery. There are two courses designed for the
+two main types of learning styles.
 
 ### [⏫ Fundamentals](#)
 
-There are two courses at the *Proficiency* level:
+This course contains structured learning projects in sequence for those
+who respond to more structure and who eventually may want to certify.
+Each class group is divided into those wishing to follow the
+*[Python](http://pyfun.skilstak.io)* track and those who wish to
+learn *[Web](http://webfun.skilstak.io)* technology.
 
-1. [Fundamentals in Python](http://pyfun.skilstak.io)
-2. [Fundamentals in Web](http://webfun.skilstak.io)
+Each 90 minute session is divided as follows:
 
-This level is where things start getting more serious, but fun. Each
-90 minute course is divided into three parts:
-
-1. 15 minutes: Homework Review and Help (CodeCombat, etc.)
+1. 10 minutes: Homework Review and Personal Project Help
 2. 20 minutes: Instruction from Lesson
-3. 40 minutes: Class Work
-4. 15 minutes: [Digital Recess][] / Fundamentals Projects
+3. 30 minutes: Mentored Class Work
+4. 30 minutes: Mentor-Assisted Project Time
 
-[Digital Recess]: http://recess.skilstak.io
-[technology path]: http://path.skilstak.io
-
-Students are generally expected to work outside of class primarily on
-their CodeCombat levels. The first part of class is to help you get
-over those parts that you were stuck on over the week. You can also
-ask in the chat as well when you get stuck. Sometimes having someone
-there just helps the most.
+Students are generally expected to work outside of class on their
+personal projects and CodeCombat levels. The first part of class
+is to help you get over those parts that you were stuck on over the
+week. You can also ask in the chat as well when you get stuck.
+Sometimes having someone there just helps the most.
 
 The next part is to present the lesson material for the day. Then,
 after questions and answers, you break to work on the lesson for
-yourself in your subgroup with your TA.
+yourself in your subgroup with your Mentor/TA.
 
-The last part of class is the same *[Digital Recess][]* as Prep,
-but less. You are also encouraged to do one of the *Fundamentals
-Projects* instead.
+The last part of class is *Project Time*, which is the same as that
+from the *Projects* course.
 
-> Повторение – мать учения<br>
-> Repetition is the mother of learning
+These courses lead directly to [certification](http://certify.skilstak.io)
+if followed.
 
-Some may achieve proficiency in a month, others a year, others
-longer.  There are a lot of things that are involved in how quickly
-someone learns something. **The single biggest factor in learning
-something is the amount of time practicing the activity.** This
-means those who spend time outside of class working on stuff will
-advance faster. The smallest factor is aptitude and intelligence.
-Remember this. If you find yourself advancing more slowly than
-someone else it is very unlikely it is because you are “dumber”
-than them. Instead you should look at how much time each day that
-you are practicing and see if you can do more. It really is just
-as simple as that. If you want to get good, you have to practice.
-The sooner you learn that hard lesson the better.
+### [⏫ Projects](#)
 
-### [⏫ Certified Mastery](#)
+> Concepts: Exploration, Specialization, Montessori-ish, Logging,
+> Reporting
 
-You don’t leave the *Proficiency* level until you [certify][]
-that you have gained proficiency in either *[Python][]* or
-*[Web][]*. Think martial arts v.s. public school. You can’t
-earn a belt just because you changed grades. In fact, the more you
-think about it, the more you will realize any organization that is
-setup to advance students based on age and grade on a certain time
-table is, well, flawed. Everyone is different.
+This course contains customized learning opportunities and lessons
+designed for those who respond to less structure and desire more
+independence.
 
-## [⏫ Level 3: Projects](#)
+Each 90 minute session is divided as follows:
 
-> Concepts: Exploration, Specialization, Montessori-ish, Textbooks,
-> Workbooks, Focus Categories, Logging, Reporting, IDP,
-> Data, Apps, Game, Languages, Linux, Engineering, Custom Projects
+1. 10 minutes: Personal Project Help
+2. 20 minutes: Instruction from Customized Lesson
+3. 50 minutes: Mentor-Assisted Project Time
+4. 10 minutes: Reporting Time
 
-This level is for **exploration and specialization**.  Montessori
-has championed the idea that projects foster independence,
-accountability, internal drive, and ownership of one’s own learning.
-In that sense we agree a lot with the approach.
+Each class group is asked in advance specifically what they eventually
+want to be able to do and lessons are designed specifically with
+this goals in mind. Students are required to track their project work
+in a weekly GitHub log repo where they can declare changes to their
+project as well as their interests change. ***This report requirement
+is not optional.***
 
-We have prepared several project textbook/workbook combinations for
-the different *focus categories* and cataloged them for browsing
-and searching are constantly adding more. We also encourage you to
-explore things by creating and cataloging your own projects with
-the help of your mentor/instructor. Each project will have its own
-GitHub Classroom repo to archive and refer back to as well as a
-listing in your [SkilStak IDP](http://idp.skilstak.io).
+Every class has a 20 minute lesson but it is optional for students
+who may wish to put their headphones on and focus on their topic
+and skills independently. Students from different *Projects* classes
+may group informally with others working on similar goals.
 
-Students in *Projects* are required to log and report all the work they
-do in their GitHub workbooks.
+This course promotes **exploration and specialization** more than
+any other. Students may select one of the many project modules we
+have available or declare and design their own. SkilStak provides
+the resource support to help them complete their project in ways
+that would not be possible alone (expensive software packages and
+assets, hardware purchases, equipment, etc.).
 
-The *Projects* course can be taken repeatedly. Usually you will see
-*Projects* on the weekly schedule when signing up. Sometimes you
-will see one of the *focus categories* instead (*Engineering*,
-*Linux*, *Languages*, *Data*, *Apps*, *Game*). Students may register
-for more than one time during the week and usually there is one day
-during the week with two *Projects* slots back to back creating a
-3-hour block for those that want to sign up for both.
-
-### [⏫ Focus Categories](#)
-
-Currently there are five categories, each with a
-[certification](http://certify.skilstak.io) prerequisite. Read more
-details about each by following the links:
-
-1. [Python][] -> [Engineering][]
-1. [Python][] -> [Linux][]
-1. [Python][] or [Web][] -> [Languages][]
-1. [Python][] or [Web][] -> [Data][]
-1. [Web][] -> [Apps][]
-1. [Web][]  -> [Game][]
-
-[Yoga]: http://yoga.skilstak.io
-[NewMedia]: http://newmedia.skilstak.io
-[Web]: http://webfun.skilstak.io
-[Python]: http://pyfun.skilstak.io
-[Engineering]: http://eng.skilstak.io
-[Linux]: http://linux.skilstak.io
-[Languages]: http://lang.skilstak.io
-[Apps]: http://apps.skilstak.io
-[Game]: http://game.skilstak.io
-[Data]: http://data.skilstak.io
-[certify]: http://certify.skilstak.io
-
-Please don't confuse *focus categories* with a course although
-often students with a common focus category will be grouped together
-in a *Projects* class for convenience. Sometimes one *Projects*
-time will be dedicated to just one category and appear with that
-category name on the schedule.
-
-### [⏫ Custom Projects](#)
-
-In addition to the *focus categories* we encouraged students
-to come up with their own, (with the help of their mentor/instructor).
-For example:
+Students can work on their [certification](http://certify.skilstak.io)
+at their own pace or any number of other project including: 
 
 * Other Languages: Go, Node, Java, C/C++, Assembly, Swift, Ruby, Perl
 * Ethical Hacking: Kali Linux, Penetration Testing, Certification
@@ -254,13 +168,30 @@ For example:
 * Frontend frameworks: React, Redux, Angular, Ember
 * OAUTH Authentication
 
-One or more semesters of *Projects* courses prepares you well with
-stuff to show off in your GitHub repo so the world knows you have
-really solidify your mastery of programming and your specialization.
-Eventually you might want to pitch one or more of your current or
-future projects for the *Professional Incubator Program*.
+### [⏫ Proficiency Takes Time](#)
 
-## [⏫ Level 4: Professionals](#)
+> Повторение – мать учения<br>
+> Repetition is the mother of learning
+
+All courses are designed to be repeated as many times as necessary.
+This is not at all like most traditional education. You do not move
+until you have attained mastery, measured by certification and
+achievements.
+
+Some may achieve proficiency in a month, others a year, others
+longer.  There are a lot of things that are involved in how quickly
+someone learns something. **The single biggest factor in learning
+something is the amount of time practicing the activity.** This
+means those who spend time outside of class working on stuff will
+advance faster. The smallest factor is aptitude and intelligence.
+Remember this. If you find yourself advancing more slowly than
+someone else it is very unlikely it is because you are “dumber”
+than them. Instead you should look at how much time each day that
+you are practicing and see if you can do more. It really is just
+as simple as that. If you want to get good, you have to practice.
+The sooner you learn that hard lesson the better.
+
+## [⏫ Professional](#)
 
 > Concepts: Incubator, Industry Professionals, Tech Forums, 
 > Tech Conferences, Giving Back, Community Involvement,
@@ -271,12 +202,13 @@ future projects for the *Professional Incubator Program*.
 
 The [*Professional Incubator Program*][Pro] is for invite-only
 students who have moved well beyond mastering programming and
-demonstrated it well during *Projects* classes. These students are
-preparing to launch into higher education, entrepreneurship, or
-working for an organization. In *Projects* you built and explored
-stuff mostly for your own learning and curiosity, in *Pro* you work
-on **stuff that benefits others**, a client, a community, an
-organization. You are contributing, perhaps for free, perhaps not.
+demonstrated it well during *Fundamentals* or *Projects* classes.
+These students are preparing to launch into higher education,
+entrepreneurship, or working for an organization. In *Projects* you
+built and explored stuff mostly for your own learning and curiosity,
+in *Pro* you work on **stuff that benefits others**, a client, a
+community, an organization. You are contributing, perhaps for free,
+perhaps not.
 
 ### [⏫ Invite Only](#)
 
@@ -318,6 +250,10 @@ approved we want to do everything in our power to help you succeed in
 meeting your Pro project goals. This includes use of our lab, 3d
 printer, AV equipment, tools, drawing tables, and special high-end
 computers that might not be available to you otherwise.
+
+> 💬 This perk is also available to any student who has registered for
+> more than one course during a given time period (ex: two Projects
+> courses, or a Fundamentals and a Projects course in a single semester).
 
 [expectations]: https://github.com/skilstak/pro/blob/gh-pages/whats-pro.md#expectations
 [Pro]: http://pro.skilstak.io

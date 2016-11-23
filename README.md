@@ -95,13 +95,12 @@ lessons in a day.
 10. [**Complete the Markdown Tutorial** (`markdown`)](markdown/README.md)
 11. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Course Map Diagram**](offerings/README.md#user-content--course-map-diagram)
-  2. [**Level 1: Preparation**](offerings/README.md#user-content--level-1-preparation)
-      <br>💡 Play ◦ Prep ◦ Yoga ◦ NewMedia ◦ Code.org ◦ CodeCombat.com ◦ Digital Recess ◦ Gentle Introduction
-  3. [**Level 2: Proficiency**](offerings/README.md#user-content--level-2-proficiency)
-      <br>💡 Fundamentals ◦ Certification ◦ Repetition ◦ Mastery ◦ Technology Path ◦ Python ◦ Web ◦ Digital Recess
-  4. [**Level 3: Projects**](offerings/README.md#user-content--level-3-projects)
-      <br>💡 Exploration ◦ Specialization ◦ Montessori-ish ◦ Textbooks ◦ Workbooks ◦ Focus Categories ◦ Logging ◦ Reporting ◦ IDP ◦ Data ◦ Apps ◦ Game ◦ Languages ◦ Linux ◦ Engineering ◦ Custom Projects
-  5. [**Level 4: Professionals**](offerings/README.md#user-content--level-4-professionals)
+  2. [**Support**](offerings/README.md#user-content--support)
+      <br>💡 New Media ◦ Yoga ◦ SUP ◦ Hike
+  3. [**Preparation**](offerings/README.md#user-content--preparation)
+  4. [**Proficiency**](offerings/README.md#user-content--proficiency)
+      <br>💡 Fundamentals ◦ Projects ◦ Learning Styles ◦ Certification ◦ Repetition ◦ Mastery ◦ Technology Path ◦ Python ◦ Web ◦ Exploration ◦ Specialization ◦ Montessori-ish ◦ Logging ◦ Reporting
+  5. [**Professional**](offerings/README.md#user-content--professional)
       <br>💡 Incubator ◦ Industry Professionals ◦ Tech Forums ◦ Tech Conferences ◦ Giving Back ◦ Community Involvement ◦ Resumes ◦ Recruiting ◦ Unlimited Attendance ◦ Financial Backing ◦ Freelance Support ◦ Client Work ◦ Agile Management
 12. [**Pick a Path** (`path`)](path/README.md)
   1. [**Python**](path/README.md#user-content--python)
