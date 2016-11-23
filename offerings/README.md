@@ -8,7 +8,7 @@ directional pillar? At the entrance?
 ## Table of Contents
 
 1. [**Course Map Diagram**](#user-content--course-map-diagram)
-2. [**Support **](#user-content--support)
+2. [**Support**](#user-content--support)
 3. [**Preparation**](#user-content--preparation)
 4. [**Proficiency**](#user-content--proficiency)
  1. [**Fundamentals**](#user-content--fundamentals)
@@ -27,7 +27,7 @@ Click on the diagram to download a printable PDF.
 
 [![](/assets/core-offerings.png)](https://github.com/skilstak/posters/blob/gh-pages/skilstak-core-offerings.pdf)
 
-## [⏫ Support ](#)
+## [⏫ Support](#)
 
 > Concepts: New Media, Yoga, SUP, Hike 
 

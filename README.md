@@ -83,7 +83,7 @@ lessons in a day.
 10. [**Complete the Markdown Tutorial** (`markdown`)](markdown/README.md)
 11. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Course Map Diagram**](offerings/README.md#user-content--course-map-diagram)
-  2. [**Support **](offerings/README.md#user-content--support)
+  2. [**Support**](offerings/README.md#user-content--support)
       <br>💡 New Media ◦ Yoga ◦ SUP ◦ Hike
   3. [**Preparation**](offerings/README.md#user-content--preparation)
   4. [**Proficiency**](offerings/README.md#user-content--proficiency)
