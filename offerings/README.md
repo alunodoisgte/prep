@@ -8,7 +8,7 @@ directional pillar? At the entrance?
 ## Table of Contents
 
 1. [**Course Map Diagram**](#user-content--course-map-diagram)
-2. [**Support**](#user-content--support)
+2. [**Support **](#user-content--support)
 3. [**Preparation**](#user-content--preparation)
 4. [**Proficiency**](#user-content--proficiency)
  1. [**Fundamentals**](#user-content--fundamentals)

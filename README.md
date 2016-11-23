@@ -26,19 +26,7 @@ lessons in a day.
 
 ## Table of Contents
 
-1. [**Overview** (`overview`)](overview/README.md)
-  1. [**Why Code?**](overview/README.md#user-content--why-code)
-      <br>💡 Code.org ◦ Why Code? ◦ Hour of Code ◦ Coding
-  2. [**What is Prep?**](overview/README.md#user-content--what-is-prep)
-      <br>💡 Class Format ◦ Semester ◦ Weekly Schedule
-  3. [**CodeCombat**](overview/README.md#user-content--codecombat)
-      <br>💡 CodeCombat.com ◦ Computational Thinking ◦ Real Programming ◦ Ignorance in Educational Institutions
-  4. [**Prep Skills**](overview/README.md#user-content--prep-skills)
-      <br>💡 Prep Skills ◦ Mastery ◦ Advancement
-  5. [**Prep Projects**](overview/README.md#user-content--prep-projects)
-      <br>💡 Prep Projects ◦ Project Based Learning
-  6. [**Digital Recess**](overview/README.md#user-content--digital-recess)
-      <br>💡 Digital Recess ◦ Netiquette ◦ Social Skills ◦ Minecraft ◦ Agar.io ◦ Class Progress Review
+1. [**Why Code?** (`why`)](why/README.md)
 2. [**Admission** (`admission`)](admission/README.md)
   1. [**Am I Ready?**](admission/README.md#user-content--am-i-ready)
       <br>💡 Minimum Requirements ◦ Maturity ◦ Level of Understanding ◦ Motor Skills
@@ -95,7 +83,7 @@ lessons in a day.
 10. [**Complete the Markdown Tutorial** (`markdown`)](markdown/README.md)
 11. [**Understand Core Offerings** (`offerings`)](offerings/README.md)
   1. [**Course Map Diagram**](offerings/README.md#user-content--course-map-diagram)
-  2. [**Support**](offerings/README.md#user-content--support)
+  2. [**Support **](offerings/README.md#user-content--support)
       <br>💡 New Media ◦ Yoga ◦ SUP ◦ Hike
   3. [**Preparation**](offerings/README.md#user-content--preparation)
   4. [**Proficiency**](offerings/README.md#user-content--proficiency)
