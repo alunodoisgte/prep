@@ -1,4 +1,4 @@
-# [📖 Preparation][work]
+# Preparation
 [work]: http://github.com/skilstak/prep-work/blob/gh-pages/README.md
 
 >  💬 [This *text*book goes with a *work*book][work]. Students get
